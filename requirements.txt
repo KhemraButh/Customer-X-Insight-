@@ -1,0 +1,6 @@
+streamlit
+streamlit-javascript
+streamlit-folium
+folium
+pillow
+pandas
