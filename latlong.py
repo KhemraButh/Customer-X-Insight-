@@ -20,8 +20,10 @@ st.set_page_config(page_title="Customer Network Builder", layout="wide")
 
 # Configuration
 DB_NAME = "customer_locations.db"
-IMAGE_DIR = "/Users/thekhemfee/Downloads/Customer_Network/customer_images"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+IMAGE_DIR = os.path.join(BASE_DIR, "customer_images")
 os.makedirs(IMAGE_DIR, exist_ok=True)
+
 
 # This should already be in your code
 
