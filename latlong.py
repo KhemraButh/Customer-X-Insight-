@@ -114,7 +114,7 @@ def get_image_html(image_path):
 col1, col2, col3 = st.columns([1, 6, 1])  # Added empty third column for balance
 
 with col1:
-    st.image("/Users/thekhemfee/Downloads/Customer_Network/CusXRealTime/Logo-CMCB_FA-15.png", width=100)
+    st.image("Logo-CMCB_FA-15.png", width=100)
 
 with col2:
     st.markdown("""
