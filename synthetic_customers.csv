@@ -1,0 +1,1001 @@
+name,phone,type,character,loan_his,bank,amount,term,address,lat,lon,notes,time_visit,image_path,timestamp
+Customer 1,0100000,Street Food Stall,Talkative and Engaging,Once,Wing,4954.26,18M,"Street 438, Phnom Penh",11.59566096168802,104.92000278191131,Need follow-up,12:00 AM,,2025-06-08 01:23:51
+Customer 2,0100001,Street Food Stall,Aggressive or Pushy,Many times,Cambodia Post Bank,6138.65,18M,"Street 210, Phnom Penh",11.551719822051478,104.91527310308648,Need follow-up,5:00 AM,,2025-06-16 01:23:51
+Customer 3,0100002,Restaurant/Café,Skeptical or Distrustful,Many times,None,6755.28,18M,"Street 112, Phnom Penh",11.526641473711049,104.91851078105135,No answer,7:00 AM,,2025-06-15 01:23:51
+Customer 4,0100003,Agriculture/Farming,Talkative and Engaging,Many times,Cambodia Post Bank,4615.69,24M,"Street 97, Phnom Penh",11.554540876219342,104.92498069980684,Interested,9:00 AM,,2025-05-28 01:23:51
+Customer 5,0100004,Electronics & Appliances,Quiet and Reserved,Many times,Cambodia Post Bank,6916.58,6M,"Street 408, Phnom Penh",11.580474481665584,104.86832288740574,Interested,1:00 AM,,2025-05-26 01:23:51
+Customer 6,0100005,Restaurant/Café,Friendly and Open,Many times,Cambodia Post Bank,3385.62,24M,"Street 223, Phnom Penh",11.521965103406629,104.91089714412291,Interested,8:00 AM,,2025-06-04 01:23:51
+Customer 7,0100006,Street Food Stall,Skeptical or Distrustful,Never,ACLEDA,5680.23,18M,"Street 85, Phnom Penh",11.560886700990753,104.86151016173748,Need follow-up,9:00 AM,2025-06-23 01.01.50.jpg,2025-06-23 01:23:51
+Customer 8,0100007,Repair Services,Very Welcoming,Once,ABA,7527.23,12M,"Street 69, Phnom Penh",11.550383219987763,104.93609604807045,Interested,9:00 AM,,2025-05-29 01:23:51
+Customer 9,0100008,Agriculture/Farming,Talkative and Engaging,Never,Cambodia Post Bank,2618.94,24M,"Street 452, Phnom Penh",11.583033515709298,104.90485188094488,No answer,3:00 AM,2025-06-23 01.02.39.jpg,2025-06-14 01:23:51
+Customer 10,0100009,Electronics & Appliances,Interested but Cautious,Many times,None,8740.95,24M,"Street 74, Phnom Penh",11.588408508115519,104.91839475953716,Interested,1:00 AM,,2025-06-06 01:23:51
+Customer 11,0100010,Tourism/Hospitality,Busy or in a Hurry,Never,ABA,4617.28,24M,"Street 359, Phnom Penh",11.536844132372044,104.90270361395987,Interested,6:00 AM,,2025-06-13 01:23:51
+Customer 12,0100011,Fashion & Clothing,Talkative and Engaging,Once,None,5920.27,18M,"Street 452, Phnom Penh",11.5449754799435,104.90987161545846,No answer,2:00 AM,,2025-06-11 01:23:51
+Customer 13,0100012,Fashion & Clothing,Uninterested,Once,Cambodia Post Bank,7052.76,6M,"Street 295, Phnom Penh",11.537263651689958,104.89949871337208,Interested,1:00 AM,,2025-06-03 01:23:51
+Customer 14,0100013,Street Food Stall,Talkative and Engaging,Many times,None,3229.69,12M,"Street 249, Phnom Penh",11.532179221066265,104.90300153221855,Need follow-up,10:00 AM,,2025-06-08 01:23:51
+Customer 15,0100014,General Retail,Friendly and Open,Many times,ACLEDA,9824.12,24M,"Street 311, Phnom Penh",11.531351590671997,104.90275163494957,Need follow-up,3:00 AM,,2025-06-21 01:23:51
+Customer 16,0100015,Fashion & Clothing,Quiet and Reserved,Once,Wing,3768.72,12M,"Street 189, Phnom Penh",11.557086465351858,104.94137137970208,Need follow-up,4:00 AM,,2025-06-18 01:23:51
+Customer 17,0100016,Electronics & Appliances,Busy or in a Hurry,Once,ACLEDA,9741.01,24M,"Street 269, Phnom Penh",11.521677050279344,104.9245041826009,Interested,6:00 AM,,2025-06-20 01:23:51
+Customer 18,0100017,Repair Services,Very Welcoming,Many times,Cambodia Post Bank,3296.43,18M,"Street 481, Phnom Penh",11.582892125893537,104.91808458848767,Need follow-up,3:00 AM,,2025-06-23 01:23:51
+Customer 19,0100018,Street Food Stall,Quiet and Reserved,Many times,Cambodia Post Bank,3789.54,24M,"Street 302, Phnom Penh",11.546711902365963,104.88496736535468,Interested,12:00 AM,,2025-06-21 01:23:51
+Customer 20,0100019,Tourism/Hospitality,Busy or in a Hurry,Never,ABA,6440.2,6M,"Street 474, Phnom Penh",11.572682587595105,104.91814628987345,Repeat visit,9:00 AM,,2025-06-12 01:23:51
+Customer 21,0100020,Restaurant/Café,Interested but Cautious,Once,Cambodia Post Bank,2680.72,12M,"Street 492, Phnom Penh",11.571389926047399,104.88496844274923,Need follow-up,8:00 AM,2025-06-23 01.02.46.jpg,2025-05-24 01:23:51
+Customer 22,0100021,Repair Services,Quiet and Reserved,Once,None,2153.68,6M,"Street 387, Phnom Penh",11.572737096805469,104.93245679965256,Need follow-up,12:00 AM,,2025-05-27 01:23:51
+Customer 23,0100022,Tourism/Hospitality,Talkative and Engaging,Once,ACLEDA,4066.79,12M,"Street 386, Phnom Penh",11.581865871950825,104.92051970362279,Need follow-up,1:00 AM,,2025-06-03 01:23:51
+Customer 24,0100023,Repair Services,Quiet and Reserved,Many times,ACLEDA,7708.5,18M,"Street 10, Phnom Penh",11.593963854193913,104.85753016398115,Interested,8:00 AM,,2025-06-01 01:23:51
+Customer 25,0100024,Electronics & Appliances,Hard to Understand,Once,Cambodia Post Bank,1601.63,6M,"Street 368, Phnom Penh",11.54626244670108,104.92294614903574,Interested,9:00 AM,,2025-05-30 01:23:51
+Customer 26,0100025,Electronics & Appliances,Hard to Understand,Many times,ABA,4028.48,6M,"Street 323, Phnom Penh",11.544659422612877,104.93402991641376,Interested,4:00 AM,2025-06-23 01.02.46.jpg,2025-06-20 01:23:51
+Customer 27,0100026,Electronics & Appliances,Aggressive or Pushy,Once,None,1112.69,6M,"Street 361, Phnom Penh",11.591226666492549,104.90012726850794,No answer,7:00 AM,2025-06-23 01.02.39.jpg,2025-06-10 01:23:51
+Customer 28,0100027,Repair Services,Skeptical or Distrustful,Many times,ACLEDA,8046.11,12M,"Street 270, Phnom Penh",11.52724789514289,104.87068166698889,No answer,1:00 AM,,2025-06-06 01:23:51
+Customer 29,0100028,Repair Services,Talkative and Engaging,Never,Cambodia Post Bank,7275.48,24M,"Street 355, Phnom Penh",11.581204930552932,104.85446819847508,No answer,8:00 AM,,2025-05-31 01:23:51
+Customer 30,0100029,Agriculture/Farming,Busy or in a Hurry,Many times,ABA,7335.68,12M,"Street 157, Phnom Penh",11.585529305694482,104.8625204182425,No answer,11:00 AM,,2025-05-29 01:23:51
+Customer 31,0100030,Agriculture/Farming,Talkative and Engaging,Never,None,3732.62,18M,"Street 453, Phnom Penh",11.555894311297779,104.8645744639887,Need follow-up,1:00 AM,20250615_213943.jpeg,2025-06-23 01:23:51
+Customer 32,0100031,Restaurant/Café,Friendly and Open,Once,ABA,4892.02,6M,"Street 156, Phnom Penh",11.582521924281345,104.90544027358132,Need follow-up,6:00 AM,,2025-05-29 01:23:51
+Customer 33,0100032,Beauty Salon,Quiet and Reserved,Many times,ABA,4678.87,24M,"Street 482, Phnom Penh",11.530085640630881,104.90289981197667,No answer,8:00 AM,,2025-06-11 01:23:51
+Customer 34,0100033,Electronics & Appliances,Very Welcoming,Many times,Cambodia Post Bank,6325.55,18M,"Street 272, Phnom Penh",11.52348796001487,104.93559216928169,Repeat visit,10:00 AM,2025-06-23 01.01.50.jpg,2025-06-01 01:23:51
+Customer 35,0100034,Repair Services,Skeptical or Distrustful,Once,ACLEDA,8714.08,24M,"Street 374, Phnom Penh",11.539442564177525,104.87468783560807,Need follow-up,4:00 AM,2025-06-23 01.02.19.jpg,2025-06-10 01:23:51
+Customer 36,0100035,Beauty Salon,Talkative and Engaging,Many times,ACLEDA,981.79,6M,"Street 427, Phnom Penh",11.564354490365735,104.88867989558857,Repeat visit,2:00 AM,,2025-06-08 01:23:51
+Customer 37,0100036,Tourism/Hospitality,Aggressive or Pushy,Many times,Cambodia Post Bank,4762.13,24M,"Street 221, Phnom Penh",11.530505687448727,104.87965397262766,No answer,10:00 AM,,2025-06-11 01:23:51
+Customer 38,0100037,General Retail,Quiet and Reserved,Many times,Wing,4242.65,18M,"Street 252, Phnom Penh",11.573559765145234,104.93736167475423,Interested,4:00 AM,,2025-06-14 01:23:51
+Customer 39,0100038,Fashion & Clothing,Skeptical or Distrustful,Never,ABA,4360.25,12M,"Street 179, Phnom Penh",11.522043972687868,104.91054016146573,No answer,3:00 AM,,2025-05-28 01:23:51
+Customer 40,0100039,General Retail,Interested but Cautious,Once,None,5872.33,24M,"Street 195, Phnom Penh",11.598999731612937,104.94438671295417,Repeat visit,8:00 AM,,2025-06-05 01:23:51
+Customer 41,0100040,Tourism/Hospitality,Talkative and Engaging,Once,None,5637.93,6M,"Street 135, Phnom Penh",11.586024134686314,104.89714399783992,Interested,4:00 AM,20250615_213943.jpeg,2025-06-06 01:23:51
+Customer 42,0100041,Street Food Stall,Interested but Cautious,Once,Wing,2914.83,24M,"Street 419, Phnom Penh",11.58511542818264,104.91903985460861,Interested,9:00 AM,,2025-06-06 01:23:51
+Customer 43,0100042,Fashion & Clothing,Quiet and Reserved,Never,ACLEDA,5686.55,6M,"Street 178, Phnom Penh",11.534866498087396,104.94703722105827,Interested,8:00 AM,,2025-06-05 01:23:51
+Customer 44,0100043,Electronics & Appliances,Busy or in a Hurry,Many times,Cambodia Post Bank,8321.36,18M,"Street 417, Phnom Penh",11.531170540940815,104.87698811111802,Repeat visit,8:00 AM,,2025-06-20 01:23:51
+Customer 45,0100044,General Retail,Very Welcoming,Many times,ABA,5167.26,6M,"Street 202, Phnom Penh",11.545164651223157,104.92385490462951,Interested,9:00 AM,,2025-06-08 01:23:51
+Customer 46,0100045,General Retail,Quiet and Reserved,Many times,None,1341.27,6M,"Street 214, Phnom Penh",11.56979745200814,104.88710240968362,Interested,6:00 AM,,2025-06-14 01:23:51
+Customer 47,0100046,Repair Services,Aggressive or Pushy,Many times,ACLEDA,8769.47,6M,"Street 196, Phnom Penh",11.570647666392931,104.9279171505643,No answer,8:00 AM,,2025-06-01 01:23:51
+Customer 48,0100047,Repair Services,Talkative and Engaging,Never,ACLEDA,9519.45,12M,"Street 312, Phnom Penh",11.551821243616113,104.93319114593716,Interested,4:00 AM,20250615_213943.jpeg,2025-06-02 01:23:51
+Customer 49,0100048,Tourism/Hospitality,Interested but Cautious,Once,Cambodia Post Bank,7616.96,12M,"Street 141, Phnom Penh",11.54429765090729,104.94914856549329,No answer,4:00 AM,2025-06-23 01.05.23.jpg,2025-06-03 01:23:51
+Customer 50,0100049,Repair Services,Aggressive or Pushy,Never,ACLEDA,6902.9,24M,"Street 308, Phnom Penh",11.585613305605326,104.88255402740826,Need follow-up,10:00 AM,,2025-06-19 01:23:51
+Customer 51,0100050,General Retail,Busy or in a Hurry,Many times,ACLEDA,9937.72,24M,"Street 360, Phnom Penh",11.573152549957435,104.88844134874793,Repeat visit,4:00 AM,,2025-06-19 01:23:51
+Customer 52,0100051,Fashion & Clothing,Quiet and Reserved,Once,None,3915.94,24M,"Street 211, Phnom Penh",11.57119854283282,104.89600150991058,Interested,6:00 AM,2025-06-23 01.03.23.jpg,2025-05-24 01:23:51
+Customer 53,0100052,Fashion & Clothing,Talkative and Engaging,Never,ACLEDA,5746.55,6M,"Street 446, Phnom Penh",11.599663968751548,104.90320845420489,Interested,5:00 AM,,2025-06-09 01:23:51
+Customer 54,0100053,Street Food Stall,Very Welcoming,Many times,Wing,9962.05,6M,"Street 458, Phnom Penh",11.570120056556945,104.87950014420913,Need follow-up,6:00 AM,2025-06-23 01.02.39.jpg,2025-06-14 01:23:51
+Customer 55,0100054,Agriculture/Farming,Friendly and Open,Many times,Wing,1067.1,18M,"Street 156, Phnom Penh",11.553192470736022,104.88747615174356,No answer,9:00 AM,2025-06-23 01.02.50.jpg,2025-05-26 01:23:51
+Customer 56,0100055,Tourism/Hospitality,Aggressive or Pushy,Never,Wing,1149.56,24M,"Street 463, Phnom Penh",11.539272457789078,104.86481275969987,No answer,9:00 AM,,2025-06-08 01:23:51
+Customer 57,0100056,Tourism/Hospitality,Quiet and Reserved,Once,Wing,1287.03,6M,"Street 373, Phnom Penh",11.522913509090607,104.88301801286367,Repeat visit,4:00 AM,,2025-06-22 01:23:51
+Customer 58,0100057,General Retail,Aggressive or Pushy,Once,None,3079.69,24M,"Street 377, Phnom Penh",11.520099784592222,104.88752254965182,No answer,3:00 AM,,2025-06-03 01:23:51
+Customer 59,0100058,General Retail,Aggressive or Pushy,Once,ACLEDA,9247.98,18M,"Street 334, Phnom Penh",11.5880348045061,104.92663664967426,Need follow-up,9:00 AM,,2025-05-25 01:23:51
+Customer 60,0100059,Electronics & Appliances,Very Welcoming,Many times,ABA,5532.4,18M,"Street 60, Phnom Penh",11.576802578242827,104.89043749223626,Repeat visit,11:00 AM,2025-06-23 01.03.10.jpg,2025-05-30 01:23:51
+Customer 61,0100060,Agriculture/Farming,Busy or in a Hurry,Many times,None,1698.27,18M,"Street 216, Phnom Penh",11.59356755113076,104.92785376906103,Need follow-up,11:00 AM,2025-06-23 01.05.23.jpg,2025-06-02 01:23:51
+Customer 62,0100061,Beauty Salon,Skeptical or Distrustful,Once,Cambodia Post Bank,2015.23,12M,"Street 448, Phnom Penh",11.548151410405655,104.92466988305954,Repeat visit,1:00 AM,,2025-06-21 01:23:51
+Customer 63,0100062,Electronics & Appliances,Talkative and Engaging,Once,Wing,8014.9,12M,"Street 446, Phnom Penh",11.589114310133253,104.90776550922718,No answer,1:00 AM,,2025-06-06 01:23:51
+Customer 64,0100063,Tourism/Hospitality,Busy or in a Hurry,Many times,Cambodia Post Bank,9300.33,24M,"Street 297, Phnom Penh",11.575278046621223,104.8756659055722,No answer,7:00 AM,,2025-06-20 01:23:51
+Customer 65,0100064,Tourism/Hospitality,Uninterested,Once,ABA,4546.5,6M,"Street 495, Phnom Penh",11.569728436164752,104.9032720477305,Repeat visit,7:00 AM,,2025-05-29 01:23:51
+Customer 66,0100065,Street Food Stall,Aggressive or Pushy,Once,Cambodia Post Bank,5461.36,6M,"Street 198, Phnom Penh",11.565890522249319,104.9411932889934,Repeat visit,3:00 AM,20250615_213943.jpeg,2025-06-02 01:23:51
+Customer 67,0100066,Tourism/Hospitality,Talkative and Engaging,Never,ABA,627.72,18M,"Street 150, Phnom Penh",11.567127058334309,104.937177360023,Repeat visit,10:00 AM,,2025-06-13 01:23:51
+Customer 68,0100067,Fashion & Clothing,Quiet and Reserved,Many times,None,9310.36,24M,"Street 139, Phnom Penh",11.574035720483195,104.890496304457,Interested,5:00 AM,2025-06-23 01.04.08.jpg,2025-06-07 01:23:51
+Customer 69,0100068,Restaurant/Café,Busy or in a Hurry,Many times,Cambodia Post Bank,6685.2,18M,"Street 187, Phnom Penh",11.53625440836606,104.89653899870473,No answer,8:00 AM,2025-06-23 01.04.08.jpg,2025-06-01 01:23:51
+Customer 70,0100069,Restaurant/Café,Talkative and Engaging,Many times,Wing,3899.21,24M,"Street 463, Phnom Penh",11.5787016957393,104.87457093455654,No answer,1:00 AM,,2025-06-07 01:23:51
+Customer 71,0100070,Street Food Stall,Friendly and Open,Many times,ABA,1600.63,18M,"Street 32, Phnom Penh",11.547000188974335,104.89501069375446,Repeat visit,9:00 AM,,2025-06-16 01:23:51
+Customer 72,0100071,Tourism/Hospitality,Very Welcoming,Once,ACLEDA,6625.13,6M,"Street 445, Phnom Penh",11.580761641336927,104.93496793036483,No answer,7:00 AM,,2025-05-29 01:23:51
+Customer 73,0100072,Agriculture/Farming,Busy or in a Hurry,Never,Cambodia Post Bank,2477.98,6M,"Street 190, Phnom Penh",11.566612433703565,104.88827146838986,Repeat visit,3:00 AM,,2025-06-09 01:23:51
+Customer 74,0100073,Agriculture/Farming,Skeptical or Distrustful,Many times,ABA,9785.71,24M,"Street 159, Phnom Penh",11.532404302636413,104.91598623474245,Interested,11:00 AM,,2025-06-17 01:23:51
+Customer 75,0100074,Agriculture/Farming,Uninterested,Once,ACLEDA,9098.62,18M,"Street 188, Phnom Penh",11.545501650850705,104.85558868220657,Need follow-up,11:00 AM,,2025-06-15 01:23:51
+Customer 76,0100075,Beauty Salon,Hard to Understand,Once,ABA,2219.89,18M,"Street 246, Phnom Penh",11.527343635162701,104.91537828269182,Repeat visit,4:00 AM,,2025-06-03 01:23:51
+Customer 77,0100076,Fashion & Clothing,Quiet and Reserved,Many times,Cambodia Post Bank,8123.38,24M,"Street 289, Phnom Penh",11.587955886689173,104.85355434586558,Interested,6:00 AM,,2025-05-26 01:23:51
+Customer 78,0100077,Electronics & Appliances,Aggressive or Pushy,Many times,Cambodia Post Bank,2698.02,24M,"Street 225, Phnom Penh",11.581071445657946,104.91825981117779,Need follow-up,12:00 AM,,2025-06-02 01:23:51
+Customer 79,0100078,Agriculture/Farming,Very Welcoming,Never,Wing,1445.2,12M,"Street 61, Phnom Penh",11.5615462604253,104.93585164666555,Interested,9:00 AM,,2025-06-22 01:23:51
+Customer 80,0100079,Tourism/Hospitality,Quiet and Reserved,Never,ABA,7834.97,24M,"Street 444, Phnom Penh",11.597554299734037,104.87013546304418,Repeat visit,3:00 AM,2025-06-23 01.02.39.jpg,2025-06-09 01:23:51
+Customer 81,0100080,General Retail,Skeptical or Distrustful,Many times,None,9064.32,6M,"Street 248, Phnom Penh",11.599340877080785,104.89778148302436,Need follow-up,2:00 AM,,2025-06-20 01:23:51
+Customer 82,0100081,Fashion & Clothing,Uninterested,Many times,Cambodia Post Bank,7196.52,18M,"Street 466, Phnom Penh",11.53553427645661,104.88778305051787,Need follow-up,2:00 AM,,2025-06-23 01:23:51
+Customer 83,0100082,Street Food Stall,Skeptical or Distrustful,Never,ABA,2998.53,6M,"Street 215, Phnom Penh",11.572231739858454,104.89015578372839,Need follow-up,12:00 AM,,2025-06-07 01:23:51
+Customer 84,0100083,Electronics & Appliances,Busy or in a Hurry,Once,None,4506.53,6M,"Street 85, Phnom Penh",11.542057790619518,104.90217250973369,Repeat visit,2:00 AM,,2025-05-31 01:23:51
+Customer 85,0100084,Beauty Salon,Friendly and Open,Many times,ABA,7116.47,6M,"Street 500, Phnom Penh",11.583369590967184,104.88249126150247,Interested,10:00 AM,,2025-06-15 01:23:51
+Customer 86,0100085,Electronics & Appliances,Interested but Cautious,Once,ACLEDA,8701.34,24M,"Street 358, Phnom Penh",11.54521070981174,104.85298737175538,Repeat visit,1:00 AM,,2025-06-23 01:23:51
+Customer 87,0100086,Fashion & Clothing,Skeptical or Distrustful,Many times,ABA,779.88,18M,"Street 97, Phnom Penh",11.577379944453135,104.91101495092254,Need follow-up,2:00 AM,,2025-05-30 01:23:51
+Customer 88,0100087,Tourism/Hospitality,Hard to Understand,Many times,Cambodia Post Bank,8544.31,6M,"Street 17, Phnom Penh",11.592068260087286,104.92247614835154,Need follow-up,1:00 AM,,2025-06-22 01:23:51
+Customer 89,0100088,Restaurant/Café,Aggressive or Pushy,Never,ABA,8510.71,18M,"Street 339, Phnom Penh",11.547583941813022,104.91674524896436,No answer,3:00 AM,,2025-05-29 01:23:51
+Customer 90,0100089,Fashion & Clothing,Aggressive or Pushy,Never,Cambodia Post Bank,5458.55,24M,"Street 44, Phnom Penh",11.580390015400354,104.91616361366077,Interested,2:00 AM,,2025-06-08 01:23:51
+Customer 91,0100090,Repair Services,Aggressive or Pushy,Many times,None,5446.26,6M,"Street 460, Phnom Penh",11.573023449886563,104.86700217039815,Repeat visit,1:00 AM,,2025-05-30 01:23:51
+Customer 92,0100091,Tourism/Hospitality,Skeptical or Distrustful,Many times,ABA,1434.06,24M,"Street 91, Phnom Penh",11.578529613240132,104.91913248170717,No answer,6:00 AM,,2025-05-30 01:23:51
+Customer 93,0100092,Tourism/Hospitality,Skeptical or Distrustful,Many times,ABA,7005.32,6M,"Street 389, Phnom Penh",11.534216159965071,104.87530179539844,Interested,8:00 AM,,2025-06-03 01:23:51
+Customer 94,0100093,Electronics & Appliances,Aggressive or Pushy,Once,None,4413.11,12M,"Street 499, Phnom Penh",11.58396505503146,104.93432451166721,No answer,5:00 AM,,2025-06-14 01:23:51
+Customer 95,0100094,Street Food Stall,Quiet and Reserved,Many times,Wing,6562.37,24M,"Street 131, Phnom Penh",11.54278090559479,104.9478683662909,Interested,10:00 AM,,2025-06-23 01:23:51
+Customer 96,0100095,Repair Services,Very Welcoming,Many times,Wing,3030.17,18M,"Street 44, Phnom Penh",11.527048532063505,104.85109318162712,No answer,3:00 AM,2025-06-23 01.02.46.jpg,2025-06-08 01:23:51
+Customer 97,0100096,General Retail,Very Welcoming,Never,ACLEDA,8811.42,6M,"Street 123, Phnom Penh",11.557783220351451,104.93835722641472,Interested,3:00 AM,,2025-06-04 01:23:51
+Customer 98,0100097,Electronics & Appliances,Interested but Cautious,Many times,ACLEDA,1952.98,12M,"Street 346, Phnom Penh",11.56631743894556,104.94736322759316,No answer,9:00 AM,,2025-06-13 01:23:51
+Customer 99,0100098,Electronics & Appliances,Hard to Understand,Many times,Wing,1999.31,24M,"Street 181, Phnom Penh",11.546982154931603,104.86213278533337,Repeat visit,6:00 AM,,2025-06-18 01:23:51
+Customer 100,0100099,Tourism/Hospitality,Talkative and Engaging,Never,None,4793.6,12M,"Street 222, Phnom Penh",11.584763310282058,104.86062512255496,Interested,5:00 AM,,2025-05-31 01:23:51
+Customer 101,0100100,Street Food Stall,Interested but Cautious,Many times,None,7025.38,6M,"Street 301, Phnom Penh",11.541818493891014,104.94700608355966,No answer,2:00 AM,,2025-06-12 01:23:51
+Customer 102,0100101,Restaurant/Café,Skeptical or Distrustful,Never,None,9050.81,18M,"Street 52, Phnom Penh",11.553430898393813,104.86300626757738,Repeat visit,7:00 AM,,2025-05-30 01:23:51
+Customer 103,0100102,Fashion & Clothing,Talkative and Engaging,Once,ABA,8648.3,24M,"Street 25, Phnom Penh",11.528373559394524,104.9284639307276,Repeat visit,11:00 AM,,2025-05-30 01:23:51
+Customer 104,0100103,Street Food Stall,Skeptical or Distrustful,Once,ABA,9601.18,6M,"Street 455, Phnom Penh",11.546668649853206,104.90269254935394,Repeat visit,6:00 AM,,2025-06-21 01:23:51
+Customer 105,0100104,Restaurant/Café,Busy or in a Hurry,Never,ABA,7646.36,12M,"Street 198, Phnom Penh",11.596177631127397,104.93631879234322,Repeat visit,8:00 AM,2025-06-23 01.04.26.jpg,2025-06-23 01:23:51
+Customer 106,0100105,Street Food Stall,Talkative and Engaging,Never,Cambodia Post Bank,2226.55,18M,"Street 143, Phnom Penh",11.569622451342367,104.86926365491688,Need follow-up,2:00 AM,,2025-05-26 01:23:51
+Customer 107,0100106,Restaurant/Café,Interested but Cautious,Many times,ACLEDA,2298.78,24M,"Street 156, Phnom Penh",11.594464323983535,104.89039211735638,No answer,12:00 AM,,2025-05-29 01:23:51
+Customer 108,0100107,Electronics & Appliances,Hard to Understand,Never,Cambodia Post Bank,6317.18,24M,"Street 86, Phnom Penh",11.528347536074738,104.94511750918917,Need follow-up,7:00 AM,,2025-06-21 01:23:51
+Customer 109,0100108,Beauty Salon,Skeptical or Distrustful,Never,Wing,4212.17,6M,"Street 215, Phnom Penh",11.53625236975063,104.89212284405174,Need follow-up,4:00 AM,,2025-06-11 01:23:51
+Customer 110,0100109,Fashion & Clothing,Aggressive or Pushy,Once,Wing,7971.71,6M,"Street 74, Phnom Penh",11.589112811522655,104.93632239286347,No answer,2:00 AM,2025-06-23 01.02.27.jpg,2025-06-22 01:23:51
+Customer 111,0100110,Repair Services,Interested but Cautious,Many times,Cambodia Post Bank,8907.27,12M,"Street 321, Phnom Penh",11.52559084434751,104.85989787078141,Interested,12:00 AM,,2025-06-18 01:23:51
+Customer 112,0100111,Street Food Stall,Very Welcoming,Many times,Wing,4129.57,18M,"Street 381, Phnom Penh",11.52453182688065,104.92939960329664,Repeat visit,11:00 AM,,2025-06-11 01:23:51
+Customer 113,0100112,Electronics & Appliances,Friendly and Open,Never,ABA,4844.06,24M,"Street 119, Phnom Penh",11.556270997321636,104.9418216601799,Interested,5:00 AM,,2025-06-07 01:23:51
+Customer 114,0100113,General Retail,Busy or in a Hurry,Once,ACLEDA,3222.29,6M,"Street 272, Phnom Penh",11.583165940715249,104.92239852652727,No answer,6:00 AM,,2025-05-31 01:23:51
+Customer 115,0100114,Agriculture/Farming,Friendly and Open,Never,None,5379.32,18M,"Street 406, Phnom Penh",11.584222564655706,104.91957901748064,Need follow-up,4:00 AM,,2025-06-13 01:23:51
+Customer 116,0100115,Restaurant/Café,Aggressive or Pushy,Many times,Cambodia Post Bank,4078.48,6M,"Street 377, Phnom Penh",11.576025332464134,104.8510090206691,Need follow-up,7:00 AM,,2025-05-30 01:23:51
+Customer 117,0100116,Electronics & Appliances,Interested but Cautious,Many times,ACLEDA,854.4,18M,"Street 84, Phnom Penh",11.546436356779061,104.90760914550779,Interested,2:00 AM,,2025-06-11 01:23:51
+Customer 118,0100117,Electronics & Appliances,Skeptical or Distrustful,Once,Cambodia Post Bank,5635.47,6M,"Street 353, Phnom Penh",11.520619054458397,104.94454447794894,No answer,11:00 AM,,2025-06-21 01:23:51
+Customer 119,0100118,Electronics & Appliances,Quiet and Reserved,Once,ABA,737.36,18M,"Street 206, Phnom Penh",11.53335419024123,104.94953586076184,Repeat visit,11:00 AM,,2025-05-29 01:23:51
+Customer 120,0100119,Street Food Stall,Busy or in a Hurry,Never,ACLEDA,5730.15,12M,"Street 125, Phnom Penh",11.595406928362621,104.92669439594331,Interested,3:00 AM,,2025-06-19 01:23:51
+Customer 121,0100120,Repair Services,Interested but Cautious,Many times,Wing,8396.45,24M,"Street 205, Phnom Penh",11.545355264956859,104.86833818911468,No answer,12:00 AM,,2025-06-13 01:23:51
+Customer 122,0100121,Agriculture/Farming,Interested but Cautious,Once,ABA,4625.55,6M,"Street 110, Phnom Penh",11.54212959487611,104.89550142667233,Interested,5:00 AM,2025-06-23 01.02.46.jpg,2025-06-15 01:23:51
+Customer 123,0100122,Electronics & Appliances,Friendly and Open,Once,None,6209.28,24M,"Street 486, Phnom Penh",11.527767056101917,104.93615761304667,Repeat visit,12:00 AM,,2025-06-02 01:23:51
+Customer 124,0100123,Agriculture/Farming,Very Welcoming,Many times,Cambodia Post Bank,2200.48,12M,"Street 423, Phnom Penh",11.550242946257226,104.85428698746843,Interested,3:00 AM,,2025-05-27 01:23:51
+Customer 125,0100124,General Retail,Hard to Understand,Never,Wing,2918.03,12M,"Street 341, Phnom Penh",11.595411662592852,104.94926427430856,Need follow-up,10:00 AM,,2025-06-05 01:23:51
+Customer 126,0100125,Electronics & Appliances,Friendly and Open,Once,ACLEDA,9756.12,12M,"Street 284, Phnom Penh",11.586077843636968,104.87337579078125,Interested,3:00 AM,,2025-06-23 01:23:51
+Customer 127,0100126,Restaurant/Café,Very Welcoming,Never,None,6535.56,6M,"Street 429, Phnom Penh",11.5727647484455,104.88986346024885,Need follow-up,8:00 AM,2025-06-23 01.02.27.jpg,2025-06-15 01:23:51
+Customer 128,0100127,Tourism/Hospitality,Quiet and Reserved,Never,Cambodia Post Bank,3228.51,18M,"Street 62, Phnom Penh",11.57876103001449,104.93292380245126,Interested,7:00 AM,,2025-06-04 01:23:51
+Customer 129,0100128,Repair Services,Very Welcoming,Many times,Wing,4985.04,6M,"Street 23, Phnom Penh",11.570550620458404,104.91671491969508,Interested,12:00 AM,,2025-06-01 01:23:51
+Customer 130,0100129,Restaurant/Café,Interested but Cautious,Never,ACLEDA,4938.52,6M,"Street 107, Phnom Penh",11.570426628981641,104.89428038474821,Need follow-up,12:00 AM,20250615_213943.jpeg,2025-06-17 01:23:51
+Customer 131,0100130,Street Food Stall,Skeptical or Distrustful,Never,Cambodia Post Bank,4455.17,18M,"Street 250, Phnom Penh",11.532556547521896,104.85782154749188,Interested,7:00 AM,,2025-06-06 01:23:51
+Customer 132,0100131,Fashion & Clothing,Hard to Understand,Many times,None,7257.44,6M,"Street 85, Phnom Penh",11.565841903626286,104.9067153535874,Repeat visit,3:00 AM,2025-06-23 01.01.50.jpg,2025-05-30 01:23:51
+Customer 133,0100132,Beauty Salon,Friendly and Open,Once,ACLEDA,2346.69,6M,"Street 441, Phnom Penh",11.581915835712259,104.88301885418808,Interested,10:00 AM,,2025-05-26 01:23:51
+Customer 134,0100133,General Retail,Quiet and Reserved,Once,ACLEDA,4997.43,18M,"Street 4, Phnom Penh",11.561878651223756,104.85994147209725,Repeat visit,12:00 AM,,2025-05-27 01:23:51
+Customer 135,0100134,General Retail,Talkative and Engaging,Never,ABA,4244.52,24M,"Street 52, Phnom Penh",11.599793040230795,104.86731456709704,No answer,10:00 AM,,2025-06-01 01:23:51
+Customer 136,0100135,General Retail,Hard to Understand,Never,Wing,5080.1,24M,"Street 415, Phnom Penh",11.575537641887276,104.93335291729838,No answer,8:00 AM,,2025-06-09 01:23:51
+Customer 137,0100136,Repair Services,Friendly and Open,Many times,ACLEDA,6871.82,24M,"Street 293, Phnom Penh",11.527093402103434,104.86842800421046,Interested,3:00 AM,,2025-06-22 01:23:51
+Customer 138,0100137,Electronics & Appliances,Uninterested,Many times,Wing,3376.06,6M,"Street 360, Phnom Penh",11.557379843180378,104.88059061553614,Need follow-up,9:00 AM,,2025-05-25 01:23:51
+Customer 139,0100138,Restaurant/Café,Interested but Cautious,Once,Wing,4146.1,6M,"Street 213, Phnom Penh",11.591315927333392,104.93510077648622,No answer,7:00 AM,,2025-06-15 01:23:51
+Customer 140,0100139,Tourism/Hospitality,Uninterested,Once,None,6166.41,18M,"Street 333, Phnom Penh",11.524853856163107,104.92169935725731,Interested,4:00 AM,,2025-06-15 01:23:51
+Customer 141,0100140,Electronics & Appliances,Uninterested,Many times,None,5520.91,24M,"Street 22, Phnom Penh",11.56652461751623,104.91504272087853,Interested,2:00 AM,,2025-06-06 01:23:51
+Customer 142,0100141,Agriculture/Farming,Quiet and Reserved,Once,ACLEDA,9694.92,6M,"Street 427, Phnom Penh",11.550118204016975,104.90926377558223,Interested,1:00 AM,,2025-06-05 01:23:51
+Customer 143,0100142,Restaurant/Café,Quiet and Reserved,Never,Wing,595.95,18M,"Street 54, Phnom Penh",11.549340054199924,104.88246500928095,No answer,9:00 AM,,2025-06-03 01:23:51
+Customer 144,0100143,Beauty Salon,Quiet and Reserved,Never,ACLEDA,1899.97,18M,"Street 180, Phnom Penh",11.551990901265837,104.86298832744585,Interested,5:00 AM,2025-06-23 01.02.39.jpg,2025-06-16 01:23:51
+Customer 145,0100144,Agriculture/Farming,Busy or in a Hurry,Never,Wing,2909.97,6M,"Street 230, Phnom Penh",11.556828666620136,104.86627181839313,No answer,6:00 AM,,2025-06-07 01:23:51
+Customer 146,0100145,Beauty Salon,Quiet and Reserved,Never,Wing,7078.09,24M,"Street 159, Phnom Penh",11.526865018871861,104.85478079633684,Need follow-up,9:00 AM,2025-06-23 01.04.08.jpg,2025-06-04 01:23:51
+Customer 147,0100146,General Retail,Busy or in a Hurry,Once,Wing,7204.16,18M,"Street 142, Phnom Penh",11.531578323462076,104.89901219382585,No answer,9:00 AM,,2025-06-16 01:23:51
+Customer 148,0100147,Repair Services,Interested but Cautious,Once,ABA,2329.45,18M,"Street 127, Phnom Penh",11.566610352856182,104.94291280180144,Interested,1:00 AM,2025-06-23 01.02.34.jpg,2025-05-30 01:23:51
+Customer 149,0100148,Tourism/Hospitality,Busy or in a Hurry,Never,None,2896.04,18M,"Street 376, Phnom Penh",11.55536582870779,104.92769654815827,No answer,10:00 AM,,2025-06-20 01:23:51
+Customer 150,0100149,Electronics & Appliances,Aggressive or Pushy,Once,ACLEDA,1910.42,18M,"Street 493, Phnom Penh",11.566254612479295,104.91394273451269,No answer,2:00 AM,,2025-06-20 01:23:51
+Customer 151,0100150,Agriculture/Farming,Very Welcoming,Many times,ABA,8959.79,24M,"Street 205, Phnom Penh",11.574002972646426,104.85301180235012,Interested,7:00 AM,,2025-06-01 01:23:51
+Customer 152,0100151,Agriculture/Farming,Hard to Understand,Many times,None,2617.43,6M,"Street 339, Phnom Penh",11.598647950979524,104.89985492455625,Need follow-up,1:00 AM,20250615_214300.jpeg,2025-05-31 01:23:51
+Customer 153,0100152,Tourism/Hospitality,Aggressive or Pushy,Many times,ABA,8851.47,6M,"Street 46, Phnom Penh",11.520306514427793,104.94013688212155,Interested,7:00 AM,,2025-06-05 01:23:51
+Customer 154,0100153,Repair Services,Uninterested,Never,Cambodia Post Bank,2442.99,12M,"Street 231, Phnom Penh",11.576158989342435,104.9227622297852,Repeat visit,9:00 AM,2025-06-23 01.02.19.jpg,2025-06-01 01:23:51
+Customer 155,0100154,General Retail,Friendly and Open,Many times,Cambodia Post Bank,4824.58,18M,"Street 304, Phnom Penh",11.52335096927247,104.89761763117974,No answer,8:00 AM,,2025-05-27 01:23:51
+Customer 156,0100155,Repair Services,Hard to Understand,Never,None,532.85,24M,"Street 96, Phnom Penh",11.582972597544902,104.88827623256097,Interested,4:00 AM,,2025-06-08 01:23:51
+Customer 157,0100156,Repair Services,Aggressive or Pushy,Never,None,8219.56,6M,"Street 465, Phnom Penh",11.52575598176557,104.90207173738361,Repeat visit,6:00 AM,,2025-06-17 01:23:51
+Customer 158,0100157,Agriculture/Farming,Uninterested,Never,ABA,4594.98,6M,"Street 253, Phnom Penh",11.543760480083556,104.85774820461457,Repeat visit,10:00 AM,,2025-06-16 01:23:51
+Customer 159,0100158,Street Food Stall,Aggressive or Pushy,Once,ACLEDA,4584.47,12M,"Street 147, Phnom Penh",11.569506526233358,104.86834499628712,No answer,4:00 AM,2025-06-23 01.02.07.jpg,2025-05-27 01:23:51
+Customer 160,0100159,Repair Services,Uninterested,Never,ACLEDA,1866.27,24M,"Street 287, Phnom Penh",11.585195507424116,104.90966259051788,Need follow-up,12:00 AM,,2025-06-21 01:23:51
+Customer 161,0100160,Agriculture/Farming,Aggressive or Pushy,Once,Wing,9815.81,6M,"Street 443, Phnom Penh",11.569194972045672,104.91850082887775,No answer,1:00 AM,,2025-06-21 01:23:51
+Customer 162,0100161,General Retail,Skeptical or Distrustful,Many times,Cambodia Post Bank,1115.61,24M,"Street 54, Phnom Penh",11.533954304780506,104.93554310109128,Repeat visit,1:00 AM,,2025-05-28 01:23:51
+Customer 163,0100162,General Retail,Busy or in a Hurry,Once,Cambodia Post Bank,3839.48,6M,"Street 383, Phnom Penh",11.562903138268602,104.92255255757901,Repeat visit,3:00 AM,2025-06-23 01.02.34.jpg,2025-06-12 01:23:51
+Customer 164,0100163,Beauty Salon,Quiet and Reserved,Once,Wing,7577.47,18M,"Street 137, Phnom Penh",11.523965835932614,104.86882108095354,No answer,6:00 AM,,2025-06-11 01:23:51
+Customer 165,0100164,Agriculture/Farming,Busy or in a Hurry,Once,ABA,1774.92,24M,"Street 267, Phnom Penh",11.5988001971312,104.89658628478033,Repeat visit,9:00 AM,,2025-06-18 01:23:51
+Customer 166,0100165,Restaurant/Café,Talkative and Engaging,Never,None,3125.56,18M,"Street 358, Phnom Penh",11.534783793108364,104.94931986501226,Need follow-up,10:00 AM,2025-06-23 01.03.23.jpg,2025-05-27 01:23:51
+Customer 167,0100166,Beauty Salon,Friendly and Open,Once,None,1673.22,12M,"Street 290, Phnom Penh",11.592506503838303,104.9203706665029,No answer,6:00 AM,,2025-06-01 01:23:51
+Customer 168,0100167,Tourism/Hospitality,Friendly and Open,Once,Wing,8220.67,12M,"Street 353, Phnom Penh",11.59152719217996,104.91307237990219,Need follow-up,6:00 AM,2025-06-23 01.02.46.jpg,2025-06-16 01:23:51
+Customer 169,0100168,General Retail,Quiet and Reserved,Once,ACLEDA,7600.57,6M,"Street 44, Phnom Penh",11.527296933949737,104.92473395677862,Repeat visit,2:00 AM,,2025-06-02 01:23:51
+Customer 170,0100169,Repair Services,Friendly and Open,Once,None,3025.37,12M,"Street 133, Phnom Penh",11.538579697571816,104.87795477439502,No answer,4:00 AM,2025-06-23 01.03.53.jpg,2025-06-10 01:23:51
+Customer 171,0100170,Agriculture/Farming,Skeptical or Distrustful,Never,ACLEDA,7270.91,24M,"Street 253, Phnom Penh",11.56696166140125,104.86066928356091,Interested,8:00 AM,,2025-05-24 01:23:51
+Customer 172,0100171,Agriculture/Farming,Busy or in a Hurry,Many times,None,1577.23,12M,"Street 275, Phnom Penh",11.577978792148437,104.87820011609527,Need follow-up,5:00 AM,,2025-05-29 01:23:51
+Customer 173,0100172,Agriculture/Farming,Talkative and Engaging,Many times,ABA,4650.85,18M,"Street 237, Phnom Penh",11.574834767169923,104.85285792887004,No answer,12:00 AM,,2025-05-28 01:23:51
+Customer 174,0100173,Electronics & Appliances,Interested but Cautious,Once,ACLEDA,8571.93,12M,"Street 148, Phnom Penh",11.522664843731883,104.8733619250383,Need follow-up,1:00 AM,,2025-06-10 01:23:51
+Customer 175,0100174,Restaurant/Café,Aggressive or Pushy,Many times,Cambodia Post Bank,9322.82,18M,"Street 135, Phnom Penh",11.54460793320742,104.93044041293915,Repeat visit,2:00 AM,2025-06-23 01.03.10.jpg,2025-05-28 01:23:51
+Customer 176,0100175,Fashion & Clothing,Quiet and Reserved,Many times,ACLEDA,7210.43,18M,"Street 93, Phnom Penh",11.567247440977752,104.86787541214872,Need follow-up,3:00 AM,,2025-06-08 01:23:51
+Customer 177,0100176,Electronics & Appliances,Skeptical or Distrustful,Many times,None,3749.34,24M,"Street 129, Phnom Penh",11.570499023444437,104.88255565359654,Need follow-up,9:00 AM,,2025-06-11 01:23:51
+Customer 178,0100177,Agriculture/Farming,Aggressive or Pushy,Many times,Wing,8576.57,12M,"Street 315, Phnom Penh",11.594378177321097,104.94080782344608,Interested,11:00 AM,,2025-06-06 01:23:51
+Customer 179,0100178,Restaurant/Café,Very Welcoming,Once,Cambodia Post Bank,9550.73,18M,"Street 51, Phnom Penh",11.56604253943121,104.89800974859386,Repeat visit,4:00 AM,,2025-06-03 01:23:51
+Customer 180,0100179,Electronics & Appliances,Quiet and Reserved,Once,Wing,8156.19,24M,"Street 65, Phnom Penh",11.595235180260644,104.89982078221922,No answer,3:00 AM,2025-06-23 01.01.50.jpg,2025-06-05 01:23:51
+Customer 181,0100180,Agriculture/Farming,Aggressive or Pushy,Once,ACLEDA,8153.72,6M,"Street 95, Phnom Penh",11.521176043177883,104.9066517267133,Repeat visit,7:00 AM,,2025-06-01 01:23:51
+Customer 182,0100181,Restaurant/Café,Busy or in a Hurry,Never,Cambodia Post Bank,7371.31,24M,"Street 460, Phnom Penh",11.594587840884337,104.92937767536057,Repeat visit,5:00 AM,,2025-05-25 01:23:51
+Customer 183,0100182,Electronics & Appliances,Interested but Cautious,Once,None,9819.34,18M,"Street 246, Phnom Penh",11.55387363818544,104.9287615399617,Interested,10:00 AM,,2025-06-01 01:23:51
+Customer 184,0100183,Street Food Stall,Quiet and Reserved,Never,None,5117.42,12M,"Street 122, Phnom Penh",11.530538051225331,104.85445758829324,Interested,7:00 AM,,2025-06-17 01:23:51
+Customer 185,0100184,Street Food Stall,Skeptical or Distrustful,Never,None,2012.11,12M,"Street 297, Phnom Penh",11.578838622514972,104.92751979071609,Interested,1:00 AM,,2025-05-25 01:23:51
+Customer 186,0100185,General Retail,Interested but Cautious,Many times,None,6830.78,18M,"Street 246, Phnom Penh",11.526012229039809,104.93919244361285,No answer,8:00 AM,,2025-06-09 01:23:51
+Customer 187,0100186,Repair Services,Busy or in a Hurry,Once,Wing,7367.11,18M,"Street 176, Phnom Penh",11.522278167242863,104.93393773519446,Need follow-up,1:00 AM,2025-06-23 01.02.27.jpg,2025-06-20 01:23:51
+Customer 188,0100187,Restaurant/Café,Hard to Understand,Once,None,3837.79,24M,"Street 126, Phnom Penh",11.579969888792604,104.93360033571763,No answer,8:00 AM,,2025-06-12 01:23:51
+Customer 189,0100188,Electronics & Appliances,Skeptical or Distrustful,Never,Wing,2622.1,24M,"Street 45, Phnom Penh",11.530461965921603,104.91781584832817,Need follow-up,1:00 AM,,2025-06-12 01:23:51
+Customer 190,0100189,General Retail,Skeptical or Distrustful,Once,None,8815.32,18M,"Street 349, Phnom Penh",11.574702326464694,104.85096223376365,Interested,6:00 AM,,2025-06-16 01:23:51
+Customer 191,0100190,Restaurant/Café,Very Welcoming,Never,Wing,6551.47,24M,"Street 174, Phnom Penh",11.581106566435,104.93595859775662,Need follow-up,11:00 AM,,2025-06-23 01:23:51
+Customer 192,0100191,Repair Services,Friendly and Open,Many times,ABA,6136.51,12M,"Street 237, Phnom Penh",11.589475262005008,104.89543090330633,Repeat visit,4:00 AM,,2025-05-24 01:23:51
+Customer 193,0100192,Fashion & Clothing,Friendly and Open,Many times,Cambodia Post Bank,1265.98,18M,"Street 446, Phnom Penh",11.539217197290425,104.89977684567809,Need follow-up,9:00 AM,,2025-06-18 01:23:51
+Customer 194,0100193,Beauty Salon,Uninterested,Never,Wing,7593.82,12M,"Street 52, Phnom Penh",11.574106426956476,104.94801141508756,Repeat visit,7:00 AM,,2025-05-31 01:23:51
+Customer 195,0100194,General Retail,Quiet and Reserved,Once,ACLEDA,5107.89,12M,"Street 391, Phnom Penh",11.55273464496626,104.88497231365606,No answer,12:00 AM,,2025-06-18 01:23:51
+Customer 196,0100195,Beauty Salon,Quiet and Reserved,Never,ACLEDA,2954.29,12M,"Street 441, Phnom Penh",11.561742034178915,104.94308273207929,No answer,12:00 AM,,2025-06-20 01:23:51
+Customer 197,0100196,Agriculture/Farming,Skeptical or Distrustful,Once,Cambodia Post Bank,7457.89,18M,"Street 32, Phnom Penh",11.544120123344525,104.90650422975004,Interested,3:00 AM,,2025-06-23 01:23:51
+Customer 198,0100197,Agriculture/Farming,Quiet and Reserved,Many times,ACLEDA,1816.29,6M,"Street 81, Phnom Penh",11.533750955405486,104.89011791029662,Interested,3:00 AM,,2025-06-23 01:23:51
+Customer 199,0100198,Restaurant/Café,Aggressive or Pushy,Many times,Cambodia Post Bank,1142.85,12M,"Street 238, Phnom Penh",11.565255260210076,104.94281796027254,Interested,12:00 AM,,2025-06-20 01:23:51
+Customer 200,0100199,Repair Services,Friendly and Open,Never,Wing,8831.89,6M,"Street 311, Phnom Penh",11.566331346680254,104.9270414720887,Need follow-up,12:00 AM,,2025-06-02 01:23:51
+Customer 201,0100200,Tourism/Hospitality,Busy or in a Hurry,Never,None,5695.24,18M,"Street 17, Phnom Penh",11.572596016031113,104.86543532119202,No answer,5:00 AM,2025-06-23 01.01.50.jpg,2025-06-12 01:23:51
+Customer 202,0100201,General Retail,Hard to Understand,Many times,ABA,3003.51,12M,"Street 349, Phnom Penh",11.534478195577364,104.92898588494386,Interested,4:00 AM,,2025-06-02 01:23:51
+Customer 203,0100202,General Retail,Very Welcoming,Once,Cambodia Post Bank,3965.8,12M,"Street 194, Phnom Penh",11.565527744201523,104.93234324788551,Interested,7:00 AM,,2025-05-26 01:23:51
+Customer 204,0100203,Beauty Salon,Hard to Understand,Never,ACLEDA,748.38,18M,"Street 2, Phnom Penh",11.575041030051786,104.92043481989909,No answer,7:00 AM,,2025-06-22 01:23:51
+Customer 205,0100204,Beauty Salon,Talkative and Engaging,Once,None,5570.23,18M,"Street 414, Phnom Penh",11.56623299507106,104.86249064631929,No answer,4:00 AM,,2025-06-20 01:23:51
+Customer 206,0100205,Fashion & Clothing,Busy or in a Hurry,Once,ABA,9986.91,24M,"Street 221, Phnom Penh",11.594369476904026,104.89073989077181,No answer,11:00 AM,,2025-05-26 01:23:51
+Customer 207,0100206,Electronics & Appliances,Friendly and Open,Many times,Cambodia Post Bank,9603.82,6M,"Street 304, Phnom Penh",11.582553946739553,104.86913817999277,Repeat visit,7:00 AM,2025-06-23 01.02.34.jpg,2025-05-24 01:23:51
+Customer 208,0100207,Electronics & Appliances,Skeptical or Distrustful,Once,Cambodia Post Bank,825.51,6M,"Street 401, Phnom Penh",11.585818512169876,104.8960097822396,Repeat visit,2:00 AM,,2025-06-01 01:23:51
+Customer 209,0100208,Electronics & Appliances,Very Welcoming,Many times,ACLEDA,1544.81,24M,"Street 168, Phnom Penh",11.525111939566626,104.90065937255986,No answer,1:00 AM,2025-06-23 01.02.39.jpg,2025-05-25 01:23:51
+Customer 210,0100209,Beauty Salon,Skeptical or Distrustful,Once,Wing,9476.28,6M,"Street 374, Phnom Penh",11.55852260387873,104.94133364224582,Need follow-up,1:00 AM,,2025-06-06 01:23:51
+Customer 211,0100210,Electronics & Appliances,Aggressive or Pushy,Once,Cambodia Post Bank,6448.84,6M,"Street 250, Phnom Penh",11.534385188461055,104.86399255117966,No answer,7:00 AM,,2025-06-22 01:23:51
+Customer 212,0100211,Fashion & Clothing,Busy or in a Hurry,Once,ABA,3161.3,24M,"Street 489, Phnom Penh",11.571829760886285,104.94774136842358,Need follow-up,4:00 AM,,2025-06-20 01:23:51
+Customer 213,0100212,Street Food Stall,Uninterested,Once,None,8075.43,12M,"Street 454, Phnom Penh",11.541367371338797,104.92920582739194,Need follow-up,2:00 AM,,2025-06-20 01:23:52
+Customer 214,0100213,Electronics & Appliances,Very Welcoming,Many times,None,4097.51,18M,"Street 137, Phnom Penh",11.57934208660789,104.89971142196214,Repeat visit,8:00 AM,,2025-06-20 01:23:52
+Customer 215,0100214,Repair Services,Aggressive or Pushy,Once,Wing,8000.35,24M,"Street 350, Phnom Penh",11.584085626399824,104.92841103560927,Need follow-up,11:00 AM,,2025-06-16 01:23:52
+Customer 216,0100215,Repair Services,Very Welcoming,Once,Wing,4468.76,24M,"Street 59, Phnom Penh",11.556614854641069,104.92811165595995,Need follow-up,10:00 AM,2025-06-23 01.05.23.jpg,2025-06-14 01:23:52
+Customer 217,0100216,Beauty Salon,Busy or in a Hurry,Never,ABA,2701.72,12M,"Street 342, Phnom Penh",11.570393693227746,104.8570747705542,Need follow-up,10:00 AM,,2025-06-17 01:23:52
+Customer 218,0100217,Tourism/Hospitality,Busy or in a Hurry,Never,Cambodia Post Bank,6479.87,24M,"Street 128, Phnom Penh",11.564673280757173,104.88843732172491,Repeat visit,8:00 AM,,2025-05-29 01:23:52
+Customer 219,0100218,Fashion & Clothing,Skeptical or Distrustful,Many times,ABA,7740.16,6M,"Street 356, Phnom Penh",11.52701378123367,104.91176735910388,No answer,8:00 AM,2025-06-23 01.02.34.jpg,2025-05-30 01:23:52
+Customer 220,0100219,Agriculture/Farming,Busy or in a Hurry,Once,Wing,2618.5,12M,"Street 350, Phnom Penh",11.533435754920747,104.92117529953642,Interested,2:00 AM,,2025-06-08 01:23:52
+Customer 221,0100220,General Retail,Hard to Understand,Many times,None,1407.16,18M,"Street 109, Phnom Penh",11.552049836016856,104.85536875861025,Repeat visit,3:00 AM,,2025-05-29 01:23:52
+Customer 222,0100221,Restaurant/Café,Busy or in a Hurry,Never,None,1554.85,24M,"Street 113, Phnom Penh",11.5376043621914,104.91244336396193,Repeat visit,10:00 AM,,2025-05-27 01:23:52
+Customer 223,0100222,Beauty Salon,Talkative and Engaging,Never,Cambodia Post Bank,2452.34,6M,"Street 304, Phnom Penh",11.539090467423229,104.85242047001681,Interested,5:00 AM,,2025-06-12 01:23:52
+Customer 224,0100223,Agriculture/Farming,Quiet and Reserved,Never,Wing,3379.72,12M,"Street 496, Phnom Penh",11.597365789307382,104.92754252231674,Need follow-up,1:00 AM,,2025-06-12 01:23:52
+Customer 225,0100224,Electronics & Appliances,Interested but Cautious,Never,ABA,6185.06,6M,"Street 490, Phnom Penh",11.530303742636546,104.87003546103442,No answer,9:00 AM,,2025-06-19 01:23:52
+Customer 226,0100225,Restaurant/Café,Hard to Understand,Once,ACLEDA,8871.05,12M,"Street 481, Phnom Penh",11.525638519284948,104.87067724294688,No answer,6:00 AM,,2025-06-20 01:23:52
+Customer 227,0100226,General Retail,Skeptical or Distrustful,Many times,Cambodia Post Bank,4150.88,24M,"Street 337, Phnom Penh",11.53038243255903,104.92153018446206,Need follow-up,1:00 AM,,2025-06-08 01:23:52
+Customer 228,0100227,Tourism/Hospitality,Aggressive or Pushy,Never,None,883.49,6M,"Street 278, Phnom Penh",11.56118902245099,104.94409517154786,No answer,8:00 AM,,2025-06-06 01:23:52
+Customer 229,0100228,Electronics & Appliances,Interested but Cautious,Once,Wing,5732.37,12M,"Street 220, Phnom Penh",11.591758418385133,104.90357729876229,Repeat visit,10:00 AM,,2025-06-17 01:23:52
+Customer 230,0100229,Repair Services,Aggressive or Pushy,Never,None,1435.95,6M,"Street 497, Phnom Penh",11.571270899183224,104.9434901164703,No answer,4:00 AM,,2025-06-17 01:23:52
+Customer 231,0100230,Electronics & Appliances,Busy or in a Hurry,Once,ABA,4944.98,6M,"Street 312, Phnom Penh",11.527469926182103,104.88807440266925,Need follow-up,4:00 AM,,2025-06-18 01:23:52
+Customer 232,0100231,Electronics & Appliances,Busy or in a Hurry,Once,ACLEDA,7980.21,6M,"Street 49, Phnom Penh",11.563754518842039,104.93136138475353,No answer,5:00 AM,,2025-06-10 01:23:52
+Customer 233,0100232,Restaurant/Café,Aggressive or Pushy,Never,Cambodia Post Bank,4756.22,12M,"Street 332, Phnom Penh",11.52309199174468,104.90371002500916,No answer,11:00 AM,,2025-06-21 01:23:52
+Customer 234,0100233,Tourism/Hospitality,Skeptical or Distrustful,Many times,ABA,8397.31,12M,"Street 349, Phnom Penh",11.578136407472,104.89858300652271,Repeat visit,2:00 AM,,2025-06-03 01:23:52
+Customer 235,0100234,Beauty Salon,Busy or in a Hurry,Once,ABA,2010.18,6M,"Street 253, Phnom Penh",11.59160176060613,104.93011826119192,No answer,6:00 AM,,2025-06-06 01:23:52
+Customer 236,0100235,Street Food Stall,Quiet and Reserved,Many times,ABA,2815.19,18M,"Street 111, Phnom Penh",11.557063147362346,104.94472091213069,Interested,7:00 AM,,2025-06-15 01:23:52
+Customer 237,0100236,Agriculture/Farming,Very Welcoming,Never,Cambodia Post Bank,3542.23,12M,"Street 141, Phnom Penh",11.521260991783391,104.88104453414802,Need follow-up,5:00 AM,,2025-06-13 01:23:52
+Customer 238,0100237,Tourism/Hospitality,Aggressive or Pushy,Never,ABA,1509.6,24M,"Street 193, Phnom Penh",11.593328937059955,104.91717973332949,No answer,4:00 AM,2025-06-23 01.03.53.jpg,2025-06-19 01:23:52
+Customer 239,0100238,Fashion & Clothing,Friendly and Open,Many times,Wing,938.45,12M,"Street 32, Phnom Penh",11.554031089906324,104.9162479226902,Need follow-up,11:00 AM,,2025-05-26 01:23:52
+Customer 240,0100239,Tourism/Hospitality,Hard to Understand,Many times,ABA,1463.93,18M,"Street 494, Phnom Penh",11.579668815126366,104.8536707859799,No answer,7:00 AM,,2025-05-26 01:23:52
+Customer 241,0100240,Fashion & Clothing,Uninterested,Never,ACLEDA,6607.8,24M,"Street 162, Phnom Penh",11.538348167908385,104.94228309051263,Repeat visit,2:00 AM,,2025-06-20 01:23:52
+Customer 242,0100241,Fashion & Clothing,Talkative and Engaging,Many times,ABA,9551.51,18M,"Street 165, Phnom Penh",11.588829650376601,104.89154985817545,Repeat visit,4:00 AM,,2025-06-03 01:23:52
+Customer 243,0100242,Agriculture/Farming,Friendly and Open,Once,ABA,1607.23,6M,"Street 155, Phnom Penh",11.541202307219285,104.88195178051498,Need follow-up,8:00 AM,,2025-06-16 01:23:52
+Customer 244,0100243,Agriculture/Farming,Friendly and Open,Never,Cambodia Post Bank,864.16,18M,"Street 450, Phnom Penh",11.546183139011932,104.91392017436213,Need follow-up,1:00 AM,20250615_213943.jpeg,2025-05-31 01:23:52
+Customer 245,0100244,Repair Services,Skeptical or Distrustful,Never,Cambodia Post Bank,7869.91,12M,"Street 407, Phnom Penh",11.545834144506939,104.93092563531481,No answer,1:00 AM,2025-06-23 01.03.53.jpg,2025-06-01 01:23:52
+Customer 246,0100245,Beauty Salon,Uninterested,Never,None,7474.53,24M,"Street 498, Phnom Penh",11.595027920002552,104.8849264724507,Interested,1:00 AM,,2025-06-17 01:23:52
+Customer 247,0100246,Fashion & Clothing,Uninterested,Never,ACLEDA,2514.01,18M,"Street 320, Phnom Penh",11.54936959547732,104.8653518315424,No answer,12:00 AM,,2025-06-12 01:23:52
+Customer 248,0100247,Electronics & Appliances,Busy or in a Hurry,Never,ABA,8667.73,24M,"Street 311, Phnom Penh",11.573869771119382,104.90146291411239,Need follow-up,4:00 AM,,2025-06-02 01:23:52
+Customer 249,0100248,Agriculture/Farming,Interested but Cautious,Once,Cambodia Post Bank,8469.1,18M,"Street 480, Phnom Penh",11.566417882654687,104.89494191174687,Interested,3:00 AM,2025-06-23 01.02.07.jpg,2025-06-21 01:23:52
+Customer 250,0100249,Agriculture/Farming,Uninterested,Once,ACLEDA,8467.26,18M,"Street 159, Phnom Penh",11.543933758005151,104.85577417183376,Interested,6:00 AM,,2025-06-11 01:23:52
+Customer 251,0100250,Street Food Stall,Skeptical or Distrustful,Never,None,2297.06,12M,"Street 288, Phnom Penh",11.558197749683668,104.87315508291786,Need follow-up,8:00 AM,,2025-05-29 01:23:52
+Customer 252,0100251,Fashion & Clothing,Interested but Cautious,Once,Cambodia Post Bank,8486.94,18M,"Street 395, Phnom Penh",11.532495359791149,104.88023700200746,Interested,1:00 AM,2025-06-23 01.04.08.jpg,2025-05-31 01:23:52
+Customer 253,0100252,Repair Services,Hard to Understand,Once,ACLEDA,9522.11,18M,"Street 316, Phnom Penh",11.572771831437393,104.91032105571888,Repeat visit,12:00 AM,,2025-06-13 01:23:52
+Customer 254,0100253,Electronics & Appliances,Busy or in a Hurry,Once,ACLEDA,5683.92,24M,"Street 360, Phnom Penh",11.55621122386277,104.85376036256781,Repeat visit,4:00 AM,2025-06-23 01.02.50.jpg,2025-06-02 01:23:52
+Customer 255,0100254,Electronics & Appliances,Aggressive or Pushy,Once,ABA,4766.88,12M,"Street 167, Phnom Penh",11.521713002279194,104.92953705440185,Interested,1:00 AM,2025-06-23 01.05.23.jpg,2025-06-14 01:23:52
+Customer 256,0100255,Repair Services,Interested but Cautious,Never,Wing,2688.15,24M,"Street 301, Phnom Penh",11.591516333097067,104.92954752564488,Repeat visit,7:00 AM,,2025-06-21 01:23:52
+Customer 257,0100256,Street Food Stall,Quiet and Reserved,Many times,Wing,4985.95,18M,"Street 264, Phnom Penh",11.577212327076767,104.90460796165819,Repeat visit,3:00 AM,,2025-06-11 01:23:52
+Customer 258,0100257,Tourism/Hospitality,Very Welcoming,Never,None,9018.27,6M,"Street 406, Phnom Penh",11.542321130218143,104.9368581573545,Interested,10:00 AM,,2025-05-25 01:23:52
+Customer 259,0100258,Beauty Salon,Friendly and Open,Once,ABA,579.65,24M,"Street 69, Phnom Penh",11.5386262731243,104.91891281458007,No answer,9:00 AM,,2025-06-08 01:23:52
+Customer 260,0100259,Beauty Salon,Friendly and Open,Once,None,2651.92,18M,"Street 77, Phnom Penh",11.55201167046627,104.8855965794788,Interested,10:00 AM,,2025-05-26 01:23:52
+Customer 261,0100260,Beauty Salon,Uninterested,Many times,ACLEDA,9247.38,24M,"Street 151, Phnom Penh",11.577940569806527,104.92089912986704,Repeat visit,9:00 AM,,2025-06-02 01:23:52
+Customer 262,0100261,Restaurant/Café,Hard to Understand,Once,None,5835.37,12M,"Street 56, Phnom Penh",11.538914201372524,104.90037390043207,Need follow-up,5:00 AM,,2025-05-30 01:23:52
+Customer 263,0100262,Agriculture/Farming,Quiet and Reserved,Many times,Cambodia Post Bank,7015.87,18M,"Street 255, Phnom Penh",11.584672510592736,104.87856843229797,Repeat visit,7:00 AM,,2025-06-14 01:23:52
+Customer 264,0100263,Tourism/Hospitality,Talkative and Engaging,Never,Wing,6940.54,18M,"Street 406, Phnom Penh",11.543566102621412,104.8747999011802,Need follow-up,2:00 AM,,2025-05-28 01:23:52
+Customer 265,0100264,Fashion & Clothing,Skeptical or Distrustful,Never,None,8028.86,24M,"Street 116, Phnom Penh",11.541993152318145,104.89216023815005,Repeat visit,7:00 AM,,2025-06-14 01:23:52
+Customer 266,0100265,Tourism/Hospitality,Hard to Understand,Once,None,9596.64,12M,"Street 480, Phnom Penh",11.589960477762316,104.92680645999266,No answer,6:00 AM,2025-06-23 01.02.34.jpg,2025-05-31 01:23:52
+Customer 267,0100266,Street Food Stall,Skeptical or Distrustful,Never,Wing,8174.5,6M,"Street 103, Phnom Penh",11.53627477869147,104.92284609597574,Need follow-up,5:00 AM,20250615_214300.jpeg,2025-06-18 01:23:52
+Customer 268,0100267,Restaurant/Café,Skeptical or Distrustful,Many times,Cambodia Post Bank,9575.63,6M,"Street 144, Phnom Penh",11.57445552863704,104.9104857913584,Repeat visit,1:00 AM,2025-06-23 01.02.46.jpg,2025-06-09 01:23:52
+Customer 269,0100268,Repair Services,Friendly and Open,Once,ACLEDA,3564.2,18M,"Street 383, Phnom Penh",11.534342766359877,104.8572036968057,Repeat visit,10:00 AM,,2025-06-16 01:23:52
+Customer 270,0100269,Tourism/Hospitality,Skeptical or Distrustful,Many times,ABA,2948.12,18M,"Street 200, Phnom Penh",11.54987684689768,104.92816630242152,No answer,2:00 AM,,2025-05-26 01:23:52
+Customer 271,0100270,Electronics & Appliances,Talkative and Engaging,Never,None,9112.77,18M,"Street 248, Phnom Penh",11.55250731835793,104.92457451137878,Need follow-up,9:00 AM,,2025-06-18 01:23:52
+Customer 272,0100271,Repair Services,Busy or in a Hurry,Once,Cambodia Post Bank,5669.72,12M,"Street 65, Phnom Penh",11.58569636548395,104.85755693980772,Repeat visit,9:00 AM,,2025-06-18 01:23:52
+Customer 273,0100272,Restaurant/Café,Quiet and Reserved,Never,Cambodia Post Bank,9445.86,18M,"Street 393, Phnom Penh",11.566890691720698,104.89771868025478,No answer,9:00 AM,2025-06-23 01.05.23.jpg,2025-06-19 01:23:52
+Customer 274,0100273,Tourism/Hospitality,Talkative and Engaging,Once,ABA,3274.02,6M,"Street 78, Phnom Penh",11.54803829843798,104.90367980137583,Interested,2:00 AM,20250615_213943.jpeg,2025-06-04 01:23:52
+Customer 275,0100274,Beauty Salon,Very Welcoming,Once,Cambodia Post Bank,5860.6,18M,"Street 421, Phnom Penh",11.54633999427227,104.94097420425909,No answer,2:00 AM,20250615_214300.jpeg,2025-06-18 01:23:52
+Customer 276,0100275,General Retail,Interested but Cautious,Never,ACLEDA,4394.73,24M,"Street 122, Phnom Penh",11.598584344111663,104.9365441576671,Interested,10:00 AM,,2025-06-04 01:23:52
+Customer 277,0100276,Beauty Salon,Hard to Understand,Many times,None,2119.84,12M,"Street 212, Phnom Penh",11.534113503980414,104.91085164165099,No answer,6:00 AM,,2025-06-06 01:23:52
+Customer 278,0100277,Repair Services,Busy or in a Hurry,Many times,Cambodia Post Bank,3998.19,6M,"Street 89, Phnom Penh",11.572014525939634,104.92665391117048,Interested,5:00 AM,,2025-06-06 01:23:52
+Customer 279,0100278,Beauty Salon,Friendly and Open,Never,Cambodia Post Bank,7939.88,12M,"Street 49, Phnom Penh",11.573684550449778,104.90169509327308,No answer,8:00 AM,,2025-06-06 01:23:52
+Customer 280,0100279,Electronics & Appliances,Skeptical or Distrustful,Once,ACLEDA,2068.72,6M,"Street 451, Phnom Penh",11.57423408612649,104.8681402897188,No answer,2:00 AM,,2025-06-05 01:23:52
+Customer 281,0100280,Beauty Salon,Quiet and Reserved,Many times,Cambodia Post Bank,4781.16,18M,"Street 426, Phnom Penh",11.550075539920718,104.8671842624918,Interested,7:00 AM,,2025-06-03 01:23:52
+Customer 282,0100281,Street Food Stall,Very Welcoming,Once,Wing,6145.56,12M,"Street 442, Phnom Penh",11.541761986726282,104.93789369922462,No answer,12:00 AM,,2025-06-10 01:23:52
+Customer 283,0100282,Fashion & Clothing,Busy or in a Hurry,Once,Cambodia Post Bank,5963.48,6M,"Street 260, Phnom Penh",11.529116651479898,104.92429469482738,Interested,11:00 AM,,2025-06-07 01:23:52
+Customer 284,0100283,Fashion & Clothing,Hard to Understand,Never,None,2563.54,12M,"Street 174, Phnom Penh",11.587133831910174,104.93965915456985,No answer,3:00 AM,,2025-06-20 01:23:52
+Customer 285,0100284,Tourism/Hospitality,Uninterested,Never,ACLEDA,8647.52,12M,"Street 77, Phnom Penh",11.539622503572579,104.8969355470806,No answer,4:00 AM,20250615_214300.jpeg,2025-06-21 01:23:52
+Customer 286,0100285,Agriculture/Farming,Uninterested,Never,ACLEDA,899.71,12M,"Street 159, Phnom Penh",11.57007551704761,104.90351880437879,No answer,8:00 AM,,2025-06-19 01:23:52
+Customer 287,0100286,Tourism/Hospitality,Hard to Understand,Once,Wing,3531.05,18M,"Street 46, Phnom Penh",11.535624801270606,104.94218193948707,Repeat visit,2:00 AM,,2025-06-23 01:23:52
+Customer 288,0100287,Tourism/Hospitality,Aggressive or Pushy,Once,Cambodia Post Bank,9193.13,12M,"Street 448, Phnom Penh",11.558206547826613,104.90194371268505,Need follow-up,5:00 AM,,2025-06-16 01:23:52
+Customer 289,0100288,Agriculture/Farming,Interested but Cautious,Many times,ACLEDA,3468.28,12M,"Street 270, Phnom Penh",11.550198296044107,104.91707739699449,Need follow-up,4:00 AM,,2025-06-04 01:23:52
+Customer 290,0100289,Repair Services,Very Welcoming,Never,ACLEDA,7450.51,6M,"Street 384, Phnom Penh",11.557358053960987,104.89649613142277,No answer,8:00 AM,,2025-06-08 01:23:52
+Customer 291,0100290,Fashion & Clothing,Quiet and Reserved,Once,None,6527.3,12M,"Street 77, Phnom Penh",11.591050311854193,104.85133504453954,Repeat visit,8:00 AM,,2025-06-05 01:23:52
+Customer 292,0100291,General Retail,Skeptical or Distrustful,Never,Wing,1412.37,12M,"Street 469, Phnom Penh",11.549625085102024,104.93363449545292,No answer,9:00 AM,20250615_214300.jpeg,2025-06-15 01:23:52
+Customer 293,0100292,Electronics & Appliances,Uninterested,Many times,ACLEDA,4712.5,12M,"Street 371, Phnom Penh",11.589511362154512,104.93448083727715,No answer,3:00 AM,,2025-05-30 01:23:52
+Customer 294,0100293,Beauty Salon,Busy or in a Hurry,Never,Wing,2375.95,24M,"Street 483, Phnom Penh",11.52795311358717,104.8992446868309,Repeat visit,4:00 AM,,2025-05-30 01:23:52
+Customer 295,0100294,Street Food Stall,Skeptical or Distrustful,Once,None,1660.26,24M,"Street 194, Phnom Penh",11.57986687992018,104.8673583408268,Repeat visit,7:00 AM,,2025-05-26 01:23:52
+Customer 296,0100295,General Retail,Talkative and Engaging,Never,None,1041.94,18M,"Street 222, Phnom Penh",11.589514848467415,104.8800715541778,Need follow-up,12:00 AM,,2025-06-12 01:23:52
+Customer 297,0100296,Fashion & Clothing,Interested but Cautious,Many times,Cambodia Post Bank,6286.99,24M,"Street 350, Phnom Penh",11.580973967947992,104.86244432749672,No answer,5:00 AM,,2025-06-04 01:23:52
+Customer 298,0100297,Restaurant/Café,Busy or in a Hurry,Never,Wing,3808.46,24M,"Street 284, Phnom Penh",11.56619690379568,104.94932895000048,Repeat visit,12:00 AM,,2025-06-01 01:23:52
+Customer 299,0100298,Tourism/Hospitality,Friendly and Open,Many times,Cambodia Post Bank,2712.14,24M,"Street 372, Phnom Penh",11.547399275680583,104.8704992525651,Interested,12:00 AM,,2025-06-02 01:23:52
+Customer 300,0100299,Street Food Stall,Aggressive or Pushy,Never,ABA,6808.31,6M,"Street 181, Phnom Penh",11.57779130581735,104.94775256097408,Need follow-up,5:00 AM,,2025-06-12 01:23:52
+Customer 301,0100300,Beauty Salon,Uninterested,Many times,ACLEDA,1939.38,6M,"Street 131, Phnom Penh",11.551151783408507,104.85217420547188,No answer,9:00 AM,,2025-06-13 01:23:52
+Customer 302,0100301,Beauty Salon,Busy or in a Hurry,Never,Wing,3638.17,12M,"Street 144, Phnom Penh",11.567988895175343,104.87391888432202,Need follow-up,12:00 AM,,2025-05-31 01:23:52
+Customer 303,0100302,General Retail,Interested but Cautious,Once,ABA,4461.41,12M,"Street 256, Phnom Penh",11.598314924388681,104.86690937081327,Interested,11:00 AM,,2025-06-15 01:23:52
+Customer 304,0100303,Electronics & Appliances,Interested but Cautious,Many times,Wing,6367.98,24M,"Street 62, Phnom Penh",11.564407345144879,104.86869230274323,Need follow-up,8:00 AM,,2025-05-24 01:23:52
+Customer 305,0100304,Electronics & Appliances,Very Welcoming,Many times,Wing,8776.16,24M,"Street 459, Phnom Penh",11.590837509943826,104.90880470535531,No answer,4:00 AM,2025-06-23 01.05.23.jpg,2025-06-16 01:23:52
+Customer 306,0100305,Street Food Stall,Talkative and Engaging,Many times,None,8594.35,18M,"Street 4, Phnom Penh",11.526285618106515,104.88422494992757,Need follow-up,3:00 AM,,2025-06-15 01:23:52
+Customer 307,0100306,General Retail,Busy or in a Hurry,Never,Wing,1236.29,18M,"Street 442, Phnom Penh",11.59879249109491,104.89936846780499,Interested,9:00 AM,,2025-06-03 01:23:52
+Customer 308,0100307,Electronics & Appliances,Aggressive or Pushy,Many times,None,7829.06,24M,"Street 397, Phnom Penh",11.56048702918817,104.9040058817033,Need follow-up,9:00 AM,2025-06-23 01.02.19.jpg,2025-06-21 01:23:52
+Customer 309,0100308,Fashion & Clothing,Aggressive or Pushy,Once,None,3065.41,24M,"Street 140, Phnom Penh",11.577177516140932,104.88666546983922,Repeat visit,5:00 AM,,2025-06-17 01:23:52
+Customer 310,0100309,Restaurant/Café,Very Welcoming,Many times,Wing,4478.27,12M,"Street 179, Phnom Penh",11.563449096948485,104.94972438890767,No answer,9:00 AM,,2025-06-05 01:23:52
+Customer 311,0100310,Beauty Salon,Very Welcoming,Many times,ABA,7538.89,12M,"Street 500, Phnom Penh",11.5337395659576,104.93345433253873,Repeat visit,1:00 AM,20250615_214300.jpeg,2025-06-08 01:23:52
+Customer 312,0100311,Beauty Salon,Very Welcoming,Once,Cambodia Post Bank,3704.54,18M,"Street 205, Phnom Penh",11.583610488341142,104.92255655573217,Repeat visit,3:00 AM,2025-06-23 01.02.50.jpg,2025-06-13 01:23:52
+Customer 313,0100312,Repair Services,Hard to Understand,Many times,Wing,3832.42,6M,"Street 441, Phnom Penh",11.577577350838636,104.91385475595293,Need follow-up,5:00 AM,,2025-06-07 01:23:52
+Customer 314,0100313,General Retail,Uninterested,Never,None,2351.05,18M,"Street 27, Phnom Penh",11.573164161941126,104.8584349401849,No answer,11:00 AM,,2025-06-01 01:23:52
+Customer 315,0100314,Beauty Salon,Uninterested,Many times,None,6946.84,12M,"Street 64, Phnom Penh",11.562709597722755,104.92812108711212,Repeat visit,3:00 AM,,2025-06-01 01:23:52
+Customer 316,0100315,Restaurant/Café,Aggressive or Pushy,Never,Wing,5429.14,24M,"Street 251, Phnom Penh",11.573224847671444,104.92293310863006,Need follow-up,5:00 AM,,2025-06-21 01:23:52
+Customer 317,0100316,Repair Services,Talkative and Engaging,Many times,Wing,9346.77,6M,"Street 434, Phnom Penh",11.59108321865958,104.91335311969364,Repeat visit,5:00 AM,,2025-05-31 01:23:52
+Customer 318,0100317,General Retail,Interested but Cautious,Once,Cambodia Post Bank,1089.6,24M,"Street 363, Phnom Penh",11.572758754902491,104.8976028629938,Interested,7:00 AM,,2025-06-23 01:23:52
+Customer 319,0100318,Beauty Salon,Friendly and Open,Once,None,2209.41,12M,"Street 128, Phnom Penh",11.57223926826518,104.89767617103095,Repeat visit,3:00 AM,,2025-06-09 01:23:52
+Customer 320,0100319,Beauty Salon,Hard to Understand,Never,None,5934.95,12M,"Street 222, Phnom Penh",11.527842174666816,104.85612273188735,No answer,9:00 AM,2025-06-23 01.02.07.jpg,2025-06-05 01:23:52
+Customer 321,0100320,Street Food Stall,Busy or in a Hurry,Once,None,1434.44,24M,"Street 330, Phnom Penh",11.59016987690903,104.89354329636849,No answer,1:00 AM,,2025-06-04 01:23:52
+Customer 322,0100321,General Retail,Aggressive or Pushy,Once,None,5581.77,18M,"Street 426, Phnom Penh",11.597006959288509,104.85316846947521,Interested,10:00 AM,,2025-06-04 01:23:52
+Customer 323,0100322,Beauty Salon,Hard to Understand,Many times,Wing,4916.86,6M,"Street 333, Phnom Penh",11.598259589097339,104.88070863013513,Need follow-up,8:00 AM,,2025-05-31 01:23:52
+Customer 324,0100323,Repair Services,Skeptical or Distrustful,Once,ABA,3632.2,12M,"Street 89, Phnom Penh",11.540271143185333,104.89665705983971,Repeat visit,4:00 AM,,2025-05-30 01:23:52
+Customer 325,0100324,Tourism/Hospitality,Uninterested,Once,ABA,737.38,12M,"Street 164, Phnom Penh",11.546135576601117,104.9317169060781,Interested,5:00 AM,,2025-06-15 01:23:52
+Customer 326,0100325,Fashion & Clothing,Friendly and Open,Never,ACLEDA,3178.72,6M,"Street 353, Phnom Penh",11.59016019625318,104.90002947745843,Need follow-up,5:00 AM,2025-06-23 01.04.26.jpg,2025-06-19 01:23:52
+Customer 327,0100326,General Retail,Uninterested,Once,Cambodia Post Bank,1794.47,6M,"Street 8, Phnom Penh",11.596386584579886,104.91005055628094,Interested,10:00 AM,,2025-06-22 01:23:52
+Customer 328,0100327,Fashion & Clothing,Aggressive or Pushy,Many times,Cambodia Post Bank,2632.67,24M,"Street 294, Phnom Penh",11.549339322577577,104.91798305784555,Repeat visit,6:00 AM,,2025-06-14 01:23:52
+Customer 329,0100328,Beauty Salon,Very Welcoming,Many times,ABA,1308.78,6M,"Street 215, Phnom Penh",11.586645216414114,104.93284283288686,Interested,9:00 AM,,2025-06-03 01:23:52
+Customer 330,0100329,Tourism/Hospitality,Skeptical or Distrustful,Never,ABA,7049.71,6M,"Street 122, Phnom Penh",11.535742914945283,104.93510922967636,Need follow-up,7:00 AM,,2025-06-18 01:23:52
+Customer 331,0100330,Restaurant/Café,Aggressive or Pushy,Once,ABA,3163.55,18M,"Street 35, Phnom Penh",11.553029316360076,104.9347339145416,Interested,10:00 AM,,2025-06-19 01:23:52
+Customer 332,0100331,Agriculture/Farming,Friendly and Open,Never,Cambodia Post Bank,6679.76,24M,"Street 433, Phnom Penh",11.568371212971249,104.88106719404918,No answer,11:00 AM,,2025-06-12 01:23:52
+Customer 333,0100332,General Retail,Quiet and Reserved,Once,Cambodia Post Bank,1620.79,18M,"Street 456, Phnom Penh",11.53234903733994,104.9375902540114,Repeat visit,5:00 AM,2025-06-23 01.02.46.jpg,2025-06-10 01:23:52
+Customer 334,0100333,Tourism/Hospitality,Very Welcoming,Never,Cambodia Post Bank,9754.83,24M,"Street 131, Phnom Penh",11.520612816640412,104.94712063913234,Interested,9:00 AM,,2025-06-12 01:23:52
+Customer 335,0100334,Street Food Stall,Hard to Understand,Never,Cambodia Post Bank,9310.51,24M,"Street 299, Phnom Penh",11.55293778198505,104.92185642620407,Repeat visit,11:00 AM,2025-06-23 01.02.27.jpg,2025-06-07 01:23:52
+Customer 336,0100335,Restaurant/Café,Busy or in a Hurry,Once,Cambodia Post Bank,1809.53,24M,"Street 341, Phnom Penh",11.572856793399787,104.85326714101559,Need follow-up,9:00 AM,2025-06-23 01.02.39.jpg,2025-05-31 01:23:52
+Customer 337,0100336,Tourism/Hospitality,Skeptical or Distrustful,Once,ACLEDA,2550.41,24M,"Street 286, Phnom Penh",11.585616608927804,104.8518016293909,Interested,7:00 AM,,2025-05-25 01:23:52
+Customer 338,0100337,Street Food Stall,Talkative and Engaging,Once,Wing,2567.08,12M,"Street 175, Phnom Penh",11.579713430324851,104.90749195554277,Interested,12:00 AM,,2025-06-05 01:23:52
+Customer 339,0100338,Electronics & Appliances,Busy or in a Hurry,Many times,Cambodia Post Bank,782.16,18M,"Street 250, Phnom Penh",11.546515082486987,104.89496000923332,Repeat visit,1:00 AM,,2025-06-16 01:23:52
+Customer 340,0100339,Fashion & Clothing,Skeptical or Distrustful,Many times,ACLEDA,3739.8,12M,"Street 313, Phnom Penh",11.582070748418086,104.93040651342584,No answer,10:00 AM,,2025-06-09 01:23:52
+Customer 341,0100340,Fashion & Clothing,Talkative and Engaging,Never,Cambodia Post Bank,3444.51,12M,"Street 262, Phnom Penh",11.591285548137197,104.86983143135892,Repeat visit,5:00 AM,2025-06-23 01.03.10.jpg,2025-05-31 01:23:52
+Customer 342,0100341,Fashion & Clothing,Talkative and Engaging,Never,ACLEDA,6090.5,24M,"Street 35, Phnom Penh",11.557027694570154,104.85617507975442,Repeat visit,7:00 AM,2025-06-23 01.02.34.jpg,2025-06-03 01:23:52
+Customer 343,0100342,Agriculture/Farming,Aggressive or Pushy,Many times,ABA,3359.97,6M,"Street 238, Phnom Penh",11.58465137343449,104.93877064578864,Interested,3:00 AM,,2025-05-28 01:23:52
+Customer 344,0100343,Repair Services,Aggressive or Pushy,Many times,Wing,3615.99,18M,"Street 75, Phnom Penh",11.541492347887022,104.87002736726429,Interested,2:00 AM,,2025-05-28 01:23:52
+Customer 345,0100344,Agriculture/Farming,Talkative and Engaging,Many times,ABA,3592.79,18M,"Street 76, Phnom Penh",11.554673381890794,104.87793217690901,Interested,10:00 AM,,2025-06-16 01:23:52
+Customer 346,0100345,Fashion & Clothing,Talkative and Engaging,Never,Cambodia Post Bank,3024.22,12M,"Street 288, Phnom Penh",11.592116635047333,104.93410935952349,Repeat visit,1:00 AM,,2025-06-16 01:23:52
+Customer 347,0100346,General Retail,Busy or in a Hurry,Never,Cambodia Post Bank,4407.11,12M,"Street 378, Phnom Penh",11.596050502563664,104.88111862940868,Need follow-up,2:00 AM,,2025-05-25 01:23:52
+Customer 348,0100347,Electronics & Appliances,Interested but Cautious,Many times,ACLEDA,6637.65,6M,"Street 228, Phnom Penh",11.579122407430992,104.8990863224611,Repeat visit,8:00 AM,,2025-05-28 01:23:52
+Customer 349,0100348,Electronics & Appliances,Uninterested,Never,Wing,6762.38,24M,"Street 373, Phnom Penh",11.569130918954547,104.94878729435182,Interested,12:00 AM,2025-06-23 01.02.27.jpg,2025-05-27 01:23:52
+Customer 350,0100349,Beauty Salon,Very Welcoming,Once,Wing,653.97,18M,"Street 147, Phnom Penh",11.540312431973758,104.9439004590265,No answer,3:00 AM,,2025-06-06 01:23:52
+Customer 351,0100350,Fashion & Clothing,Very Welcoming,Never,None,4020.87,18M,"Street 181, Phnom Penh",11.569500825101837,104.88181720948273,No answer,9:00 AM,,2025-06-04 01:23:52
+Customer 352,0100351,Agriculture/Farming,Very Welcoming,Many times,Wing,3429.4,24M,"Street 354, Phnom Penh",11.571772506401937,104.94864369142883,Need follow-up,1:00 AM,,2025-06-10 01:23:52
+Customer 353,0100352,General Retail,Uninterested,Many times,Wing,9456.68,6M,"Street 417, Phnom Penh",11.5634348090759,104.8726171002316,Interested,8:00 AM,2025-06-23 01.05.23.jpg,2025-06-15 01:23:52
+Customer 354,0100353,Tourism/Hospitality,Hard to Understand,Never,Wing,1564.99,6M,"Street 377, Phnom Penh",11.589347107847557,104.86243527875058,Interested,1:00 AM,,2025-06-03 01:23:52
+Customer 355,0100354,Beauty Salon,Busy or in a Hurry,Many times,ACLEDA,4397.43,6M,"Street 499, Phnom Penh",11.553864073666114,104.90106858860001,No answer,11:00 AM,2025-06-23 01.02.34.jpg,2025-06-01 01:23:52
+Customer 356,0100355,Agriculture/Farming,Talkative and Engaging,Once,ACLEDA,1068.98,18M,"Street 75, Phnom Penh",11.593404246556181,104.90006478947026,Repeat visit,6:00 AM,2025-06-23 01.02.34.jpg,2025-06-04 01:23:52
+Customer 357,0100356,Tourism/Hospitality,Quiet and Reserved,Once,Cambodia Post Bank,4449.88,6M,"Street 129, Phnom Penh",11.547881980090583,104.92441488206025,No answer,7:00 AM,,2025-06-13 01:23:52
+Customer 358,0100357,Repair Services,Busy or in a Hurry,Never,Wing,4068.81,24M,"Street 229, Phnom Penh",11.596857460945335,104.91565008673228,No answer,7:00 AM,,2025-05-29 01:23:52
+Customer 359,0100358,Restaurant/Café,Quiet and Reserved,Once,None,7736.7,18M,"Street 61, Phnom Penh",11.537274504552537,104.86973813463582,Repeat visit,5:00 AM,2025-06-23 01.05.23.jpg,2025-05-26 01:23:52
+Customer 360,0100359,Repair Services,Busy or in a Hurry,Many times,Wing,9161.66,18M,"Street 475, Phnom Penh",11.582022914546418,104.89553054691586,Interested,1:00 AM,,2025-05-26 01:23:52
+Customer 361,0100360,Repair Services,Quiet and Reserved,Many times,ABA,3623.71,24M,"Street 62, Phnom Penh",11.574958224334527,104.87297919444637,Repeat visit,3:00 AM,2025-06-23 01.02.07.jpg,2025-06-03 01:23:52
+Customer 362,0100361,Beauty Salon,Uninterested,Many times,Wing,8577.01,12M,"Street 493, Phnom Penh",11.538943639135187,104.90720008895174,Interested,1:00 AM,,2025-06-08 01:23:52
+Customer 363,0100362,Electronics & Appliances,Quiet and Reserved,Many times,Cambodia Post Bank,9446.68,24M,"Street 148, Phnom Penh",11.52468946897137,104.92394598974286,Need follow-up,4:00 AM,,2025-06-22 01:23:52
+Customer 364,0100363,Fashion & Clothing,Talkative and Engaging,Once,Wing,7264.24,12M,"Street 157, Phnom Penh",11.537275774528993,104.91252882029491,No answer,5:00 AM,,2025-06-13 01:23:52
+Customer 365,0100364,Repair Services,Very Welcoming,Never,Wing,6550.02,6M,"Street 200, Phnom Penh",11.599997251470311,104.86486085851305,Interested,10:00 AM,,2025-06-13 01:23:52
+Customer 366,0100365,Street Food Stall,Very Welcoming,Once,ACLEDA,4453.18,18M,"Street 370, Phnom Penh",11.540123047416547,104.85034569341666,Interested,6:00 AM,,2025-05-25 01:23:52
+Customer 367,0100366,General Retail,Friendly and Open,Never,ACLEDA,5760.74,18M,"Street 89, Phnom Penh",11.56087971326807,104.92872201541869,No answer,5:00 AM,,2025-06-03 01:23:52
+Customer 368,0100367,Electronics & Appliances,Talkative and Engaging,Many times,Cambodia Post Bank,2676.0,18M,"Street 99, Phnom Penh",11.581545010427345,104.85529402342426,Interested,9:00 AM,2025-06-23 01.04.26.jpg,2025-06-19 01:23:52
+Customer 369,0100368,Agriculture/Farming,Interested but Cautious,Once,Wing,1245.69,6M,"Street 339, Phnom Penh",11.564552771794231,104.86903585292363,No answer,2:00 AM,2025-06-23 01.02.50.jpg,2025-06-03 01:23:52
+Customer 370,0100369,Agriculture/Farming,Skeptical or Distrustful,Never,ABA,4442.81,6M,"Street 118, Phnom Penh",11.572314757218289,104.88813658882985,No answer,4:00 AM,,2025-05-27 01:23:52
+Customer 371,0100370,General Retail,Uninterested,Never,ABA,8213.49,24M,"Street 318, Phnom Penh",11.538735264269125,104.92470935087577,Interested,6:00 AM,,2025-06-21 01:23:52
+Customer 372,0100371,Beauty Salon,Quiet and Reserved,Never,Cambodia Post Bank,6660.3,12M,"Street 77, Phnom Penh",11.57981005483694,104.87709127563593,Need follow-up,11:00 AM,,2025-05-31 01:23:52
+Customer 373,0100372,Beauty Salon,Skeptical or Distrustful,Never,None,2789.74,18M,"Street 228, Phnom Penh",11.58840865642028,104.88128061174179,No answer,11:00 AM,,2025-06-09 01:23:52
+Customer 374,0100373,Agriculture/Farming,Quiet and Reserved,Never,ACLEDA,3302.0,18M,"Street 416, Phnom Penh",11.544785797331905,104.92082846937568,Repeat visit,4:00 AM,,2025-05-28 01:23:52
+Customer 375,0100374,Beauty Salon,Friendly and Open,Once,Cambodia Post Bank,4346.88,12M,"Street 413, Phnom Penh",11.578613708523159,104.90554594327746,Interested,4:00 AM,,2025-05-30 01:23:52
+Customer 376,0100375,Electronics & Appliances,Very Welcoming,Never,Cambodia Post Bank,4347.59,18M,"Street 344, Phnom Penh",11.573915549709541,104.91544686057124,Repeat visit,12:00 AM,2025-06-23 01.03.53.jpg,2025-06-04 01:23:52
+Customer 377,0100376,Tourism/Hospitality,Quiet and Reserved,Never,None,8696.91,12M,"Street 134, Phnom Penh",11.537793960412012,104.92292472318695,No answer,1:00 AM,,2025-06-02 01:23:52
+Customer 378,0100377,Restaurant/Café,Uninterested,Never,ABA,7442.92,6M,"Street 70, Phnom Penh",11.543506756963351,104.8992890158957,Need follow-up,6:00 AM,,2025-05-25 01:23:52
+Customer 379,0100378,Repair Services,Uninterested,Never,ABA,4794.15,6M,"Street 234, Phnom Penh",11.577501247928568,104.89681386561941,Repeat visit,5:00 AM,,2025-06-23 01:23:52
+Customer 380,0100379,Repair Services,Busy or in a Hurry,Once,Cambodia Post Bank,3437.99,24M,"Street 153, Phnom Penh",11.559839396810615,104.88024599312199,No answer,2:00 AM,,2025-06-18 01:23:52
+Customer 381,0100380,Beauty Salon,Very Welcoming,Never,ACLEDA,3790.37,24M,"Street 250, Phnom Penh",11.561173057089654,104.94650711212086,No answer,3:00 AM,,2025-06-06 01:23:52
+Customer 382,0100381,Electronics & Appliances,Hard to Understand,Many times,ABA,7307.63,12M,"Street 300, Phnom Penh",11.57126718171628,104.89567441390773,Interested,12:00 AM,,2025-06-17 01:23:52
+Customer 383,0100382,Tourism/Hospitality,Talkative and Engaging,Once,None,5735.6,6M,"Street 156, Phnom Penh",11.581047874516345,104.85598458790693,Interested,1:00 AM,,2025-06-12 01:23:52
+Customer 384,0100383,Fashion & Clothing,Very Welcoming,Many times,ABA,1099.35,6M,"Street 52, Phnom Penh",11.565475441637991,104.86635606420711,Interested,8:00 AM,,2025-05-31 01:23:52
+Customer 385,0100384,Tourism/Hospitality,Talkative and Engaging,Once,None,1791.23,12M,"Street 257, Phnom Penh",11.560213446811286,104.86950032286572,Interested,1:00 AM,,2025-06-18 01:23:52
+Customer 386,0100385,Tourism/Hospitality,Skeptical or Distrustful,Never,Wing,2201.61,6M,"Street 69, Phnom Penh",11.565939447751921,104.92579974607303,No answer,1:00 AM,,2025-06-10 01:23:52
+Customer 387,0100386,General Retail,Busy or in a Hurry,Never,Cambodia Post Bank,6936.83,6M,"Street 256, Phnom Penh",11.579464512533134,104.91885461010371,Need follow-up,11:00 AM,,2025-05-28 01:23:52
+Customer 388,0100387,Electronics & Appliances,Aggressive or Pushy,Many times,ABA,2356.83,18M,"Street 400, Phnom Penh",11.54010771356047,104.86384688167891,Interested,9:00 AM,,2025-06-08 01:23:52
+Customer 389,0100388,Street Food Stall,Quiet and Reserved,Once,ABA,6452.12,12M,"Street 127, Phnom Penh",11.525381030356572,104.87451364817777,Interested,3:00 AM,,2025-06-19 01:23:52
+Customer 390,0100389,Electronics & Appliances,Very Welcoming,Once,ABA,1606.73,24M,"Street 168, Phnom Penh",11.578882961525284,104.87688275103702,Need follow-up,5:00 AM,2025-06-23 01.01.50.jpg,2025-06-03 01:23:52
+Customer 391,0100390,Street Food Stall,Skeptical or Distrustful,Many times,Wing,5363.67,12M,"Street 252, Phnom Penh",11.597629376937302,104.89519711950939,Repeat visit,8:00 AM,,2025-05-28 01:23:52
+Customer 392,0100391,General Retail,Hard to Understand,Once,None,8189.35,18M,"Street 79, Phnom Penh",11.53261638740759,104.92494472753101,Interested,7:00 AM,,2025-06-18 01:23:52
+Customer 393,0100392,Street Food Stall,Interested but Cautious,Once,Cambodia Post Bank,9989.23,12M,"Street 70, Phnom Penh",11.55727933753986,104.93354554147845,Interested,12:00 AM,,2025-06-22 01:23:52
+Customer 394,0100393,Fashion & Clothing,Uninterested,Many times,ABA,6138.04,6M,"Street 225, Phnom Penh",11.592892705043097,104.89143937854683,Interested,9:00 AM,,2025-05-30 01:23:52
+Customer 395,0100394,Tourism/Hospitality,Friendly and Open,Once,Wing,8572.77,12M,"Street 142, Phnom Penh",11.571671419901973,104.91855836369544,Interested,7:00 AM,,2025-05-26 01:23:52
+Customer 396,0100395,Agriculture/Farming,Hard to Understand,Never,ABA,5617.43,18M,"Street 213, Phnom Penh",11.543323703738206,104.88412153403821,No answer,4:00 AM,,2025-06-21 01:23:52
+Customer 397,0100396,Restaurant/Café,Interested but Cautious,Once,ABA,7235.29,24M,"Street 257, Phnom Penh",11.569077167050835,104.8857781380801,Interested,2:00 AM,,2025-06-14 01:23:52
+Customer 398,0100397,Restaurant/Café,Very Welcoming,Never,ABA,3667.37,24M,"Street 87, Phnom Penh",11.571683951192167,104.89064144784885,No answer,3:00 AM,2025-06-23 01.04.08.jpg,2025-06-06 01:23:52
+Customer 399,0100398,Repair Services,Friendly and Open,Never,ABA,7828.88,18M,"Street 103, Phnom Penh",11.571495273089583,104.90033065403107,Interested,11:00 AM,2025-06-23 01.05.23.jpg,2025-06-20 01:23:52
+Customer 400,0100399,Restaurant/Café,Hard to Understand,Many times,Wing,4767.51,6M,"Street 69, Phnom Penh",11.556446988289869,104.88771306000558,No answer,12:00 AM,,2025-06-19 01:23:52
+Customer 401,0100400,Electronics & Appliances,Aggressive or Pushy,Never,None,3317.88,6M,"Street 211, Phnom Penh",11.540785480242528,104.93814487977728,Repeat visit,7:00 AM,2025-06-23 01.03.04.jpg,2025-06-17 01:23:52
+Customer 402,0100401,Tourism/Hospitality,Aggressive or Pushy,Many times,Wing,4079.75,18M,"Street 387, Phnom Penh",11.586881271273084,104.89019062447875,Interested,5:00 AM,,2025-06-08 01:23:52
+Customer 403,0100402,Fashion & Clothing,Busy or in a Hurry,Never,ACLEDA,4702.54,6M,"Street 4, Phnom Penh",11.526026122226648,104.91489054984254,Repeat visit,3:00 AM,,2025-06-09 01:23:52
+Customer 404,0100403,Street Food Stall,Busy or in a Hurry,Never,ABA,4912.43,24M,"Street 263, Phnom Penh",11.558197908055417,104.89543000857745,Repeat visit,4:00 AM,,2025-06-03 01:23:52
+Customer 405,0100404,Electronics & Appliances,Very Welcoming,Never,Wing,1564.5,6M,"Street 162, Phnom Penh",11.52899920397658,104.87965867713523,No answer,7:00 AM,,2025-05-26 01:23:52
+Customer 406,0100405,Fashion & Clothing,Interested but Cautious,Many times,ACLEDA,2297.46,24M,"Street 33, Phnom Penh",11.579409007880415,104.93539931161564,No answer,5:00 AM,2025-06-23 01.04.26.jpg,2025-06-07 01:23:52
+Customer 407,0100406,General Retail,Uninterested,Never,ABA,9211.65,6M,"Street 78, Phnom Penh",11.577764518449866,104.93780832824454,Repeat visit,4:00 AM,,2025-06-03 01:23:52
+Customer 408,0100407,Repair Services,Busy or in a Hurry,Many times,ABA,9414.96,12M,"Street 84, Phnom Penh",11.570768663636256,104.90687557444832,Interested,4:00 AM,,2025-06-17 01:23:52
+Customer 409,0100408,Fashion & Clothing,Aggressive or Pushy,Many times,Wing,3646.78,12M,"Street 376, Phnom Penh",11.57142396349679,104.93976757258574,Repeat visit,6:00 AM,2025-06-23 01.02.19.jpg,2025-05-29 01:23:52
+Customer 410,0100409,Fashion & Clothing,Quiet and Reserved,Many times,None,1596.38,12M,"Street 212, Phnom Penh",11.527222974830467,104.92181760110194,Interested,2:00 AM,,2025-05-31 01:23:52
+Customer 411,0100410,Beauty Salon,Talkative and Engaging,Never,ABA,3935.97,18M,"Street 422, Phnom Penh",11.541666451241067,104.8802891218107,Repeat visit,7:00 AM,,2025-05-24 01:23:52
+Customer 412,0100411,Restaurant/Café,Busy or in a Hurry,Many times,Wing,7789.89,6M,"Street 73, Phnom Penh",11.539339177921153,104.93035194485837,Interested,3:00 AM,,2025-06-11 01:23:52
+Customer 413,0100412,General Retail,Hard to Understand,Once,Cambodia Post Bank,4798.36,18M,"Street 97, Phnom Penh",11.591010649938843,104.90299641016766,No answer,8:00 AM,,2025-06-08 01:23:52
+Customer 414,0100413,Electronics & Appliances,Skeptical or Distrustful,Once,ABA,3372.75,24M,"Street 254, Phnom Penh",11.565191210569742,104.85840214927397,No answer,11:00 AM,,2025-06-14 01:23:52
+Customer 415,0100414,Beauty Salon,Hard to Understand,Many times,ABA,733.58,6M,"Street 209, Phnom Penh",11.530871146652395,104.92279045260607,Interested,11:00 AM,,2025-06-06 01:23:52
+Customer 416,0100415,Street Food Stall,Quiet and Reserved,Once,ACLEDA,8206.01,6M,"Street 298, Phnom Penh",11.591276876532607,104.8742552284338,Need follow-up,4:00 AM,,2025-06-03 01:23:52
+Customer 417,0100416,Repair Services,Uninterested,Never,Wing,7690.49,12M,"Street 487, Phnom Penh",11.57184126763754,104.94827556353809,Need follow-up,12:00 AM,2025-06-23 01.03.23.jpg,2025-06-09 01:23:52
+Customer 418,0100417,Agriculture/Farming,Very Welcoming,Never,Cambodia Post Bank,8414.18,18M,"Street 181, Phnom Penh",11.543149079858562,104.94762520702564,Repeat visit,2:00 AM,,2025-06-08 01:23:52
+Customer 419,0100418,Tourism/Hospitality,Hard to Understand,Once,Cambodia Post Bank,4111.33,12M,"Street 129, Phnom Penh",11.595428994059677,104.87055442900032,Repeat visit,2:00 AM,2025-06-23 01.02.46.jpg,2025-06-16 01:23:52
+Customer 420,0100419,Restaurant/Café,Very Welcoming,Once,ABA,5667.41,12M,"Street 296, Phnom Penh",11.55152193682692,104.89748522136144,Interested,12:00 AM,2025-06-23 01.01.50.jpg,2025-05-31 01:23:52
+Customer 421,0100420,Electronics & Appliances,Uninterested,Once,None,8702.91,12M,"Street 159, Phnom Penh",11.57260540110471,104.9420113481294,Repeat visit,5:00 AM,,2025-06-09 01:23:52
+Customer 422,0100421,Beauty Salon,Quiet and Reserved,Many times,ABA,5304.35,18M,"Street 239, Phnom Penh",11.56952613914497,104.90076305247884,Repeat visit,1:00 AM,,2025-05-30 01:23:52
+Customer 423,0100422,Beauty Salon,Interested but Cautious,Once,ABA,5388.17,6M,"Street 470, Phnom Penh",11.598764745068658,104.91492685999856,Interested,12:00 AM,,2025-06-17 01:23:52
+Customer 424,0100423,Street Food Stall,Interested but Cautious,Many times,ABA,1914.09,12M,"Street 40, Phnom Penh",11.55958974687726,104.8892967167214,Interested,12:00 AM,,2025-06-21 01:23:52
+Customer 425,0100424,Repair Services,Talkative and Engaging,Once,ABA,6420.77,18M,"Street 380, Phnom Penh",11.580152126231155,104.90070115130644,No answer,5:00 AM,,2025-05-31 01:23:52
+Customer 426,0100425,Agriculture/Farming,Very Welcoming,Never,None,9618.71,24M,"Street 36, Phnom Penh",11.532980209668345,104.8564414333181,Interested,3:00 AM,,2025-05-31 01:23:52
+Customer 427,0100426,Street Food Stall,Busy or in a Hurry,Never,Wing,6924.88,6M,"Street 456, Phnom Penh",11.582930880036184,104.8827935296864,Repeat visit,10:00 AM,,2025-06-22 01:23:52
+Customer 428,0100427,Street Food Stall,Aggressive or Pushy,Once,ACLEDA,5527.27,12M,"Street 167, Phnom Penh",11.59287311147776,104.88037701902478,Interested,3:00 AM,,2025-05-31 01:23:52
+Customer 429,0100428,General Retail,Skeptical or Distrustful,Never,None,8695.44,18M,"Street 107, Phnom Penh",11.57073869364318,104.85134600772281,Interested,8:00 AM,2025-06-23 01.05.23.jpg,2025-06-06 01:23:52
+Customer 430,0100429,Tourism/Hospitality,Uninterested,Never,ACLEDA,5816.56,6M,"Street 254, Phnom Penh",11.533306773718266,104.9425566564314,No answer,3:00 AM,,2025-06-17 01:23:52
+Customer 431,0100430,Repair Services,Aggressive or Pushy,Once,Cambodia Post Bank,3867.56,12M,"Street 352, Phnom Penh",11.594118981426877,104.89508959820391,Repeat visit,8:00 AM,2025-06-23 01.01.50.jpg,2025-05-30 01:23:52
+Customer 432,0100431,Repair Services,Talkative and Engaging,Once,ABA,7014.0,18M,"Street 216, Phnom Penh",11.547877349212518,104.85923342475459,Interested,3:00 AM,,2025-05-30 01:23:52
+Customer 433,0100432,General Retail,Aggressive or Pushy,Once,Cambodia Post Bank,3224.03,12M,"Street 355, Phnom Penh",11.531811713616396,104.92500132389321,Interested,6:00 AM,,2025-06-12 01:23:52
+Customer 434,0100433,Fashion & Clothing,Busy or in a Hurry,Once,ABA,8996.99,6M,"Street 36, Phnom Penh",11.585530049019551,104.93034019937201,Interested,1:00 AM,,2025-06-12 01:23:52
+Customer 435,0100434,General Retail,Very Welcoming,Never,ABA,5593.9,12M,"Street 159, Phnom Penh",11.528091493930166,104.89189804718721,Interested,2:00 AM,,2025-06-07 01:23:52
+Customer 436,0100435,Street Food Stall,Friendly and Open,Once,Wing,9065.76,12M,"Street 16, Phnom Penh",11.573572712072487,104.91159388431532,Repeat visit,11:00 AM,,2025-06-01 01:23:52
+Customer 437,0100436,Electronics & Appliances,Friendly and Open,Never,Cambodia Post Bank,9355.92,18M,"Street 338, Phnom Penh",11.564161378264709,104.86810575917605,Repeat visit,12:00 AM,,2025-06-05 01:23:52
+Customer 438,0100437,Electronics & Appliances,Uninterested,Never,ACLEDA,8978.66,12M,"Street 428, Phnom Penh",11.557741347027807,104.89509567108179,Need follow-up,12:00 AM,,2025-06-04 01:23:52
+Customer 439,0100438,General Retail,Hard to Understand,Many times,Cambodia Post Bank,4940.0,18M,"Street 309, Phnom Penh",11.537571462279145,104.89054022682392,Repeat visit,2:00 AM,,2025-05-27 01:23:52
+Customer 440,0100439,Electronics & Appliances,Busy or in a Hurry,Many times,None,1353.73,18M,"Street 225, Phnom Penh",11.551002766597252,104.90073250515032,Interested,2:00 AM,,2025-05-30 01:23:52
+Customer 441,0100440,Beauty Salon,Friendly and Open,Many times,Cambodia Post Bank,3975.03,18M,"Street 230, Phnom Penh",11.55204063213837,104.89980717530669,No answer,6:00 AM,,2025-06-14 01:23:52
+Customer 442,0100441,Tourism/Hospitality,Interested but Cautious,Once,None,3361.09,12M,"Street 145, Phnom Penh",11.59221763685801,104.89514672417269,No answer,7:00 AM,,2025-06-23 01:23:52
+Customer 443,0100442,Tourism/Hospitality,Uninterested,Many times,Cambodia Post Bank,7377.43,18M,"Street 393, Phnom Penh",11.554506799406044,104.94784194712354,Interested,2:00 AM,,2025-06-22 01:23:52
+Customer 444,0100443,Fashion & Clothing,Aggressive or Pushy,Many times,ABA,8042.04,18M,"Street 363, Phnom Penh",11.566026030304341,104.94745255025832,Need follow-up,1:00 AM,,2025-06-06 01:23:52
+Customer 445,0100444,General Retail,Very Welcoming,Never,ABA,6110.97,18M,"Street 457, Phnom Penh",11.577777585423316,104.8988954254465,Need follow-up,10:00 AM,,2025-05-28 01:23:52
+Customer 446,0100445,Tourism/Hospitality,Uninterested,Once,Wing,8816.32,18M,"Street 132, Phnom Penh",11.539622506296144,104.93459602505673,No answer,10:00 AM,,2025-05-25 01:23:52
+Customer 447,0100446,Agriculture/Farming,Very Welcoming,Once,Wing,7942.9,24M,"Street 60, Phnom Penh",11.535714271826022,104.90918200285351,No answer,2:00 AM,,2025-06-12 01:23:52
+Customer 448,0100447,Electronics & Appliances,Very Welcoming,Never,ACLEDA,608.34,18M,"Street 334, Phnom Penh",11.531074690216292,104.85021865881629,Need follow-up,8:00 AM,,2025-05-29 01:23:52
+Customer 449,0100448,Street Food Stall,Busy or in a Hurry,Many times,ACLEDA,9911.35,18M,"Street 300, Phnom Penh",11.580982061569035,104.92614758135996,No answer,9:00 AM,2025-06-23 01.02.46.jpg,2025-06-20 01:23:52
+Customer 450,0100449,Agriculture/Farming,Busy or in a Hurry,Never,Wing,9145.35,18M,"Street 443, Phnom Penh",11.582236544940223,104.90817417488967,Interested,1:00 AM,,2025-05-29 01:23:52
+Customer 451,0100450,Repair Services,Hard to Understand,Once,ABA,7127.43,18M,"Street 28, Phnom Penh",11.597913983737365,104.9271001992044,Interested,11:00 AM,,2025-06-13 01:23:52
+Customer 452,0100451,Restaurant/Café,Uninterested,Never,ACLEDA,9775.59,6M,"Street 147, Phnom Penh",11.55973332644037,104.85025587733934,Interested,5:00 AM,,2025-06-12 01:23:52
+Customer 453,0100452,Repair Services,Uninterested,Once,Cambodia Post Bank,5790.17,12M,"Street 397, Phnom Penh",11.559313720038775,104.92684126157522,Interested,12:00 AM,,2025-05-29 01:23:52
+Customer 454,0100453,Restaurant/Café,Interested but Cautious,Once,None,1769.99,6M,"Street 260, Phnom Penh",11.571908459230276,104.90563898910648,Need follow-up,5:00 AM,,2025-06-01 01:23:52
+Customer 455,0100454,Street Food Stall,Interested but Cautious,Many times,ABA,5798.21,12M,"Street 239, Phnom Penh",11.539239610148185,104.89059254959925,No answer,12:00 AM,,2025-05-24 01:23:52
+Customer 456,0100455,Agriculture/Farming,Busy or in a Hurry,Never,Cambodia Post Bank,7221.67,12M,"Street 39, Phnom Penh",11.599081563500128,104.86298417696922,Need follow-up,11:00 AM,2025-06-23 01.03.10.jpg,2025-06-02 01:23:52
+Customer 457,0100456,Agriculture/Farming,Quiet and Reserved,Once,ABA,9308.1,12M,"Street 239, Phnom Penh",11.550232866913646,104.89648161642971,Repeat visit,12:00 AM,,2025-06-23 01:23:52
+Customer 458,0100457,Electronics & Appliances,Skeptical or Distrustful,Never,ACLEDA,7064.12,6M,"Street 37, Phnom Penh",11.567519878800585,104.89927766418862,Interested,1:00 AM,,2025-06-09 01:23:52
+Customer 459,0100458,Repair Services,Busy or in a Hurry,Many times,Cambodia Post Bank,6116.74,18M,"Street 93, Phnom Penh",11.574894808503398,104.86680198575957,Repeat visit,2:00 AM,,2025-06-16 01:23:52
+Customer 460,0100459,Electronics & Appliances,Quiet and Reserved,Many times,None,7096.15,12M,"Street 163, Phnom Penh",11.58396566351838,104.91959141083271,Repeat visit,1:00 AM,,2025-06-19 01:23:52
+Customer 461,0100460,Beauty Salon,Friendly and Open,Never,None,7669.73,12M,"Street 129, Phnom Penh",11.53326499735468,104.91163201167677,Repeat visit,1:00 AM,,2025-06-03 01:23:52
+Customer 462,0100461,Beauty Salon,Skeptical or Distrustful,Once,Wing,2531.69,12M,"Street 3, Phnom Penh",11.52491868273462,104.94369135947309,Need follow-up,11:00 AM,,2025-06-22 01:23:52
+Customer 463,0100462,Fashion & Clothing,Friendly and Open,Once,Cambodia Post Bank,8092.79,6M,"Street 372, Phnom Penh",11.57255964732395,104.9129280239811,Need follow-up,9:00 AM,,2025-06-21 01:23:52
+Customer 464,0100463,Restaurant/Café,Aggressive or Pushy,Once,None,6049.34,24M,"Street 87, Phnom Penh",11.592508380160583,104.8928946704151,Interested,5:00 AM,,2025-06-03 01:23:52
+Customer 465,0100464,Restaurant/Café,Skeptical or Distrustful,Many times,Cambodia Post Bank,794.64,6M,"Street 358, Phnom Penh",11.570491952357942,104.88964566252173,No answer,3:00 AM,,2025-06-09 01:23:52
+Customer 466,0100465,General Retail,Hard to Understand,Never,Wing,9364.32,24M,"Street 479, Phnom Penh",11.58702644724261,104.90672378661391,Need follow-up,5:00 AM,,2025-06-06 01:23:52
+Customer 467,0100466,Tourism/Hospitality,Hard to Understand,Many times,ABA,9553.46,12M,"Street 49, Phnom Penh",11.56001059646607,104.87314886561842,Interested,1:00 AM,,2025-06-07 01:23:52
+Customer 468,0100467,Beauty Salon,Skeptical or Distrustful,Once,Cambodia Post Bank,7809.49,18M,"Street 207, Phnom Penh",11.539986356825903,104.90082548941666,Repeat visit,5:00 AM,,2025-06-21 01:23:52
+Customer 469,0100468,Electronics & Appliances,Uninterested,Once,None,3407.24,12M,"Street 165, Phnom Penh",11.572411781946109,104.88329739705732,Repeat visit,7:00 AM,,2025-05-25 01:23:52
+Customer 470,0100469,General Retail,Uninterested,Once,ABA,5092.99,24M,"Street 284, Phnom Penh",11.553593689475857,104.85536512727941,Repeat visit,10:00 AM,,2025-06-03 01:23:52
+Customer 471,0100470,Agriculture/Farming,Uninterested,Once,Wing,7426.26,18M,"Street 362, Phnom Penh",11.526362908127405,104.92511917387937,No answer,1:00 AM,2025-06-23 01.02.27.jpg,2025-06-09 01:23:52
+Customer 472,0100471,Restaurant/Café,Friendly and Open,Once,Cambodia Post Bank,5948.88,24M,"Street 475, Phnom Penh",11.563930878319129,104.85284428102453,No answer,9:00 AM,,2025-06-14 01:23:52
+Customer 473,0100472,Tourism/Hospitality,Busy or in a Hurry,Once,ABA,6717.54,12M,"Street 359, Phnom Penh",11.543604169275076,104.87733034873882,No answer,2:00 AM,,2025-05-29 01:23:52
+Customer 474,0100473,Restaurant/Café,Hard to Understand,Once,Wing,6594.48,12M,"Street 139, Phnom Penh",11.523763714626638,104.86304739003883,Interested,5:00 AM,,2025-06-04 01:23:52
+Customer 475,0100474,Repair Services,Talkative and Engaging,Once,ACLEDA,6276.64,24M,"Street 452, Phnom Penh",11.57137689235028,104.87827287101257,Interested,12:00 AM,,2025-06-02 01:23:52
+Customer 476,0100475,Beauty Salon,Uninterested,Many times,ACLEDA,7040.19,24M,"Street 422, Phnom Penh",11.578860144813875,104.87488124196614,No answer,4:00 AM,,2025-06-18 01:23:52
+Customer 477,0100476,Repair Services,Busy or in a Hurry,Never,Wing,3000.72,6M,"Street 134, Phnom Penh",11.551449390522793,104.93013437992362,Interested,11:00 AM,,2025-05-31 01:23:52
+Customer 478,0100477,Tourism/Hospitality,Very Welcoming,Once,None,6814.66,12M,"Street 245, Phnom Penh",11.577888467790382,104.9473822383824,Need follow-up,2:00 AM,2025-06-23 01.02.27.jpg,2025-06-15 01:23:52
+Customer 479,0100478,Repair Services,Aggressive or Pushy,Once,None,1868.91,24M,"Street 274, Phnom Penh",11.560000890412926,104.87071122604284,Interested,4:00 AM,,2025-06-12 01:23:52
+Customer 480,0100479,Fashion & Clothing,Talkative and Engaging,Never,ABA,9768.25,18M,"Street 174, Phnom Penh",11.539100225362253,104.89010299522963,No answer,2:00 AM,,2025-06-23 01:23:52
+Customer 481,0100480,Agriculture/Farming,Hard to Understand,Never,Cambodia Post Bank,4095.13,24M,"Street 302, Phnom Penh",11.544093900880847,104.87420445578081,No answer,8:00 AM,,2025-05-27 01:23:52
+Customer 482,0100481,Electronics & Appliances,Hard to Understand,Many times,ABA,3489.55,24M,"Street 253, Phnom Penh",11.578232044193738,104.85251150332371,Interested,8:00 AM,,2025-06-05 01:23:52
+Customer 483,0100482,Agriculture/Farming,Busy or in a Hurry,Never,None,7068.72,6M,"Street 459, Phnom Penh",11.571444646180751,104.8652633104113,No answer,9:00 AM,,2025-06-03 01:23:52
+Customer 484,0100483,Restaurant/Café,Interested but Cautious,Never,Wing,8394.57,18M,"Street 404, Phnom Penh",11.546009686413626,104.90540257630042,Need follow-up,10:00 AM,,2025-06-17 01:23:52
+Customer 485,0100484,Beauty Salon,Skeptical or Distrustful,Never,Wing,2675.22,6M,"Street 353, Phnom Penh",11.573073021517816,104.93176954104325,No answer,11:00 AM,,2025-06-18 01:23:52
+Customer 486,0100485,Tourism/Hospitality,Quiet and Reserved,Never,ACLEDA,5040.96,12M,"Street 8, Phnom Penh",11.539466110985797,104.94136862080907,Repeat visit,7:00 AM,,2025-06-07 01:23:52
+Customer 487,0100486,Repair Services,Friendly and Open,Never,ACLEDA,7745.81,24M,"Street 305, Phnom Penh",11.532866983143558,104.86251109296079,No answer,7:00 AM,,2025-06-05 01:23:52
+Customer 488,0100487,Tourism/Hospitality,Aggressive or Pushy,Once,Wing,915.96,24M,"Street 117, Phnom Penh",11.562747664231212,104.91098377562479,Interested,4:00 AM,,2025-06-18 01:23:52
+Customer 489,0100488,Tourism/Hospitality,Interested but Cautious,Never,Cambodia Post Bank,7023.88,18M,"Street 15, Phnom Penh",11.562414863770009,104.92919739069053,Repeat visit,2:00 AM,,2025-06-04 01:23:52
+Customer 490,0100489,Fashion & Clothing,Hard to Understand,Never,None,2070.59,6M,"Street 141, Phnom Penh",11.54313503809587,104.87805771824885,Interested,6:00 AM,2025-06-23 01.04.08.jpg,2025-06-14 01:23:52
+Customer 491,0100490,Repair Services,Very Welcoming,Many times,ABA,7777.76,24M,"Street 339, Phnom Penh",11.565569222922248,104.8794330236477,No answer,7:00 AM,2025-06-23 01.02.07.jpg,2025-05-28 01:23:52
+Customer 492,0100491,Street Food Stall,Quiet and Reserved,Never,Cambodia Post Bank,4697.61,18M,"Street 162, Phnom Penh",11.530725074577196,104.91965018758216,Repeat visit,8:00 AM,,2025-06-18 01:23:52
+Customer 493,0100492,Electronics & Appliances,Hard to Understand,Many times,ABA,2866.27,24M,"Street 241, Phnom Penh",11.563362580845967,104.91624327879659,Interested,6:00 AM,,2025-05-30 01:23:52
+Customer 494,0100493,Tourism/Hospitality,Talkative and Engaging,Once,ABA,9126.38,6M,"Street 43, Phnom Penh",11.565538623902814,104.8617001655099,No answer,10:00 AM,,2025-06-01 01:23:52
+Customer 495,0100494,Electronics & Appliances,Talkative and Engaging,Many times,Wing,2047.28,18M,"Street 263, Phnom Penh",11.574093556247043,104.86168376630697,Need follow-up,11:00 AM,,2025-05-27 01:23:52
+Customer 496,0100495,Street Food Stall,Skeptical or Distrustful,Many times,ABA,3118.56,24M,"Street 388, Phnom Penh",11.554727258514603,104.85204395194057,Need follow-up,4:00 AM,,2025-06-09 01:23:52
+Customer 497,0100496,General Retail,Quiet and Reserved,Once,Wing,1424.63,24M,"Street 343, Phnom Penh",11.597429114032122,104.89442473505419,No answer,9:00 AM,2025-06-23 01.02.50.jpg,2025-05-27 01:23:52
+Customer 498,0100497,Street Food Stall,Quiet and Reserved,Many times,Cambodia Post Bank,785.26,18M,"Street 139, Phnom Penh",11.53478803938308,104.90424106625,Need follow-up,1:00 AM,2025-06-23 01.03.04.jpg,2025-06-12 01:23:52
+Customer 499,0100498,Repair Services,Friendly and Open,Many times,None,2456.18,24M,"Street 433, Phnom Penh",11.528925126209739,104.90418163307065,Repeat visit,12:00 AM,,2025-06-02 01:23:52
+Customer 500,0100499,Repair Services,Talkative and Engaging,Never,ABA,9103.28,12M,"Street 253, Phnom Penh",11.528921622252533,104.87482374578398,Interested,6:00 AM,,2025-05-25 01:23:52
+Customer 501,0100500,Fashion & Clothing,Hard to Understand,Many times,Cambodia Post Bank,1319.66,24M,"Street 407, Phnom Penh",11.59727400905379,104.88021264995902,Repeat visit,10:00 AM,,2025-06-13 01:23:52
+Customer 502,0100501,Street Food Stall,Busy or in a Hurry,Once,ABA,1037.02,6M,"Street 88, Phnom Penh",11.536766988406086,104.89355258683241,Need follow-up,4:00 AM,,2025-05-24 01:23:52
+Customer 503,0100502,Agriculture/Farming,Interested but Cautious,Many times,Cambodia Post Bank,784.88,24M,"Street 276, Phnom Penh",11.594477605315136,104.90444714607219,Repeat visit,4:00 AM,,2025-06-01 01:23:52
+Customer 504,0100503,Beauty Salon,Aggressive or Pushy,Never,ACLEDA,9189.76,24M,"Street 201, Phnom Penh",11.547940470358396,104.91847944251286,Interested,12:00 AM,,2025-05-25 01:23:52
+Customer 505,0100504,Street Food Stall,Very Welcoming,Many times,ACLEDA,5296.92,6M,"Street 22, Phnom Penh",11.584814222811397,104.86446720661888,Interested,4:00 AM,,2025-06-14 01:23:52
+Customer 506,0100505,Restaurant/Café,Hard to Understand,Never,Wing,9879.7,12M,"Street 80, Phnom Penh",11.599222100973607,104.88808284393652,Repeat visit,7:00 AM,,2025-06-05 01:23:52
+Customer 507,0100506,Repair Services,Skeptical or Distrustful,Once,ACLEDA,2308.6,24M,"Street 47, Phnom Penh",11.581936997610839,104.88692003335102,Interested,8:00 AM,,2025-05-24 01:23:52
+Customer 508,0100507,Agriculture/Farming,Very Welcoming,Once,Cambodia Post Bank,3428.17,18M,"Street 163, Phnom Penh",11.592458202883115,104.9276514567014,Repeat visit,2:00 AM,,2025-05-25 01:23:52
+Customer 509,0100508,Street Food Stall,Friendly and Open,Many times,ABA,6691.26,12M,"Street 305, Phnom Penh",11.530716275049757,104.9096546315347,No answer,1:00 AM,,2025-06-20 01:23:52
+Customer 510,0100509,Repair Services,Quiet and Reserved,Never,None,3211.47,6M,"Street 42, Phnom Penh",11.592123235913489,104.85577228262956,Repeat visit,7:00 AM,,2025-06-16 01:23:52
+Customer 511,0100510,Agriculture/Farming,Talkative and Engaging,Once,ABA,4352.7,6M,"Street 293, Phnom Penh",11.536969457082924,104.92434936036645,Repeat visit,12:00 AM,,2025-06-23 01:23:52
+Customer 512,0100511,Repair Services,Skeptical or Distrustful,Many times,None,5304.51,18M,"Street 490, Phnom Penh",11.596373594967654,104.85232571104028,Repeat visit,2:00 AM,,2025-06-09 01:23:52
+Customer 513,0100512,Beauty Salon,Hard to Understand,Many times,ABA,9492.43,6M,"Street 359, Phnom Penh",11.598777698594269,104.85755184389828,Repeat visit,7:00 AM,,2025-06-05 01:23:52
+Customer 514,0100513,Agriculture/Farming,Interested but Cautious,Once,Cambodia Post Bank,7988.49,12M,"Street 326, Phnom Penh",11.59996549793376,104.85843740920639,Need follow-up,10:00 AM,2025-06-23 01.02.19.jpg,2025-06-04 01:23:52
+Customer 515,0100514,Electronics & Appliances,Very Welcoming,Many times,ABA,5710.09,12M,"Street 362, Phnom Penh",11.576127064813498,104.90269711510217,Interested,8:00 AM,,2025-05-27 01:23:52
+Customer 516,0100515,Fashion & Clothing,Busy or in a Hurry,Many times,Cambodia Post Bank,9718.09,6M,"Street 23, Phnom Penh",11.57614575478551,104.87308547371588,Need follow-up,8:00 AM,2025-06-23 01.02.34.jpg,2025-05-25 01:23:52
+Customer 517,0100516,Electronics & Appliances,Friendly and Open,Once,Cambodia Post Bank,5020.23,18M,"Street 362, Phnom Penh",11.584064456108061,104.86745512013555,No answer,6:00 AM,,2025-05-29 01:23:52
+Customer 518,0100517,Repair Services,Hard to Understand,Never,Cambodia Post Bank,4441.53,24M,"Street 291, Phnom Penh",11.590824453704505,104.92970846214463,Repeat visit,11:00 AM,2025-06-23 01.03.04.jpg,2025-06-02 01:23:52
+Customer 519,0100518,Street Food Stall,Interested but Cautious,Once,ACLEDA,8485.25,18M,"Street 138, Phnom Penh",11.557910935061061,104.94042746304189,No answer,2:00 AM,,2025-06-09 01:23:52
+Customer 520,0100519,Street Food Stall,Quiet and Reserved,Never,ACLEDA,6946.45,12M,"Street 343, Phnom Penh",11.564971546658082,104.91510053922092,Need follow-up,5:00 AM,2025-06-23 01.01.50.jpg,2025-06-02 01:23:52
+Customer 521,0100520,Fashion & Clothing,Uninterested,Once,ACLEDA,4679.45,24M,"Street 461, Phnom Penh",11.582205238392158,104.94932378302288,Interested,10:00 AM,,2025-05-25 01:23:52
+Customer 522,0100521,Beauty Salon,Hard to Understand,Never,ACLEDA,8124.99,6M,"Street 252, Phnom Penh",11.526329794418835,104.93291494421904,Interested,12:00 AM,,2025-06-09 01:23:52
+Customer 523,0100522,Beauty Salon,Talkative and Engaging,Never,Wing,6147.75,12M,"Street 348, Phnom Penh",11.58806703301631,104.86879507152416,Interested,3:00 AM,2025-06-23 01.02.19.jpg,2025-05-27 01:23:52
+Customer 524,0100523,Beauty Salon,Interested but Cautious,Never,Cambodia Post Bank,7275.29,24M,"Street 350, Phnom Penh",11.55038483263424,104.94198543298349,Need follow-up,5:00 AM,,2025-06-01 01:23:52
+Customer 525,0100524,Tourism/Hospitality,Skeptical or Distrustful,Many times,ACLEDA,7229.27,12M,"Street 116, Phnom Penh",11.541524565923426,104.91794330983862,No answer,6:00 AM,,2025-06-21 01:23:52
+Customer 526,0100525,Fashion & Clothing,Aggressive or Pushy,Once,Wing,9801.65,24M,"Street 350, Phnom Penh",11.580113017967292,104.85283291248429,No answer,10:00 AM,,2025-06-01 01:23:52
+Customer 527,0100526,Tourism/Hospitality,Busy or in a Hurry,Once,ABA,4583.53,24M,"Street 380, Phnom Penh",11.55722020851949,104.86471285425709,Need follow-up,6:00 AM,2025-06-23 01.03.04.jpg,2025-06-05 01:23:52
+Customer 528,0100527,Fashion & Clothing,Quiet and Reserved,Never,ACLEDA,4525.33,6M,"Street 320, Phnom Penh",11.58802970310499,104.90152541619156,Interested,9:00 AM,,2025-06-20 01:23:52
+Customer 529,0100528,Fashion & Clothing,Quiet and Reserved,Once,ABA,1234.73,6M,"Street 63, Phnom Penh",11.573237426171383,104.88837030219278,No answer,11:00 AM,,2025-05-31 01:23:52
+Customer 530,0100529,Tourism/Hospitality,Friendly and Open,Many times,None,7280.6,6M,"Street 318, Phnom Penh",11.597858606780047,104.88653522843182,Interested,12:00 AM,,2025-06-18 01:23:52
+Customer 531,0100530,Repair Services,Very Welcoming,Once,Cambodia Post Bank,4117.25,24M,"Street 485, Phnom Penh",11.565009471715872,104.8753063526319,Interested,6:00 AM,,2025-06-11 01:23:52
+Customer 532,0100531,Street Food Stall,Hard to Understand,Once,ACLEDA,5775.76,6M,"Street 206, Phnom Penh",11.57586596554603,104.89391986300438,Interested,4:00 AM,2025-06-23 01.03.53.jpg,2025-06-22 01:23:52
+Customer 533,0100532,Street Food Stall,Uninterested,Many times,Cambodia Post Bank,9174.54,6M,"Street 421, Phnom Penh",11.585660280716455,104.88848217205417,Repeat visit,5:00 AM,,2025-06-12 01:23:52
+Customer 534,0100533,Agriculture/Farming,Hard to Understand,Many times,Cambodia Post Bank,2623.36,12M,"Street 31, Phnom Penh",11.537209614162938,104.89925596210448,Need follow-up,2:00 AM,2025-06-23 01.03.10.jpg,2025-05-28 01:23:52
+Customer 535,0100534,Agriculture/Farming,Very Welcoming,Once,ABA,8796.61,18M,"Street 103, Phnom Penh",11.56386791361271,104.93690494632578,Need follow-up,4:00 AM,,2025-06-01 01:23:52
+Customer 536,0100535,Restaurant/Café,Friendly and Open,Never,Cambodia Post Bank,6481.01,18M,"Street 49, Phnom Penh",11.538609391755443,104.92455359598998,No answer,3:00 AM,,2025-05-26 01:23:52
+Customer 537,0100536,Beauty Salon,Very Welcoming,Never,ACLEDA,3082.12,18M,"Street 225, Phnom Penh",11.52046006577574,104.93623748235318,Repeat visit,2:00 AM,2025-06-23 01.02.46.jpg,2025-06-04 01:23:52
+Customer 538,0100537,Agriculture/Farming,Hard to Understand,Never,ABA,7294.63,6M,"Street 304, Phnom Penh",11.5350872551255,104.92317024400207,Need follow-up,9:00 AM,,2025-06-16 01:23:52
+Customer 539,0100538,Restaurant/Café,Quiet and Reserved,Once,None,7333.8,12M,"Street 72, Phnom Penh",11.523917422669435,104.89128815507354,Repeat visit,11:00 AM,,2025-06-21 01:23:52
+Customer 540,0100539,Agriculture/Farming,Uninterested,Once,Wing,3193.75,12M,"Street 251, Phnom Penh",11.562584642970371,104.91661349799668,Interested,9:00 AM,20250615_213943.jpeg,2025-06-18 01:23:52
+Customer 541,0100540,Fashion & Clothing,Very Welcoming,Once,ACLEDA,4118.15,12M,"Street 476, Phnom Penh",11.581502184639113,104.93056919654289,Interested,9:00 AM,,2025-06-01 01:23:52
+Customer 542,0100541,Beauty Salon,Skeptical or Distrustful,Never,None,4044.7,6M,"Street 471, Phnom Penh",11.589482695747051,104.90722151735727,Interested,7:00 AM,,2025-06-09 01:23:52
+Customer 543,0100542,Beauty Salon,Skeptical or Distrustful,Many times,ABA,791.34,6M,"Street 312, Phnom Penh",11.56082646998485,104.92086967162639,Need follow-up,3:00 AM,2025-06-23 01.02.27.jpg,2025-06-22 01:23:52
+Customer 544,0100543,Beauty Salon,Quiet and Reserved,Never,ACLEDA,6920.56,12M,"Street 270, Phnom Penh",11.551858826694454,104.88178895448388,Interested,11:00 AM,,2025-06-22 01:23:52
+Customer 545,0100544,Agriculture/Farming,Talkative and Engaging,Never,Cambodia Post Bank,5162.81,12M,"Street 464, Phnom Penh",11.594197712971619,104.86385200993452,No answer,3:00 AM,,2025-06-04 01:23:52
+Customer 546,0100545,Electronics & Appliances,Uninterested,Many times,ACLEDA,7285.99,24M,"Street 217, Phnom Penh",11.585838947685511,104.94484403699695,Repeat visit,2:00 AM,,2025-05-26 01:23:52
+Customer 547,0100546,Fashion & Clothing,Friendly and Open,Never,ACLEDA,7427.95,6M,"Street 242, Phnom Penh",11.558296304350753,104.87905469974618,Need follow-up,7:00 AM,,2025-06-23 01:23:52
+Customer 548,0100547,Restaurant/Café,Very Welcoming,Once,Wing,4390.29,12M,"Street 237, Phnom Penh",11.548146099153659,104.91474123781398,No answer,11:00 AM,,2025-06-08 01:23:52
+Customer 549,0100548,Restaurant/Café,Hard to Understand,Never,Wing,4183.23,24M,"Street 375, Phnom Penh",11.545828939862037,104.94950444122559,Interested,12:00 AM,2025-06-23 01.04.26.jpg,2025-06-17 01:23:52
+Customer 550,0100549,Street Food Stall,Friendly and Open,Once,Wing,3435.17,12M,"Street 334, Phnom Penh",11.573978512858092,104.94360991761924,Interested,4:00 AM,,2025-05-26 01:23:52
+Customer 551,0100550,Beauty Salon,Uninterested,Many times,None,5625.48,12M,"Street 217, Phnom Penh",11.567390640592478,104.89441851260018,Need follow-up,4:00 AM,,2025-06-16 01:23:52
+Customer 552,0100551,Agriculture/Farming,Talkative and Engaging,Many times,Cambodia Post Bank,4572.98,12M,"Street 304, Phnom Penh",11.579927983958541,104.88397468839142,Interested,12:00 AM,2025-06-23 01.02.39.jpg,2025-06-17 01:23:52
+Customer 553,0100552,Electronics & Appliances,Skeptical or Distrustful,Never,ACLEDA,2603.12,18M,"Street 414, Phnom Penh",11.532013385497088,104.92022859103345,Interested,1:00 AM,,2025-05-30 01:23:52
+Customer 554,0100553,Fashion & Clothing,Quiet and Reserved,Once,ABA,8434.75,18M,"Street 453, Phnom Penh",11.531122052917755,104.89253077795144,Repeat visit,11:00 AM,,2025-05-28 01:23:52
+Customer 555,0100554,Repair Services,Friendly and Open,Many times,ABA,9230.43,24M,"Street 14, Phnom Penh",11.531881064915098,104.93983319782741,Interested,4:00 AM,,2025-06-23 01:23:52
+Customer 556,0100555,Tourism/Hospitality,Very Welcoming,Many times,ABA,9050.53,6M,"Street 195, Phnom Penh",11.542299125128658,104.9318528037817,Interested,3:00 AM,,2025-05-26 01:23:52
+Customer 557,0100556,Agriculture/Farming,Very Welcoming,Never,None,1786.61,12M,"Street 405, Phnom Penh",11.586166195611645,104.86583597143611,No answer,9:00 AM,,2025-06-09 01:23:52
+Customer 558,0100557,Beauty Salon,Friendly and Open,Many times,Cambodia Post Bank,647.8,24M,"Street 345, Phnom Penh",11.535378124180173,104.8909616640458,Repeat visit,1:00 AM,,2025-05-25 01:23:52
+Customer 559,0100558,Street Food Stall,Quiet and Reserved,Never,Cambodia Post Bank,4993.45,12M,"Street 241, Phnom Penh",11.5653728176089,104.85990206377686,No answer,9:00 AM,,2025-06-03 01:23:52
+Customer 560,0100559,Street Food Stall,Quiet and Reserved,Many times,Cambodia Post Bank,4726.14,18M,"Street 263, Phnom Penh",11.531231184478404,104.89509870073394,No answer,11:00 AM,,2025-06-08 01:23:52
+Customer 561,0100560,Tourism/Hospitality,Busy or in a Hurry,Many times,Wing,7326.94,6M,"Street 347, Phnom Penh",11.598698584577754,104.8936125228233,Need follow-up,2:00 AM,2025-06-23 01.03.10.jpg,2025-06-15 01:23:52
+Customer 562,0100561,Fashion & Clothing,Talkative and Engaging,Never,Wing,1520.06,24M,"Street 472, Phnom Penh",11.540273137012104,104.88286678763134,Repeat visit,10:00 AM,,2025-05-31 01:23:52
+Customer 563,0100562,General Retail,Uninterested,Never,None,6896.49,6M,"Street 401, Phnom Penh",11.583189070903112,104.90273043481302,Repeat visit,12:00 AM,2025-06-23 01.04.08.jpg,2025-06-09 01:23:52
+Customer 564,0100563,Agriculture/Farming,Very Welcoming,Many times,None,4405.84,6M,"Street 56, Phnom Penh",11.579719857395778,104.92913748273568,No answer,7:00 AM,,2025-05-24 01:23:52
+Customer 565,0100564,Electronics & Appliances,Friendly and Open,Many times,ACLEDA,2229.69,18M,"Street 184, Phnom Penh",11.593022407505654,104.90212241633436,Need follow-up,9:00 AM,,2025-06-05 01:23:52
+Customer 566,0100565,General Retail,Uninterested,Once,Wing,5621.02,6M,"Street 41, Phnom Penh",11.527638130894458,104.94685930961903,No answer,12:00 AM,,2025-06-01 01:23:52
+Customer 567,0100566,Street Food Stall,Friendly and Open,Once,Cambodia Post Bank,7702.05,24M,"Street 70, Phnom Penh",11.569705439876223,104.92973961658642,Interested,5:00 AM,,2025-06-22 01:23:52
+Customer 568,0100567,Street Food Stall,Interested but Cautious,Many times,ABA,603.97,6M,"Street 152, Phnom Penh",11.571601395753342,104.91566625554394,No answer,7:00 AM,,2025-06-17 01:23:52
+Customer 569,0100568,General Retail,Hard to Understand,Never,Wing,1762.72,24M,"Street 190, Phnom Penh",11.583682933479283,104.8952911251665,No answer,7:00 AM,,2025-06-03 01:23:52
+Customer 570,0100569,General Retail,Uninterested,Many times,Wing,1275.67,12M,"Street 31, Phnom Penh",11.54583003134834,104.94841899118866,Need follow-up,8:00 AM,,2025-06-04 01:23:52
+Customer 571,0100570,Street Food Stall,Talkative and Engaging,Many times,ABA,699.47,12M,"Street 157, Phnom Penh",11.543280649792255,104.87616668033975,No answer,9:00 AM,,2025-06-17 01:23:52
+Customer 572,0100571,Restaurant/Café,Friendly and Open,Never,None,7896.69,24M,"Street 3, Phnom Penh",11.574412365554243,104.85167914332565,Repeat visit,2:00 AM,,2025-06-23 01:23:52
+Customer 573,0100572,Agriculture/Farming,Talkative and Engaging,Once,Cambodia Post Bank,8229.55,6M,"Street 36, Phnom Penh",11.548708773828743,104.852707818557,Interested,10:00 AM,,2025-05-27 01:23:52
+Customer 574,0100573,Repair Services,Friendly and Open,Never,ACLEDA,8440.12,12M,"Street 218, Phnom Penh",11.561726198470932,104.90307444918426,Repeat visit,12:00 AM,,2025-06-09 01:23:52
+Customer 575,0100574,General Retail,Busy or in a Hurry,Many times,Wing,7959.61,12M,"Street 391, Phnom Penh",11.578501580869583,104.91769892707224,No answer,11:00 AM,,2025-06-03 01:23:52
+Customer 576,0100575,General Retail,Aggressive or Pushy,Many times,None,6629.95,6M,"Street 429, Phnom Penh",11.520302986177901,104.89109818122333,Interested,12:00 AM,,2025-06-07 01:23:52
+Customer 577,0100576,Repair Services,Talkative and Engaging,Never,ABA,1315.36,18M,"Street 410, Phnom Penh",11.525649008423168,104.87387918916487,Need follow-up,2:00 AM,,2025-05-27 01:23:52
+Customer 578,0100577,Street Food Stall,Uninterested,Many times,Cambodia Post Bank,1507.07,6M,"Street 477, Phnom Penh",11.599624264362841,104.86773846513883,Repeat visit,11:00 AM,,2025-06-10 01:23:52
+Customer 579,0100578,General Retail,Skeptical or Distrustful,Once,Cambodia Post Bank,5101.32,24M,"Street 165, Phnom Penh",11.585590652191092,104.8653931370044,Repeat visit,9:00 AM,,2025-06-20 01:23:52
+Customer 580,0100579,Tourism/Hospitality,Hard to Understand,Many times,Cambodia Post Bank,1913.58,12M,"Street 173, Phnom Penh",11.536896037487727,104.89386709504747,Repeat visit,6:00 AM,,2025-06-21 01:23:52
+Customer 581,0100580,General Retail,Quiet and Reserved,Many times,ACLEDA,1995.82,6M,"Street 155, Phnom Penh",11.526651906757252,104.92241561305687,Interested,11:00 AM,2025-06-23 01.01.50.jpg,2025-06-15 01:23:52
+Customer 582,0100581,Agriculture/Farming,Very Welcoming,Many times,None,3411.88,18M,"Street 224, Phnom Penh",11.567881253550965,104.90115463733173,Need follow-up,1:00 AM,2025-06-23 01.03.53.jpg,2025-05-24 01:23:52
+Customer 583,0100582,Tourism/Hospitality,Quiet and Reserved,Many times,ABA,9877.68,12M,"Street 360, Phnom Penh",11.549968594255965,104.8683907913837,Need follow-up,11:00 AM,,2025-06-04 01:23:52
+Customer 584,0100583,Tourism/Hospitality,Quiet and Reserved,Once,ABA,2852.48,6M,"Street 230, Phnom Penh",11.56721026788898,104.86746661785877,No answer,8:00 AM,,2025-06-03 01:23:52
+Customer 585,0100584,General Retail,Interested but Cautious,Never,None,1047.27,18M,"Street 11, Phnom Penh",11.521777979223616,104.93162061569988,Need follow-up,11:00 AM,,2025-06-10 01:23:52
+Customer 586,0100585,Agriculture/Farming,Interested but Cautious,Once,ABA,5412.1,24M,"Street 425, Phnom Penh",11.599484077643153,104.89248094667668,Interested,11:00 AM,,2025-05-25 01:23:52
+Customer 587,0100586,General Retail,Aggressive or Pushy,Once,ABA,3731.93,24M,"Street 130, Phnom Penh",11.551661470767785,104.8540328676135,Interested,12:00 AM,20250615_214300.jpeg,2025-05-29 01:23:52
+Customer 588,0100587,Electronics & Appliances,Interested but Cautious,Once,ABA,8788.31,6M,"Street 64, Phnom Penh",11.553019585118959,104.86503227903476,Repeat visit,5:00 AM,,2025-06-05 01:23:52
+Customer 589,0100588,Street Food Stall,Quiet and Reserved,Once,ACLEDA,4410.13,18M,"Street 443, Phnom Penh",11.533274939070454,104.90193739687408,Interested,6:00 AM,,2025-06-20 01:23:52
+Customer 590,0100589,Beauty Salon,Quiet and Reserved,Once,None,4660.74,18M,"Street 302, Phnom Penh",11.575600834941067,104.87514731125378,Interested,1:00 AM,2025-06-23 01.02.19.jpg,2025-06-22 01:23:52
+Customer 591,0100590,Fashion & Clothing,Uninterested,Many times,None,9532.62,6M,"Street 92, Phnom Penh",11.579133365111321,104.87073165643005,Need follow-up,12:00 AM,,2025-06-08 01:23:52
+Customer 592,0100591,Beauty Salon,Interested but Cautious,Once,ACLEDA,6524.43,18M,"Street 50, Phnom Penh",11.543644459466023,104.86986491938748,No answer,8:00 AM,2025-06-23 01.05.23.jpg,2025-05-29 01:23:52
+Customer 593,0100592,Agriculture/Farming,Busy or in a Hurry,Many times,Wing,5413.02,6M,"Street 410, Phnom Penh",11.590907825296588,104.86586156874074,No answer,11:00 AM,,2025-05-24 01:23:52
+Customer 594,0100593,Street Food Stall,Aggressive or Pushy,Once,ABA,6673.86,12M,"Street 222, Phnom Penh",11.571275281753694,104.93019591190016,Repeat visit,12:00 AM,2025-06-23 01.02.46.jpg,2025-06-05 01:23:52
+Customer 595,0100594,Electronics & Appliances,Friendly and Open,Never,None,6644.13,18M,"Street 206, Phnom Penh",11.541843412185967,104.93309060450436,Repeat visit,3:00 AM,,2025-06-08 01:23:52
+Customer 596,0100595,Agriculture/Farming,Uninterested,Once,Wing,1408.45,6M,"Street 296, Phnom Penh",11.547171119711495,104.86157766708901,Need follow-up,1:00 AM,,2025-05-29 01:23:52
+Customer 597,0100596,Fashion & Clothing,Busy or in a Hurry,Never,ABA,2529.69,12M,"Street 400, Phnom Penh",11.587229920918231,104.93222203165095,Repeat visit,10:00 AM,,2025-06-15 01:23:52
+Customer 598,0100597,Beauty Salon,Hard to Understand,Never,Wing,1493.38,6M,"Street 454, Phnom Penh",11.563498312877803,104.86620317031462,Repeat visit,6:00 AM,,2025-06-04 01:23:52
+Customer 599,0100598,Beauty Salon,Skeptical or Distrustful,Never,ABA,9026.74,24M,"Street 375, Phnom Penh",11.58609797087879,104.87303320468457,Need follow-up,5:00 AM,,2025-06-07 01:23:52
+Customer 600,0100599,Restaurant/Café,Talkative and Engaging,Once,ACLEDA,5784.73,6M,"Street 487, Phnom Penh",11.539883758576043,104.87595816968869,No answer,7:00 AM,,2025-06-17 01:23:52
+Customer 601,0100600,Repair Services,Skeptical or Distrustful,Never,Cambodia Post Bank,9883.59,24M,"Street 447, Phnom Penh",11.576130174095978,104.90171049432682,Interested,3:00 AM,,2025-06-14 01:23:52
+Customer 602,0100601,Street Food Stall,Hard to Understand,Once,ACLEDA,9799.95,24M,"Street 375, Phnom Penh",11.550692304365654,104.87177480947764,Need follow-up,4:00 AM,,2025-06-06 01:23:52
+Customer 603,0100602,Repair Services,Aggressive or Pushy,Once,ACLEDA,8313.37,18M,"Street 45, Phnom Penh",11.545425668927415,104.9421443048456,Need follow-up,1:00 AM,,2025-06-22 01:23:52
+Customer 604,0100603,Tourism/Hospitality,Friendly and Open,Many times,Cambodia Post Bank,9003.46,24M,"Street 482, Phnom Penh",11.539942282068184,104.85231574125366,No answer,11:00 AM,20250615_213943.jpeg,2025-05-25 01:23:52
+Customer 605,0100604,Electronics & Appliances,Quiet and Reserved,Never,ABA,9141.38,6M,"Street 465, Phnom Penh",11.561235474154602,104.85337812812307,Need follow-up,4:00 AM,,2025-06-04 01:23:52
+Customer 606,0100605,Street Food Stall,Interested but Cautious,Many times,None,4864.49,6M,"Street 32, Phnom Penh",11.53752118453292,104.86221546486505,Repeat visit,5:00 AM,,2025-06-07 01:23:52
+Customer 607,0100606,Fashion & Clothing,Busy or in a Hurry,Never,Cambodia Post Bank,2713.49,12M,"Street 370, Phnom Penh",11.580916143669041,104.94693768169165,Repeat visit,2:00 AM,,2025-05-26 01:23:52
+Customer 608,0100607,Street Food Stall,Skeptical or Distrustful,Once,Cambodia Post Bank,8206.97,6M,"Street 270, Phnom Penh",11.573255344045233,104.91886968540169,Need follow-up,4:00 AM,,2025-06-14 01:23:52
+Customer 609,0100608,Street Food Stall,Uninterested,Never,Wing,1049.62,18M,"Street 454, Phnom Penh",11.544119680897142,104.92573015543259,No answer,3:00 AM,,2025-06-18 01:23:52
+Customer 610,0100609,Beauty Salon,Uninterested,Many times,None,4937.95,12M,"Street 236, Phnom Penh",11.581791471796928,104.87988563896907,Repeat visit,1:00 AM,2025-06-23 01.02.34.jpg,2025-05-27 01:23:52
+Customer 611,0100610,Tourism/Hospitality,Busy or in a Hurry,Once,ACLEDA,3778.49,18M,"Street 479, Phnom Penh",11.551677627976181,104.85673505388777,Repeat visit,9:00 AM,,2025-06-13 01:23:52
+Customer 612,0100611,Electronics & Appliances,Uninterested,Many times,ACLEDA,4523.94,24M,"Street 495, Phnom Penh",11.595662413340346,104.8718063795501,Interested,6:00 AM,,2025-06-14 01:23:52
+Customer 613,0100612,General Retail,Friendly and Open,Once,Cambodia Post Bank,6780.79,24M,"Street 101, Phnom Penh",11.57997448530468,104.88427558757374,Interested,12:00 AM,,2025-05-26 01:23:52
+Customer 614,0100613,Tourism/Hospitality,Skeptical or Distrustful,Never,Cambodia Post Bank,1289.37,12M,"Street 230, Phnom Penh",11.571290967685075,104.92947274472047,Interested,10:00 AM,,2025-06-23 01:23:52
+Customer 615,0100614,Beauty Salon,Friendly and Open,Once,ABA,2197.33,6M,"Street 376, Phnom Penh",11.53946877602826,104.86600249136384,Repeat visit,6:00 AM,,2025-05-25 01:23:52
+Customer 616,0100615,General Retail,Very Welcoming,Once,None,5903.82,24M,"Street 97, Phnom Penh",11.5936745970475,104.85150631086348,Need follow-up,9:00 AM,,2025-06-12 01:23:52
+Customer 617,0100616,Electronics & Appliances,Quiet and Reserved,Once,ACLEDA,9088.08,6M,"Street 200, Phnom Penh",11.559319757345175,104.87577320411754,No answer,8:00 AM,,2025-06-23 01:23:52
+Customer 618,0100617,Beauty Salon,Quiet and Reserved,Never,ABA,3557.56,24M,"Street 169, Phnom Penh",11.587523088973704,104.86045028221936,No answer,9:00 AM,,2025-06-18 01:23:52
+Customer 619,0100618,Electronics & Appliances,Uninterested,Never,Wing,1119.15,24M,"Street 317, Phnom Penh",11.556969605409293,104.91326173238014,Need follow-up,12:00 AM,,2025-06-16 01:23:52
+Customer 620,0100619,General Retail,Quiet and Reserved,Many times,Cambodia Post Bank,6185.76,18M,"Street 190, Phnom Penh",11.574600597574392,104.88444179903718,Need follow-up,8:00 AM,,2025-06-14 01:23:52
+Customer 621,0100620,Street Food Stall,Interested but Cautious,Never,None,1192.43,24M,"Street 166, Phnom Penh",11.549382882359206,104.86130773134579,Need follow-up,6:00 AM,2025-06-23 01.04.26.jpg,2025-05-26 01:23:52
+Customer 622,0100621,Beauty Salon,Skeptical or Distrustful,Never,ABA,8961.2,12M,"Street 238, Phnom Penh",11.549947573417272,104.89525617337384,No answer,10:00 AM,20250615_214300.jpeg,2025-06-12 01:23:52
+Customer 623,0100622,Restaurant/Café,Friendly and Open,Never,Wing,8389.0,24M,"Street 61, Phnom Penh",11.540635853636722,104.93271658113264,Need follow-up,8:00 AM,,2025-06-12 01:23:52
+Customer 624,0100623,Beauty Salon,Interested but Cautious,Never,Cambodia Post Bank,1077.35,24M,"Street 445, Phnom Penh",11.571615804190843,104.85259144613214,No answer,10:00 AM,,2025-05-25 01:23:52
+Customer 625,0100624,Repair Services,Uninterested,Never,ACLEDA,4151.0,18M,"Street 310, Phnom Penh",11.52710190564809,104.86313480508645,Need follow-up,6:00 AM,,2025-06-06 01:23:52
+Customer 626,0100625,Agriculture/Farming,Busy or in a Hurry,Never,ACLEDA,6106.44,6M,"Street 29, Phnom Penh",11.548383709677791,104.85044098850904,No answer,6:00 AM,,2025-06-07 01:23:52
+Customer 627,0100626,Restaurant/Café,Interested but Cautious,Many times,ACLEDA,1224.66,24M,"Street 156, Phnom Penh",11.567990456123887,104.89283539764153,No answer,4:00 AM,,2025-06-18 01:23:52
+Customer 628,0100627,Beauty Salon,Interested but Cautious,Once,Wing,6328.51,18M,"Street 24, Phnom Penh",11.59707324753795,104.89957568248894,No answer,6:00 AM,,2025-05-30 01:23:52
+Customer 629,0100628,Repair Services,Hard to Understand,Many times,Cambodia Post Bank,3957.81,12M,"Street 471, Phnom Penh",11.567212733317447,104.88904127459308,No answer,5:00 AM,,2025-06-05 01:23:52
+Customer 630,0100629,Repair Services,Busy or in a Hurry,Once,ABA,4384.55,12M,"Street 19, Phnom Penh",11.550216342717214,104.94524835442088,Interested,9:00 AM,,2025-06-03 01:23:52
+Customer 631,0100630,Repair Services,Interested but Cautious,Once,None,7346.56,12M,"Street 87, Phnom Penh",11.546379366996952,104.89379340654396,Interested,12:00 AM,,2025-06-11 01:23:52
+Customer 632,0100631,Restaurant/Café,Friendly and Open,Once,Cambodia Post Bank,6892.81,12M,"Street 175, Phnom Penh",11.569820086093157,104.94398016312817,Interested,3:00 AM,20250615_214300.jpeg,2025-06-20 01:23:52
+Customer 633,0100632,Repair Services,Uninterested,Many times,ACLEDA,6493.69,6M,"Street 496, Phnom Penh",11.577657273315385,104.92051606386843,Need follow-up,2:00 AM,,2025-06-15 01:23:52
+Customer 634,0100633,Agriculture/Farming,Friendly and Open,Many times,Cambodia Post Bank,9016.39,18M,"Street 136, Phnom Penh",11.536095173317243,104.90075118868593,Repeat visit,3:00 AM,2025-06-23 01.02.19.jpg,2025-06-21 01:23:52
+Customer 635,0100634,Street Food Stall,Very Welcoming,Once,None,561.34,12M,"Street 98, Phnom Penh",11.550357058434155,104.88511189703563,Interested,5:00 AM,,2025-06-17 01:23:52
+Customer 636,0100635,Electronics & Appliances,Busy or in a Hurry,Once,ABA,8824.95,6M,"Street 256, Phnom Penh",11.552375547516437,104.92715742703716,Interested,10:00 AM,,2025-06-01 01:23:52
+Customer 637,0100636,Fashion & Clothing,Busy or in a Hurry,Never,Wing,3600.94,6M,"Street 21, Phnom Penh",11.591358154244833,104.86488837892527,Need follow-up,3:00 AM,,2025-05-29 01:23:52
+Customer 638,0100637,Street Food Stall,Interested but Cautious,Many times,Cambodia Post Bank,4453.46,24M,"Street 212, Phnom Penh",11.593728666043809,104.91935654376067,Interested,12:00 AM,,2025-06-08 01:23:52
+Customer 639,0100638,Tourism/Hospitality,Talkative and Engaging,Once,None,4404.71,6M,"Street 171, Phnom Penh",11.548513652734806,104.88420142121124,Need follow-up,1:00 AM,,2025-05-26 01:23:52
+Customer 640,0100639,General Retail,Busy or in a Hurry,Once,ACLEDA,4716.99,12M,"Street 415, Phnom Penh",11.5995508236316,104.90920234472925,Need follow-up,2:00 AM,,2025-05-24 01:23:52
+Customer 641,0100640,General Retail,Quiet and Reserved,Never,None,2347.7,12M,"Street 292, Phnom Penh",11.559951457333579,104.90619597435811,Repeat visit,1:00 AM,,2025-06-21 01:23:52
+Customer 642,0100641,Street Food Stall,Skeptical or Distrustful,Many times,ACLEDA,1722.82,12M,"Street 358, Phnom Penh",11.537629854401297,104.94418783468889,Interested,6:00 AM,,2025-06-01 01:23:52
+Customer 643,0100642,Repair Services,Busy or in a Hurry,Many times,None,5421.87,12M,"Street 275, Phnom Penh",11.524442873051077,104.9407723057469,Need follow-up,9:00 AM,,2025-06-10 01:23:52
+Customer 644,0100643,Tourism/Hospitality,Busy or in a Hurry,Once,Cambodia Post Bank,2203.18,18M,"Street 225, Phnom Penh",11.599396691060987,104.92994476701519,No answer,3:00 AM,,2025-06-18 01:23:52
+Customer 645,0100644,Electronics & Appliances,Quiet and Reserved,Never,Wing,6609.13,18M,"Street 404, Phnom Penh",11.549718158170066,104.86006816983003,Need follow-up,7:00 AM,,2025-06-15 01:23:52
+Customer 646,0100645,Agriculture/Farming,Hard to Understand,Never,ABA,2806.47,24M,"Street 480, Phnom Penh",11.536781670864535,104.92684143824428,Repeat visit,11:00 AM,,2025-06-21 01:23:52
+Customer 647,0100646,Electronics & Appliances,Skeptical or Distrustful,Never,ACLEDA,8471.89,18M,"Street 232, Phnom Penh",11.52315133266974,104.8538125155787,Repeat visit,10:00 AM,2025-06-23 01.02.34.jpg,2025-05-25 01:23:52
+Customer 648,0100647,General Retail,Uninterested,Once,None,6169.72,6M,"Street 8, Phnom Penh",11.549748399555684,104.90770618047124,Need follow-up,7:00 AM,2025-06-23 01.02.27.jpg,2025-06-02 01:23:52
+Customer 649,0100648,Street Food Stall,Hard to Understand,Once,None,2148.15,12M,"Street 14, Phnom Penh",11.523258830322533,104.92106922653109,Need follow-up,6:00 AM,,2025-06-22 01:23:52
+Customer 650,0100649,Repair Services,Aggressive or Pushy,Never,Wing,6473.27,24M,"Street 139, Phnom Penh",11.563457038692128,104.90484609993011,No answer,11:00 AM,,2025-06-17 01:23:52
+Customer 651,0100650,Restaurant/Café,Skeptical or Distrustful,Never,ACLEDA,9480.42,12M,"Street 31, Phnom Penh",11.564094051920957,104.93242965996613,No answer,7:00 AM,2025-06-23 01.02.34.jpg,2025-06-12 01:23:52
+Customer 652,0100651,Electronics & Appliances,Skeptical or Distrustful,Once,ACLEDA,8911.81,24M,"Street 202, Phnom Penh",11.571504347766876,104.87196565597895,No answer,7:00 AM,,2025-06-16 01:23:52
+Customer 653,0100652,General Retail,Very Welcoming,Never,Wing,2587.39,24M,"Street 56, Phnom Penh",11.578107301582932,104.94452356607447,Need follow-up,6:00 AM,2025-06-23 01.02.39.jpg,2025-06-02 01:23:52
+Customer 654,0100653,Fashion & Clothing,Uninterested,Many times,Wing,6409.67,18M,"Street 211, Phnom Penh",11.571357531069522,104.92278513753949,No answer,6:00 AM,2025-06-23 01.02.07.jpg,2025-05-25 01:23:52
+Customer 655,0100654,Electronics & Appliances,Skeptical or Distrustful,Once,Cambodia Post Bank,9569.33,12M,"Street 480, Phnom Penh",11.560285682115945,104.85275400356171,Repeat visit,8:00 AM,2025-06-23 01.02.50.jpg,2025-06-05 01:23:52
+Customer 656,0100655,Street Food Stall,Aggressive or Pushy,Many times,Cambodia Post Bank,3183.99,6M,"Street 239, Phnom Penh",11.55397118343044,104.86856793913606,Repeat visit,9:00 AM,,2025-06-10 01:23:52
+Customer 657,0100656,Fashion & Clothing,Skeptical or Distrustful,Many times,ACLEDA,7840.28,18M,"Street 397, Phnom Penh",11.541622550061314,104.91858683150302,Need follow-up,2:00 AM,,2025-06-13 01:23:52
+Customer 658,0100657,Agriculture/Farming,Busy or in a Hurry,Once,Wing,5174.19,24M,"Street 465, Phnom Penh",11.561092394555345,104.85323549416223,No answer,2:00 AM,,2025-06-20 01:23:52
+Customer 659,0100658,Tourism/Hospitality,Skeptical or Distrustful,Many times,ABA,1201.52,18M,"Street 49, Phnom Penh",11.595439624291403,104.90834703367666,Interested,12:00 AM,,2025-06-08 01:23:52
+Customer 660,0100659,Agriculture/Farming,Very Welcoming,Once,Cambodia Post Bank,4676.5,6M,"Street 279, Phnom Penh",11.530940040548767,104.93844628850131,Interested,11:00 AM,,2025-06-17 01:23:52
+Customer 661,0100660,General Retail,Busy or in a Hurry,Never,None,9778.56,24M,"Street 28, Phnom Penh",11.567450917834663,104.92874056632043,Interested,6:00 AM,,2025-06-19 01:23:52
+Customer 662,0100661,Agriculture/Farming,Busy or in a Hurry,Once,None,7609.33,12M,"Street 167, Phnom Penh",11.539924852869634,104.93469483223463,Interested,5:00 AM,,2025-06-18 01:23:52
+Customer 663,0100662,Restaurant/Café,Aggressive or Pushy,Once,ABA,4608.17,12M,"Street 119, Phnom Penh",11.5217460450466,104.8503695388782,Repeat visit,3:00 AM,,2025-06-22 01:23:52
+Customer 664,0100663,Restaurant/Café,Hard to Understand,Once,Wing,5598.59,6M,"Street 272, Phnom Penh",11.559322586424607,104.87881815487465,No answer,6:00 AM,,2025-05-26 01:23:52
+Customer 665,0100664,Street Food Stall,Skeptical or Distrustful,Never,ACLEDA,9711.93,6M,"Street 387, Phnom Penh",11.553583490787892,104.9377808826173,Need follow-up,2:00 AM,2025-06-23 01.03.04.jpg,2025-06-05 01:23:52
+Customer 666,0100665,Repair Services,Busy or in a Hurry,Never,ABA,3385.8,12M,"Street 464, Phnom Penh",11.582709692885366,104.93064532063191,Interested,3:00 AM,2025-06-23 01.02.07.jpg,2025-05-30 01:23:52
+Customer 667,0100666,Fashion & Clothing,Busy or in a Hurry,Many times,ABA,9267.9,18M,"Street 35, Phnom Penh",11.550913887954874,104.92575578360498,Repeat visit,8:00 AM,2025-06-23 01.02.34.jpg,2025-06-20 01:23:52
+Customer 668,0100667,Beauty Salon,Uninterested,Many times,Wing,5336.94,12M,"Street 66, Phnom Penh",11.561962361472577,104.86580689065208,Interested,10:00 AM,,2025-06-15 01:23:52
+Customer 669,0100668,Agriculture/Farming,Uninterested,Never,ABA,2802.6,12M,"Street 231, Phnom Penh",11.580441586864865,104.9253031926239,Repeat visit,5:00 AM,2025-06-23 01.02.19.jpg,2025-06-10 01:23:52
+Customer 670,0100669,Electronics & Appliances,Uninterested,Many times,ACLEDA,7034.99,18M,"Street 99, Phnom Penh",11.562199545308303,104.8691625571537,Interested,12:00 AM,2025-06-23 01.02.46.jpg,2025-05-27 01:23:52
+Customer 671,0100670,Tourism/Hospitality,Friendly and Open,Once,ABA,5708.16,24M,"Street 161, Phnom Penh",11.597920749179853,104.94884559026211,Interested,5:00 AM,,2025-06-22 01:23:52
+Customer 672,0100671,Restaurant/Café,Aggressive or Pushy,Many times,ACLEDA,5851.47,6M,"Street 456, Phnom Penh",11.587005175755008,104.9278031137568,Need follow-up,5:00 AM,,2025-06-05 01:23:52
+Customer 673,0100672,Beauty Salon,Talkative and Engaging,Never,ABA,5445.56,6M,"Street 155, Phnom Penh",11.58556127456411,104.94505993662843,Interested,4:00 AM,2025-06-23 01.02.46.jpg,2025-06-02 01:23:52
+Customer 674,0100673,Restaurant/Café,Quiet and Reserved,Many times,ACLEDA,2591.93,6M,"Street 417, Phnom Penh",11.520015889398893,104.94705548967517,Interested,1:00 AM,2025-06-23 01.05.23.jpg,2025-05-30 01:23:52
+Customer 675,0100674,Beauty Salon,Aggressive or Pushy,Once,None,1243.74,6M,"Street 312, Phnom Penh",11.594935754556575,104.90139253063033,Need follow-up,8:00 AM,,2025-06-11 01:23:52
+Customer 676,0100675,General Retail,Quiet and Reserved,Never,Cambodia Post Bank,903.46,18M,"Street 96, Phnom Penh",11.571006672775326,104.94258953591854,Interested,11:00 AM,,2025-06-03 01:23:52
+Customer 677,0100676,Street Food Stall,Quiet and Reserved,Many times,ABA,4124.7,12M,"Street 177, Phnom Penh",11.577425680682918,104.92414941817236,No answer,12:00 AM,2025-06-23 01.03.04.jpg,2025-06-01 01:23:52
+Customer 678,0100677,Agriculture/Farming,Interested but Cautious,Once,None,8726.38,12M,"Street 163, Phnom Penh",11.531520819065326,104.88259807870004,Interested,12:00 AM,,2025-06-16 01:23:52
+Customer 679,0100678,Fashion & Clothing,Uninterested,Never,ACLEDA,5587.15,12M,"Street 226, Phnom Penh",11.522893141365842,104.92194775188781,Repeat visit,9:00 AM,2025-06-23 01.03.23.jpg,2025-06-10 01:23:52
+Customer 680,0100679,Beauty Salon,Quiet and Reserved,Never,None,1989.21,24M,"Street 381, Phnom Penh",11.570118466378526,104.89054220391694,Need follow-up,12:00 AM,2025-06-23 01.03.23.jpg,2025-06-10 01:23:52
+Customer 681,0100680,Repair Services,Uninterested,Once,Wing,6845.37,12M,"Street 397, Phnom Penh",11.586591575202672,104.88421217242357,Need follow-up,11:00 AM,2025-06-23 01.02.27.jpg,2025-06-18 01:23:52
+Customer 682,0100681,Repair Services,Uninterested,Once,Cambodia Post Bank,6121.74,12M,"Street 347, Phnom Penh",11.527832327306962,104.93764888160175,Interested,8:00 AM,,2025-06-23 01:23:52
+Customer 683,0100682,General Retail,Friendly and Open,Once,Wing,6020.46,6M,"Street 394, Phnom Penh",11.528651510716058,104.94146110278527,No answer,9:00 AM,,2025-06-19 01:23:52
+Customer 684,0100683,Fashion & Clothing,Talkative and Engaging,Never,ACLEDA,8746.61,24M,"Street 261, Phnom Penh",11.527480598859599,104.93164499342888,Repeat visit,7:00 AM,,2025-06-09 01:23:52
+Customer 685,0100684,Repair Services,Interested but Cautious,Many times,ACLEDA,7036.66,6M,"Street 442, Phnom Penh",11.524193862776372,104.85151116033303,No answer,3:00 AM,,2025-06-23 01:23:52
+Customer 686,0100685,Tourism/Hospitality,Hard to Understand,Never,Cambodia Post Bank,7534.37,24M,"Street 187, Phnom Penh",11.56168847281772,104.8734167900283,Interested,11:00 AM,,2025-06-06 01:23:52
+Customer 687,0100686,General Retail,Very Welcoming,Once,None,8723.75,18M,"Street 402, Phnom Penh",11.558939401508168,104.85612780122673,No answer,11:00 AM,,2025-06-11 01:23:52
+Customer 688,0100687,Agriculture/Farming,Very Welcoming,Many times,Cambodia Post Bank,9829.78,18M,"Street 394, Phnom Penh",11.527075127421513,104.8571466581876,Repeat visit,11:00 AM,,2025-06-16 01:23:52
+Customer 689,0100688,Fashion & Clothing,Uninterested,Never,ACLEDA,1033.53,6M,"Street 431, Phnom Penh",11.56990521944243,104.92206153581638,No answer,10:00 AM,,2025-06-17 01:23:52
+Customer 690,0100689,General Retail,Hard to Understand,Many times,None,8009.21,6M,"Street 42, Phnom Penh",11.595166612168603,104.91257200846019,Interested,1:00 AM,,2025-06-14 01:23:52
+Customer 691,0100690,Fashion & Clothing,Aggressive or Pushy,Never,ABA,6565.13,18M,"Street 88, Phnom Penh",11.577779778964219,104.85755095737862,No answer,5:00 AM,,2025-06-05 01:23:52
+Customer 692,0100691,Electronics & Appliances,Busy or in a Hurry,Never,None,5364.57,24M,"Street 248, Phnom Penh",11.529038535084968,104.91657192501131,Repeat visit,7:00 AM,,2025-06-07 01:23:52
+Customer 693,0100692,General Retail,Aggressive or Pushy,Never,Cambodia Post Bank,7500.49,6M,"Street 195, Phnom Penh",11.584263149569834,104.91396449980881,Need follow-up,2:00 AM,,2025-06-15 01:23:52
+Customer 694,0100693,Fashion & Clothing,Aggressive or Pushy,Never,ABA,1264.9,18M,"Street 24, Phnom Penh",11.524909838015983,104.92939552403185,Repeat visit,4:00 AM,,2025-05-28 01:23:52
+Customer 695,0100694,Street Food Stall,Quiet and Reserved,Once,None,3193.69,12M,"Street 363, Phnom Penh",11.532040139612645,104.85075561680175,Interested,4:00 AM,,2025-06-12 01:23:52
+Customer 696,0100695,Fashion & Clothing,Talkative and Engaging,Many times,ABA,5548.54,24M,"Street 250, Phnom Penh",11.58650529856436,104.9135455990174,Repeat visit,10:00 AM,2025-06-23 01.03.04.jpg,2025-06-20 01:23:52
+Customer 697,0100696,Repair Services,Talkative and Engaging,Never,None,4626.44,12M,"Street 340, Phnom Penh",11.52625491397973,104.88153233864793,No answer,5:00 AM,,2025-05-24 01:23:52
+Customer 698,0100697,Agriculture/Farming,Busy or in a Hurry,Many times,ABA,5901.49,6M,"Street 371, Phnom Penh",11.576123729098168,104.9416190569142,Repeat visit,1:00 AM,,2025-06-06 01:23:52
+Customer 699,0100698,Tourism/Hospitality,Interested but Cautious,Many times,Cambodia Post Bank,8025.24,18M,"Street 42, Phnom Penh",11.539948518938264,104.8738780110624,Interested,4:00 AM,,2025-05-28 01:23:52
+Customer 700,0100699,Tourism/Hospitality,Uninterested,Once,ACLEDA,3427.67,6M,"Street 325, Phnom Penh",11.581430086492784,104.91450842042626,Interested,4:00 AM,,2025-06-12 01:23:52
+Customer 701,0100700,Fashion & Clothing,Very Welcoming,Never,ABA,7029.58,24M,"Street 478, Phnom Penh",11.589457897188431,104.85687305371516,Interested,5:00 AM,,2025-06-04 01:23:52
+Customer 702,0100701,Electronics & Appliances,Quiet and Reserved,Once,ABA,6767.79,12M,"Street 133, Phnom Penh",11.53768186389059,104.91044222728151,Repeat visit,4:00 AM,,2025-06-14 01:23:52
+Customer 703,0100702,Agriculture/Farming,Aggressive or Pushy,Once,ACLEDA,7515.06,18M,"Street 329, Phnom Penh",11.575232718242619,104.8884631284389,Need follow-up,4:00 AM,,2025-06-11 01:23:52
+Customer 704,0100703,Agriculture/Farming,Very Welcoming,Many times,Cambodia Post Bank,8970.22,18M,"Street 492, Phnom Penh",11.572141051720378,104.90810733544828,Need follow-up,10:00 AM,,2025-06-13 01:23:52
+Customer 705,0100704,General Retail,Uninterested,Once,ACLEDA,893.73,24M,"Street 450, Phnom Penh",11.55548706424928,104.92624935528279,No answer,11:00 AM,,2025-06-12 01:23:52
+Customer 706,0100705,General Retail,Uninterested,Once,None,1841.26,18M,"Street 413, Phnom Penh",11.566386965796488,104.9217284200347,Repeat visit,8:00 AM,,2025-05-27 01:23:52
+Customer 707,0100706,Fashion & Clothing,Aggressive or Pushy,Many times,ACLEDA,1281.81,18M,"Street 322, Phnom Penh",11.565259841149564,104.94884647714771,Repeat visit,10:00 AM,,2025-06-19 01:23:52
+Customer 708,0100707,Agriculture/Farming,Skeptical or Distrustful,Once,ACLEDA,3058.06,12M,"Street 463, Phnom Penh",11.562318837858419,104.92769473027823,Need follow-up,11:00 AM,,2025-06-05 01:23:52
+Customer 709,0100708,Agriculture/Farming,Interested but Cautious,Once,ACLEDA,2322.75,12M,"Street 251, Phnom Penh",11.591341790639582,104.94701796766635,Need follow-up,5:00 AM,20250615_214300.jpeg,2025-06-17 01:23:52
+Customer 710,0100709,Agriculture/Farming,Busy or in a Hurry,Many times,ACLEDA,1090.53,18M,"Street 19, Phnom Penh",11.56860674693478,104.86351549726568,Interested,10:00 AM,,2025-06-06 01:23:52
+Customer 711,0100710,Restaurant/Café,Skeptical or Distrustful,Once,ABA,4968.12,24M,"Street 338, Phnom Penh",11.546834329954747,104.90192620043108,No answer,12:00 AM,2025-06-23 01.04.08.jpg,2025-06-18 01:23:52
+Customer 712,0100711,Agriculture/Farming,Aggressive or Pushy,Many times,ACLEDA,5686.06,12M,"Street 315, Phnom Penh",11.582547359106208,104.87225982999608,Interested,4:00 AM,2025-06-23 01.03.23.jpg,2025-06-20 01:23:52
+Customer 713,0100712,Restaurant/Café,Uninterested,Never,Cambodia Post Bank,3728.7,24M,"Street 33, Phnom Penh",11.567189788642393,104.93883511535246,No answer,11:00 AM,2025-06-23 01.02.07.jpg,2025-06-08 01:23:52
+Customer 714,0100713,Street Food Stall,Talkative and Engaging,Never,ACLEDA,3802.42,18M,"Street 114, Phnom Penh",11.581635672910807,104.9036604684438,Repeat visit,7:00 AM,,2025-05-28 01:23:52
+Customer 715,0100714,Repair Services,Uninterested,Once,ACLEDA,6360.26,18M,"Street 192, Phnom Penh",11.529791591735714,104.92504301726356,Need follow-up,7:00 AM,,2025-05-25 01:23:52
+Customer 716,0100715,Tourism/Hospitality,Hard to Understand,Many times,ACLEDA,4242.07,12M,"Street 183, Phnom Penh",11.548306677362934,104.8961940906735,Interested,5:00 AM,2025-06-23 01.02.19.jpg,2025-05-29 01:23:52
+Customer 717,0100716,Tourism/Hospitality,Busy or in a Hurry,Once,Cambodia Post Bank,5727.22,12M,"Street 371, Phnom Penh",11.588550515868011,104.91202917144231,Interested,12:00 AM,,2025-06-14 01:23:52
+Customer 718,0100717,Agriculture/Farming,Busy or in a Hurry,Never,ACLEDA,6173.34,12M,"Street 12, Phnom Penh",11.58906871785378,104.89854315301956,Repeat visit,12:00 AM,2025-06-23 01.02.34.jpg,2025-06-22 01:23:52
+Customer 719,0100718,Repair Services,Quiet and Reserved,Once,ABA,2764.9,18M,"Street 264, Phnom Penh",11.577310060032376,104.87172573669248,Need follow-up,12:00 AM,,2025-06-08 01:23:52
+Customer 720,0100719,Beauty Salon,Quiet and Reserved,Never,Cambodia Post Bank,9468.98,6M,"Street 266, Phnom Penh",11.539664261175545,104.92306117521508,Interested,3:00 AM,,2025-06-04 01:23:52
+Customer 721,0100720,Agriculture/Farming,Aggressive or Pushy,Once,ACLEDA,9818.67,6M,"Street 301, Phnom Penh",11.545466706394167,104.94381112339026,No answer,11:00 AM,,2025-06-22 01:23:52
+Customer 722,0100721,Repair Services,Interested but Cautious,Once,None,3308.36,12M,"Street 473, Phnom Penh",11.524298152688885,104.94772218618478,Repeat visit,11:00 AM,,2025-05-29 01:23:52
+Customer 723,0100722,Tourism/Hospitality,Very Welcoming,Many times,ABA,531.46,6M,"Street 223, Phnom Penh",11.583723580024387,104.85642865444466,Repeat visit,12:00 AM,,2025-06-02 01:23:52
+Customer 724,0100723,Tourism/Hospitality,Interested but Cautious,Many times,ABA,2587.46,18M,"Street 494, Phnom Penh",11.545442997128275,104.90546642674146,No answer,3:00 AM,,2025-06-06 01:23:52
+Customer 725,0100724,Beauty Salon,Uninterested,Many times,ACLEDA,8267.47,6M,"Street 247, Phnom Penh",11.533405534125075,104.8927059070134,No answer,2:00 AM,,2025-06-01 01:23:52
+Customer 726,0100725,General Retail,Hard to Understand,Many times,ACLEDA,5347.37,24M,"Street 243, Phnom Penh",11.567132030664721,104.92209843941235,Repeat visit,7:00 AM,,2025-06-17 01:23:52
+Customer 727,0100726,Agriculture/Farming,Uninterested,Never,ABA,4264.61,18M,"Street 52, Phnom Penh",11.559772431422362,104.87924930196468,Need follow-up,2:00 AM,,2025-06-13 01:23:52
+Customer 728,0100727,Street Food Stall,Friendly and Open,Once,Wing,5244.32,24M,"Street 8, Phnom Penh",11.522256983626034,104.91419674845416,Need follow-up,4:00 AM,,2025-06-22 01:23:52
+Customer 729,0100728,Restaurant/Café,Uninterested,Never,Wing,605.38,12M,"Street 17, Phnom Penh",11.592597692827036,104.87727576176626,Repeat visit,4:00 AM,,2025-06-22 01:23:52
+Customer 730,0100729,Repair Services,Skeptical or Distrustful,Never,None,8479.92,12M,"Street 183, Phnom Penh",11.580752172863747,104.94475718401492,Need follow-up,11:00 AM,,2025-06-05 01:23:52
+Customer 731,0100730,General Retail,Interested but Cautious,Many times,Cambodia Post Bank,9746.19,12M,"Street 210, Phnom Penh",11.521860523302568,104.85002429913335,Need follow-up,2:00 AM,2025-06-23 01.02.39.jpg,2025-06-23 01:23:52
+Customer 732,0100731,Repair Services,Quiet and Reserved,Never,None,7689.53,12M,"Street 204, Phnom Penh",11.57629847519853,104.93929377420888,Need follow-up,6:00 AM,,2025-06-16 01:23:52
+Customer 733,0100732,Beauty Salon,Very Welcoming,Many times,Wing,3450.62,6M,"Street 174, Phnom Penh",11.58478363819556,104.85168941611698,Need follow-up,11:00 AM,,2025-06-16 01:23:52
+Customer 734,0100733,Street Food Stall,Very Welcoming,Many times,Cambodia Post Bank,2184.3,24M,"Street 419, Phnom Penh",11.5545832602629,104.86870148201731,Interested,1:00 AM,,2025-05-29 01:23:52
+Customer 735,0100734,Fashion & Clothing,Talkative and Engaging,Many times,Wing,1668.83,18M,"Street 415, Phnom Penh",11.547349845320559,104.8740401562765,Repeat visit,5:00 AM,,2025-06-21 01:23:52
+Customer 736,0100735,Agriculture/Farming,Interested but Cautious,Many times,Cambodia Post Bank,8225.2,6M,"Street 98, Phnom Penh",11.530905439153532,104.9406095852076,No answer,5:00 AM,,2025-06-22 01:23:52
+Customer 737,0100736,Agriculture/Farming,Friendly and Open,Many times,ACLEDA,3089.62,12M,"Street 308, Phnom Penh",11.59817556775228,104.90527675952728,No answer,3:00 AM,,2025-05-30 01:23:52
+Customer 738,0100737,General Retail,Very Welcoming,Many times,ACLEDA,6050.66,18M,"Street 96, Phnom Penh",11.588620493580555,104.93323967525306,Need follow-up,10:00 AM,,2025-06-09 01:23:52
+Customer 739,0100738,Electronics & Appliances,Uninterested,Never,Wing,1867.55,18M,"Street 283, Phnom Penh",11.524229143478886,104.89849851515054,No answer,11:00 AM,,2025-06-11 01:23:52
+Customer 740,0100739,Electronics & Appliances,Talkative and Engaging,Many times,Cambodia Post Bank,8457.22,18M,"Street 248, Phnom Penh",11.532036456465232,104.8894455978951,Repeat visit,2:00 AM,2025-06-23 01.02.39.jpg,2025-06-14 01:23:52
+Customer 741,0100740,General Retail,Skeptical or Distrustful,Never,Wing,1440.67,18M,"Street 277, Phnom Penh",11.590549289492976,104.94689730615677,Need follow-up,6:00 AM,,2025-06-19 01:23:52
+Customer 742,0100741,Electronics & Appliances,Very Welcoming,Never,ABA,5969.06,18M,"Street 109, Phnom Penh",11.569848809880162,104.89350359789412,Repeat visit,12:00 AM,20250615_213943.jpeg,2025-06-22 01:23:52
+Customer 743,0100742,General Retail,Hard to Understand,Many times,None,7422.55,12M,"Street 332, Phnom Penh",11.545720155944004,104.890743166169,Interested,7:00 AM,,2025-06-14 01:23:52
+Customer 744,0100743,General Retail,Busy or in a Hurry,Never,ACLEDA,5975.74,6M,"Street 101, Phnom Penh",11.558061743052262,104.94048538805308,Repeat visit,3:00 AM,,2025-06-01 01:23:52
+Customer 745,0100744,General Retail,Talkative and Engaging,Never,Wing,1249.79,24M,"Street 63, Phnom Penh",11.582046027261338,104.93930528110428,Repeat visit,6:00 AM,,2025-06-13 01:23:52
+Customer 746,0100745,Street Food Stall,Hard to Understand,Many times,Cambodia Post Bank,2328.8,6M,"Street 393, Phnom Penh",11.524858857740305,104.91023900771278,No answer,6:00 AM,,2025-06-02 01:23:52
+Customer 747,0100746,Fashion & Clothing,Hard to Understand,Never,ACLEDA,4708.66,18M,"Street 250, Phnom Penh",11.584164161437652,104.89549285972438,Need follow-up,5:00 AM,,2025-06-22 01:23:52
+Customer 748,0100747,Street Food Stall,Hard to Understand,Never,Cambodia Post Bank,8261.58,12M,"Street 471, Phnom Penh",11.58832505922465,104.88444412855428,Need follow-up,9:00 AM,,2025-06-03 01:23:52
+Customer 749,0100748,Agriculture/Farming,Very Welcoming,Many times,ABA,884.04,12M,"Street 322, Phnom Penh",11.54171289612925,104.94966907570591,Need follow-up,10:00 AM,,2025-05-28 01:23:52
+Customer 750,0100749,Street Food Stall,Very Welcoming,Many times,Wing,4987.43,6M,"Street 66, Phnom Penh",11.535907016631764,104.93534636372333,No answer,5:00 AM,,2025-05-24 01:23:52
+Customer 751,0100750,Fashion & Clothing,Interested but Cautious,Once,ABA,5296.61,18M,"Street 372, Phnom Penh",11.595246927750084,104.92455127802158,Repeat visit,12:00 AM,2025-06-23 01.02.19.jpg,2025-06-01 01:23:52
+Customer 752,0100751,Fashion & Clothing,Hard to Understand,Many times,Cambodia Post Bank,6635.62,12M,"Street 217, Phnom Penh",11.527363404884426,104.892140333555,Interested,9:00 AM,,2025-05-29 01:23:52
+Customer 753,0100752,Restaurant/Café,Very Welcoming,Many times,None,7328.04,12M,"Street 440, Phnom Penh",11.543289444304962,104.87412237831576,Need follow-up,11:00 AM,2025-06-23 01.02.46.jpg,2025-06-13 01:23:52
+Customer 754,0100753,Agriculture/Farming,Interested but Cautious,Once,ACLEDA,1865.58,18M,"Street 176, Phnom Penh",11.597874966404575,104.8563177437134,No answer,5:00 AM,,2025-05-31 01:23:52
+Customer 755,0100754,Repair Services,Talkative and Engaging,Many times,ABA,7231.48,18M,"Street 455, Phnom Penh",11.555765728859015,104.88939980638405,Interested,2:00 AM,2025-06-23 01.04.26.jpg,2025-06-07 01:23:52
+Customer 756,0100755,Fashion & Clothing,Friendly and Open,Once,Cambodia Post Bank,7979.36,18M,"Street 254, Phnom Penh",11.582661062201714,104.93365273951582,Need follow-up,7:00 AM,,2025-06-18 01:23:52
+Customer 757,0100756,Fashion & Clothing,Talkative and Engaging,Once,ABA,6537.92,6M,"Street 36, Phnom Penh",11.557149484367004,104.86012830553626,Repeat visit,10:00 AM,,2025-05-24 01:23:52
+Customer 758,0100757,Street Food Stall,Skeptical or Distrustful,Many times,ACLEDA,9582.01,24M,"Street 87, Phnom Penh",11.587287622988699,104.87644481033377,Repeat visit,11:00 AM,,2025-05-28 01:23:52
+Customer 759,0100758,Agriculture/Farming,Quiet and Reserved,Many times,ACLEDA,2365.08,24M,"Street 384, Phnom Penh",11.520917195980825,104.87957937409868,Interested,7:00 AM,,2025-05-26 01:23:52
+Customer 760,0100759,Electronics & Appliances,Hard to Understand,Never,ACLEDA,4507.17,24M,"Street 376, Phnom Penh",11.551652315133628,104.9198681209008,Repeat visit,2:00 AM,,2025-06-16 01:23:52
+Customer 761,0100760,Fashion & Clothing,Skeptical or Distrustful,Many times,ABA,2479.45,18M,"Street 59, Phnom Penh",11.54027351086761,104.93659149633807,Repeat visit,2:00 AM,,2025-06-15 01:23:52
+Customer 762,0100761,Beauty Salon,Interested but Cautious,Once,Cambodia Post Bank,6468.9,24M,"Street 17, Phnom Penh",11.56112604185917,104.9400819698774,Need follow-up,5:00 AM,,2025-06-10 01:23:52
+Customer 763,0100762,Tourism/Hospitality,Very Welcoming,Once,ACLEDA,5054.41,12M,"Street 151, Phnom Penh",11.531770524529307,104.85601346554863,Need follow-up,3:00 AM,,2025-06-08 01:23:52
+Customer 764,0100763,Tourism/Hospitality,Busy or in a Hurry,Never,ABA,3923.3,24M,"Street 204, Phnom Penh",11.586732270073222,104.87259108078102,Need follow-up,11:00 AM,,2025-06-20 01:23:52
+Customer 765,0100764,Electronics & Appliances,Aggressive or Pushy,Many times,ABA,1143.03,24M,"Street 334, Phnom Penh",11.532897673509563,104.85364868805135,Repeat visit,12:00 AM,,2025-06-20 01:23:52
+Customer 766,0100765,Repair Services,Interested but Cautious,Many times,None,6345.44,18M,"Street 202, Phnom Penh",11.578800362916034,104.85550221356218,Need follow-up,6:00 AM,,2025-06-11 01:23:52
+Customer 767,0100766,Repair Services,Very Welcoming,Never,ABA,6806.91,24M,"Street 268, Phnom Penh",11.534184382893484,104.86225060141994,Need follow-up,12:00 AM,,2025-05-25 01:23:52
+Customer 768,0100767,Agriculture/Farming,Friendly and Open,Never,Cambodia Post Bank,3908.5,12M,"Street 406, Phnom Penh",11.580280071706385,104.92205130756166,No answer,3:00 AM,,2025-06-07 01:23:52
+Customer 769,0100768,Fashion & Clothing,Talkative and Engaging,Never,ABA,3930.99,24M,"Street 239, Phnom Penh",11.594568970922927,104.91150463233276,Need follow-up,8:00 AM,2025-06-23 01.02.46.jpg,2025-06-10 01:23:52
+Customer 770,0100769,Agriculture/Farming,Talkative and Engaging,Many times,Cambodia Post Bank,1215.49,18M,"Street 107, Phnom Penh",11.529262570939267,104.9167994692234,Need follow-up,8:00 AM,,2025-06-04 01:23:52
+Customer 771,0100770,General Retail,Uninterested,Many times,Cambodia Post Bank,4390.96,6M,"Street 187, Phnom Penh",11.596332743338923,104.88468783943397,Repeat visit,3:00 AM,,2025-06-17 01:23:52
+Customer 772,0100771,General Retail,Uninterested,Never,Cambodia Post Bank,4964.1,6M,"Street 153, Phnom Penh",11.558618759289644,104.85821658281387,Interested,9:00 AM,,2025-05-31 01:23:52
+Customer 773,0100772,Repair Services,Skeptical or Distrustful,Once,ABA,3867.84,24M,"Street 427, Phnom Penh",11.542370824291377,104.93310386874663,No answer,3:00 AM,,2025-05-31 01:23:52
+Customer 774,0100773,Tourism/Hospitality,Skeptical or Distrustful,Once,ACLEDA,5905.16,6M,"Street 26, Phnom Penh",11.547888034533257,104.9445029851796,No answer,9:00 AM,,2025-06-12 01:23:52
+Customer 775,0100774,Beauty Salon,Interested but Cautious,Many times,ABA,9021.34,6M,"Street 212, Phnom Penh",11.57790601197107,104.86946299834506,Interested,6:00 AM,,2025-06-10 01:23:52
+Customer 776,0100775,Beauty Salon,Interested but Cautious,Never,Wing,7136.92,24M,"Street 312, Phnom Penh",11.556323564235846,104.85043760146677,Need follow-up,2:00 AM,2025-06-23 01.03.04.jpg,2025-06-15 01:23:52
+Customer 777,0100776,Street Food Stall,Very Welcoming,Never,Wing,8828.33,18M,"Street 93, Phnom Penh",11.5830069822121,104.94018351285075,No answer,3:00 AM,,2025-06-05 01:23:52
+Customer 778,0100777,Electronics & Appliances,Busy or in a Hurry,Never,ACLEDA,1311.54,18M,"Street 194, Phnom Penh",11.536465368089315,104.86152536574612,Interested,11:00 AM,,2025-06-21 01:23:52
+Customer 779,0100778,Tourism/Hospitality,Uninterested,Once,ABA,3946.16,24M,"Street 452, Phnom Penh",11.586275618860858,104.86568784531981,No answer,4:00 AM,,2025-06-01 01:23:52
+Customer 780,0100779,Repair Services,Very Welcoming,Many times,ACLEDA,4709.2,24M,"Street 116, Phnom Penh",11.565241880914579,104.89058945113052,No answer,11:00 AM,2025-06-23 01.02.19.jpg,2025-06-17 01:23:52
+Customer 781,0100780,Repair Services,Talkative and Engaging,Never,ACLEDA,9418.25,24M,"Street 312, Phnom Penh",11.558650576769837,104.8653833298365,No answer,11:00 AM,,2025-06-13 01:23:52
+Customer 782,0100781,Tourism/Hospitality,Quiet and Reserved,Never,Cambodia Post Bank,2767.71,18M,"Street 88, Phnom Penh",11.557453877406969,104.9228466922638,Need follow-up,9:00 AM,,2025-06-05 01:23:52
+Customer 783,0100782,Electronics & Appliances,Busy or in a Hurry,Once,Wing,3628.74,6M,"Street 465, Phnom Penh",11.541837156447697,104.92818778871424,Interested,3:00 AM,,2025-06-18 01:23:52
+Customer 784,0100783,Beauty Salon,Skeptical or Distrustful,Once,Wing,9681.58,24M,"Street 163, Phnom Penh",11.553792397027172,104.87659251653015,Interested,10:00 AM,,2025-06-05 01:23:52
+Customer 785,0100784,Agriculture/Farming,Talkative and Engaging,Many times,ACLEDA,1377.15,18M,"Street 103, Phnom Penh",11.583991300640847,104.93658485600908,Repeat visit,7:00 AM,,2025-06-02 01:23:52
+Customer 786,0100785,Electronics & Appliances,Uninterested,Never,None,4009.05,24M,"Street 171, Phnom Penh",11.5509564535692,104.89196604955967,Interested,8:00 AM,,2025-06-17 01:23:52
+Customer 787,0100786,Tourism/Hospitality,Very Welcoming,Once,Cambodia Post Bank,9046.33,6M,"Street 101, Phnom Penh",11.53027302618213,104.88912874784403,Interested,4:00 AM,,2025-06-04 01:23:52
+Customer 788,0100787,Agriculture/Farming,Very Welcoming,Many times,ACLEDA,977.38,24M,"Street 250, Phnom Penh",11.577219462559961,104.89030477937746,Need follow-up,5:00 AM,,2025-06-18 01:23:52
+Customer 789,0100788,Agriculture/Farming,Talkative and Engaging,Never,ABA,4361.02,6M,"Street 285, Phnom Penh",11.581980883209418,104.91797720531208,Need follow-up,12:00 AM,,2025-06-03 01:23:52
+Customer 790,0100789,Fashion & Clothing,Talkative and Engaging,Many times,None,6025.63,6M,"Street 294, Phnom Penh",11.573118962822411,104.92809352166398,Need follow-up,8:00 AM,,2025-05-31 01:23:52
+Customer 791,0100790,Electronics & Appliances,Skeptical or Distrustful,Many times,None,9905.03,18M,"Street 384, Phnom Penh",11.554280992104017,104.8544427428304,Repeat visit,10:00 AM,,2025-06-12 01:23:52
+Customer 792,0100791,Beauty Salon,Talkative and Engaging,Never,Wing,6702.85,24M,"Street 309, Phnom Penh",11.545137317250159,104.92511838686158,Repeat visit,9:00 AM,2025-06-23 01.02.50.jpg,2025-05-24 01:23:52
+Customer 793,0100792,Street Food Stall,Skeptical or Distrustful,Never,ABA,6259.57,6M,"Street 163, Phnom Penh",11.576896987464426,104.91535013386635,Interested,4:00 AM,,2025-06-07 01:23:52
+Customer 794,0100793,General Retail,Talkative and Engaging,Many times,None,9483.02,24M,"Street 163, Phnom Penh",11.524594617131255,104.92141553663136,Repeat visit,1:00 AM,,2025-06-06 01:23:52
+Customer 795,0100794,Tourism/Hospitality,Hard to Understand,Many times,None,4572.73,18M,"Street 367, Phnom Penh",11.546283709803848,104.92481331176593,Need follow-up,4:00 AM,,2025-06-19 01:23:52
+Customer 796,0100795,Fashion & Clothing,Aggressive or Pushy,Once,None,5292.7,12M,"Street 444, Phnom Penh",11.562834664691797,104.94007377885848,Interested,5:00 AM,,2025-06-19 01:23:52
+Customer 797,0100796,Agriculture/Farming,Skeptical or Distrustful,Never,ABA,1394.44,12M,"Street 29, Phnom Penh",11.579452492648105,104.8836222306356,Interested,8:00 AM,,2025-06-18 01:23:52
+Customer 798,0100797,General Retail,Skeptical or Distrustful,Never,Cambodia Post Bank,9083.54,18M,"Street 412, Phnom Penh",11.598171772032032,104.90845604289329,No answer,1:00 AM,,2025-06-10 01:23:52
+Customer 799,0100798,Beauty Salon,Very Welcoming,Once,ACLEDA,6314.78,24M,"Street 77, Phnom Penh",11.57609750368118,104.9259510805905,Interested,12:00 AM,,2025-06-12 01:23:52
+Customer 800,0100799,Tourism/Hospitality,Friendly and Open,Once,None,8994.58,18M,"Street 255, Phnom Penh",11.57934518138793,104.90924653532706,Need follow-up,11:00 AM,2025-06-23 01.02.46.jpg,2025-06-11 01:23:52
+Customer 801,0100800,Electronics & Appliances,Talkative and Engaging,Many times,ABA,4248.53,18M,"Street 244, Phnom Penh",11.546121510000743,104.85737247084239,Need follow-up,2:00 AM,,2025-06-09 01:23:52
+Customer 802,0100801,Fashion & Clothing,Friendly and Open,Never,None,2834.74,18M,"Street 342, Phnom Penh",11.549049687590353,104.92372402692426,No answer,2:00 AM,,2025-06-19 01:23:52
+Customer 803,0100802,Street Food Stall,Interested but Cautious,Many times,ACLEDA,1190.58,24M,"Street 1, Phnom Penh",11.541074335056352,104.87701691336348,Interested,2:00 AM,,2025-06-18 01:23:52
+Customer 804,0100803,Agriculture/Farming,Busy or in a Hurry,Many times,Cambodia Post Bank,7097.78,6M,"Street 186, Phnom Penh",11.556091525796802,104.86161290028194,Need follow-up,6:00 AM,,2025-06-13 01:23:52
+Customer 805,0100804,Beauty Salon,Interested but Cautious,Once,ABA,3520.52,12M,"Street 292, Phnom Penh",11.52647357593416,104.86072244056854,Repeat visit,5:00 AM,,2025-05-28 01:23:52
+Customer 806,0100805,Street Food Stall,Very Welcoming,Once,ABA,5545.04,18M,"Street 482, Phnom Penh",11.536603196307045,104.86010348850503,No answer,1:00 AM,,2025-06-10 01:23:52
+Customer 807,0100806,General Retail,Friendly and Open,Never,Cambodia Post Bank,4163.45,6M,"Street 374, Phnom Penh",11.573522720398413,104.90229565455772,Need follow-up,4:00 AM,,2025-06-11 01:23:52
+Customer 808,0100807,Fashion & Clothing,Busy or in a Hurry,Once,Wing,2945.49,12M,"Street 468, Phnom Penh",11.568087014682051,104.85266667626556,Repeat visit,12:00 AM,,2025-06-22 01:23:52
+Customer 809,0100808,Electronics & Appliances,Hard to Understand,Many times,Cambodia Post Bank,9565.44,18M,"Street 210, Phnom Penh",11.540777005933403,104.93434215876545,Interested,3:00 AM,,2025-05-30 01:23:52
+Customer 810,0100809,General Retail,Friendly and Open,Many times,Wing,7315.95,24M,"Street 217, Phnom Penh",11.569487624696784,104.88923043852783,No answer,6:00 AM,,2025-06-07 01:23:52
+Customer 811,0100810,Restaurant/Café,Talkative and Engaging,Never,None,9769.47,12M,"Street 499, Phnom Penh",11.527466572468988,104.92695801225545,Need follow-up,8:00 AM,,2025-06-01 01:23:52
+Customer 812,0100811,Tourism/Hospitality,Busy or in a Hurry,Once,ACLEDA,6055.64,6M,"Street 310, Phnom Penh",11.562579965698625,104.91008121697517,Need follow-up,6:00 AM,,2025-06-23 01:23:52
+Customer 813,0100812,Fashion & Clothing,Busy or in a Hurry,Never,Cambodia Post Bank,5079.58,18M,"Street 143, Phnom Penh",11.552898105015036,104.8541563560484,Repeat visit,10:00 AM,,2025-05-29 01:23:52
+Customer 814,0100813,Restaurant/Café,Skeptical or Distrustful,Never,Wing,4406.81,6M,"Street 418, Phnom Penh",11.540581545971278,104.85713822494218,Need follow-up,6:00 AM,,2025-05-26 01:23:52
+Customer 815,0100814,Electronics & Appliances,Uninterested,Many times,Wing,4779.96,12M,"Street 88, Phnom Penh",11.537883800667696,104.8697847579616,Repeat visit,4:00 AM,,2025-06-08 01:23:52
+Customer 816,0100815,Beauty Salon,Very Welcoming,Once,Wing,3632.83,18M,"Street 461, Phnom Penh",11.548812976841216,104.93896974562854,Interested,12:00 AM,,2025-06-12 01:23:52
+Customer 817,0100816,Tourism/Hospitality,Interested but Cautious,Once,Cambodia Post Bank,4648.28,12M,"Street 119, Phnom Penh",11.560150304809405,104.85738717325259,Repeat visit,7:00 AM,,2025-06-02 01:23:52
+Customer 818,0100817,Fashion & Clothing,Very Welcoming,Many times,None,9343.59,24M,"Street 406, Phnom Penh",11.547424880567286,104.88831112642886,No answer,5:00 AM,,2025-06-05 01:23:52
+Customer 819,0100818,Beauty Salon,Friendly and Open,Once,ACLEDA,8989.93,18M,"Street 23, Phnom Penh",11.573099891476767,104.92414399533668,Need follow-up,1:00 AM,,2025-06-18 01:23:52
+Customer 820,0100819,Restaurant/Café,Friendly and Open,Many times,ACLEDA,7921.85,6M,"Street 46, Phnom Penh",11.582098229376774,104.8724311007598,Repeat visit,4:00 AM,,2025-05-29 01:23:52
+Customer 821,0100820,Tourism/Hospitality,Skeptical or Distrustful,Many times,ABA,3061.39,12M,"Street 73, Phnom Penh",11.538287074596575,104.88493753123585,Interested,8:00 AM,,2025-06-03 01:23:52
+Customer 822,0100821,Street Food Stall,Very Welcoming,Once,Wing,7874.86,6M,"Street 55, Phnom Penh",11.526797895170228,104.8876986302733,Need follow-up,5:00 AM,,2025-06-23 01:23:52
+Customer 823,0100822,General Retail,Quiet and Reserved,Many times,Cambodia Post Bank,9738.63,6M,"Street 229, Phnom Penh",11.577167421162326,104.9147460688611,Interested,1:00 AM,,2025-06-10 01:23:52
+Customer 824,0100823,Beauty Salon,Quiet and Reserved,Many times,Cambodia Post Bank,7952.74,6M,"Street 290, Phnom Penh",11.53031107489681,104.93393579276079,Interested,7:00 AM,,2025-05-25 01:23:52
+Customer 825,0100824,Electronics & Appliances,Talkative and Engaging,Once,Wing,9176.75,18M,"Street 212, Phnom Penh",11.599426600010643,104.90633657106484,Interested,10:00 AM,,2025-06-08 01:23:52
+Customer 826,0100825,Tourism/Hospitality,Talkative and Engaging,Many times,ACLEDA,1222.85,24M,"Street 262, Phnom Penh",11.54085972128729,104.92630831875512,No answer,5:00 AM,,2025-06-08 01:23:52
+Customer 827,0100826,Tourism/Hospitality,Friendly and Open,Once,ABA,7162.48,12M,"Street 262, Phnom Penh",11.548023454949522,104.91116030379722,Need follow-up,11:00 AM,,2025-06-23 01:23:52
+Customer 828,0100827,Repair Services,Interested but Cautious,Once,Wing,2293.06,12M,"Street 155, Phnom Penh",11.550817181132242,104.90913037796936,No answer,1:00 AM,,2025-06-12 01:23:52
+Customer 829,0100828,Beauty Salon,Busy or in a Hurry,Many times,ACLEDA,1949.34,12M,"Street 376, Phnom Penh",11.565975962263892,104.9152767193076,Repeat visit,5:00 AM,2025-06-23 01.02.27.jpg,2025-05-29 01:23:52
+Customer 830,0100829,Fashion & Clothing,Friendly and Open,Many times,Cambodia Post Bank,1881.23,18M,"Street 439, Phnom Penh",11.580921682073962,104.93688214147429,Repeat visit,6:00 AM,,2025-05-27 01:23:52
+Customer 831,0100830,Electronics & Appliances,Friendly and Open,Once,Cambodia Post Bank,9260.76,6M,"Street 357, Phnom Penh",11.56542197154688,104.89421301859457,Need follow-up,7:00 AM,,2025-06-10 01:23:52
+Customer 832,0100831,Restaurant/Café,Aggressive or Pushy,Once,ABA,7002.04,18M,"Street 412, Phnom Penh",11.527439366352908,104.92355104039692,Repeat visit,1:00 AM,,2025-06-06 01:23:52
+Customer 833,0100832,Repair Services,Hard to Understand,Once,ACLEDA,3335.79,24M,"Street 67, Phnom Penh",11.534173737512111,104.86154958424416,Repeat visit,10:00 AM,,2025-05-28 01:23:52
+Customer 834,0100833,Agriculture/Farming,Interested but Cautious,Never,ACLEDA,3777.69,6M,"Street 434, Phnom Penh",11.590101589460758,104.91831852259361,Need follow-up,1:00 AM,,2025-06-23 01:23:52
+Customer 835,0100834,Repair Services,Busy or in a Hurry,Once,Wing,6096.88,24M,"Street 313, Phnom Penh",11.575371890157381,104.91098470382053,No answer,4:00 AM,,2025-05-30 01:23:52
+Customer 836,0100835,Fashion & Clothing,Talkative and Engaging,Many times,Wing,3591.23,24M,"Street 329, Phnom Penh",11.566025869918112,104.9492567908354,Need follow-up,7:00 AM,,2025-06-14 01:23:52
+Customer 837,0100836,Tourism/Hospitality,Quiet and Reserved,Many times,None,7963.25,6M,"Street 270, Phnom Penh",11.591659257651024,104.88639928236827,Repeat visit,8:00 AM,,2025-05-24 01:23:52
+Customer 838,0100837,Beauty Salon,Hard to Understand,Once,Wing,1911.44,24M,"Street 156, Phnom Penh",11.578041539999452,104.93844699708593,Repeat visit,1:00 AM,,2025-06-11 01:23:52
+Customer 839,0100838,Street Food Stall,Aggressive or Pushy,Many times,ABA,6660.68,24M,"Street 226, Phnom Penh",11.546720170014574,104.90652668366764,Repeat visit,2:00 AM,,2025-06-18 01:23:52
+Customer 840,0100839,Beauty Salon,Busy or in a Hurry,Once,Wing,4694.9,24M,"Street 391, Phnom Penh",11.586859891686952,104.9152305505324,Repeat visit,11:00 AM,,2025-06-23 01:23:52
+Customer 841,0100840,Electronics & Appliances,Hard to Understand,Never,Wing,2555.04,24M,"Street 206, Phnom Penh",11.561391936973607,104.8699844645836,No answer,1:00 AM,,2025-05-31 01:23:52
+Customer 842,0100841,Fashion & Clothing,Busy or in a Hurry,Once,ABA,4362.81,6M,"Street 236, Phnom Penh",11.54150197712307,104.86504894217508,Repeat visit,10:00 AM,,2025-06-12 01:23:52
+Customer 843,0100842,Fashion & Clothing,Interested but Cautious,Once,Wing,5713.97,6M,"Street 413, Phnom Penh",11.577356364243817,104.92468848374963,Repeat visit,6:00 AM,2025-06-23 01.02.19.jpg,2025-06-12 01:23:52
+Customer 844,0100843,Agriculture/Farming,Hard to Understand,Once,None,8839.55,24M,"Street 471, Phnom Penh",11.598107254213357,104.87187076241057,Interested,10:00 AM,,2025-06-18 01:23:52
+Customer 845,0100844,Restaurant/Café,Busy or in a Hurry,Once,ABA,1638.8,12M,"Street 431, Phnom Penh",11.531778265102265,104.86315558290548,Need follow-up,4:00 AM,20250615_213943.jpeg,2025-06-03 01:23:52
+Customer 846,0100845,Agriculture/Farming,Talkative and Engaging,Many times,ABA,6956.76,6M,"Street 229, Phnom Penh",11.575709866754755,104.87030038299702,No answer,6:00 AM,2025-06-23 01.03.23.jpg,2025-06-11 01:23:52
+Customer 847,0100846,General Retail,Friendly and Open,Once,ACLEDA,1918.64,6M,"Street 475, Phnom Penh",11.5902276401559,104.8761101429756,Need follow-up,11:00 AM,,2025-06-19 01:23:52
+Customer 848,0100847,Beauty Salon,Aggressive or Pushy,Many times,Cambodia Post Bank,9049.37,6M,"Street 52, Phnom Penh",11.582075873927518,104.86496123105196,Interested,3:00 AM,20250615_214300.jpeg,2025-05-26 01:23:52
+Customer 849,0100848,Beauty Salon,Skeptical or Distrustful,Once,Wing,5191.75,24M,"Street 118, Phnom Penh",11.579940238375398,104.8940180058993,No answer,10:00 AM,,2025-06-20 01:23:52
+Customer 850,0100849,General Retail,Interested but Cautious,Once,ABA,9227.65,24M,"Street 429, Phnom Penh",11.571348043552497,104.92097807931007,Repeat visit,11:00 AM,,2025-05-30 01:23:52
+Customer 851,0100850,Tourism/Hospitality,Very Welcoming,Once,ACLEDA,5727.18,12M,"Street 456, Phnom Penh",11.566806093214192,104.92478908411942,Need follow-up,11:00 AM,,2025-05-24 01:23:52
+Customer 852,0100851,Street Food Stall,Very Welcoming,Once,ACLEDA,6017.05,12M,"Street 190, Phnom Penh",11.548847504459435,104.87981426137763,Need follow-up,4:00 AM,,2025-06-19 01:23:52
+Customer 853,0100852,Restaurant/Café,Uninterested,Many times,ACLEDA,6610.91,18M,"Street 44, Phnom Penh",11.57678213281215,104.8772453147367,Need follow-up,9:00 AM,,2025-06-07 01:23:52
+Customer 854,0100853,General Retail,Very Welcoming,Never,ACLEDA,3325.35,6M,"Street 184, Phnom Penh",11.569773711127489,104.9261383750661,Repeat visit,2:00 AM,2025-06-23 01.02.27.jpg,2025-06-21 01:23:52
+Customer 855,0100854,Street Food Stall,Hard to Understand,Once,None,1275.2,12M,"Street 461, Phnom Penh",11.521479593302665,104.89251357498766,Interested,8:00 AM,,2025-06-21 01:23:52
+Customer 856,0100855,Agriculture/Farming,Skeptical or Distrustful,Many times,None,4882.56,18M,"Street 380, Phnom Penh",11.5365248127396,104.93810176678593,Interested,8:00 AM,2025-06-23 01.04.26.jpg,2025-06-19 01:23:52
+Customer 857,0100856,Fashion & Clothing,Skeptical or Distrustful,Never,ACLEDA,762.99,12M,"Street 393, Phnom Penh",11.563486973207207,104.94508298454453,No answer,11:00 AM,,2025-06-15 01:23:52
+Customer 858,0100857,Agriculture/Farming,Talkative and Engaging,Never,Wing,7961.99,12M,"Street 174, Phnom Penh",11.589177217857921,104.8697521383538,Need follow-up,12:00 AM,,2025-05-26 01:23:52
+Customer 859,0100858,Street Food Stall,Hard to Understand,Many times,None,7341.3,18M,"Street 420, Phnom Penh",11.526864324235678,104.934126953405,No answer,12:00 AM,,2025-06-16 01:23:52
+Customer 860,0100859,Repair Services,Interested but Cautious,Never,ACLEDA,5923.93,18M,"Street 144, Phnom Penh",11.523628190085612,104.8737909949255,No answer,7:00 AM,,2025-06-13 01:23:52
+Customer 861,0100860,Electronics & Appliances,Uninterested,Never,Wing,2737.62,6M,"Street 342, Phnom Penh",11.550706015806078,104.93875170730034,Repeat visit,9:00 AM,,2025-06-04 01:23:52
+Customer 862,0100861,General Retail,Busy or in a Hurry,Once,ACLEDA,5471.47,6M,"Street 204, Phnom Penh",11.531254634915655,104.86715942628292,Need follow-up,1:00 AM,,2025-06-07 01:23:52
+Customer 863,0100862,Agriculture/Farming,Interested but Cautious,Many times,ABA,9509.16,6M,"Street 356, Phnom Penh",11.530713819139104,104.85887411192316,Repeat visit,8:00 AM,,2025-05-25 01:23:52
+Customer 864,0100863,Beauty Salon,Busy or in a Hurry,Once,ACLEDA,6855.36,6M,"Street 278, Phnom Penh",11.571855933927594,104.86024365994373,Repeat visit,3:00 AM,,2025-06-20 01:23:52
+Customer 865,0100864,Agriculture/Farming,Hard to Understand,Never,ABA,8722.33,12M,"Street 111, Phnom Penh",11.588007602909256,104.86287592693947,No answer,10:00 AM,,2025-06-12 01:23:52
+Customer 866,0100865,Street Food Stall,Quiet and Reserved,Never,Wing,9950.98,18M,"Street 182, Phnom Penh",11.52495957511736,104.89868591896796,Need follow-up,12:00 AM,,2025-05-31 01:23:52
+Customer 867,0100866,Agriculture/Farming,Friendly and Open,Once,ACLEDA,727.44,12M,"Street 142, Phnom Penh",11.547353832531817,104.88504061434166,Interested,9:00 AM,2025-06-23 01.05.23.jpg,2025-06-14 01:23:52
+Customer 868,0100867,Street Food Stall,Talkative and Engaging,Once,Wing,9277.09,12M,"Street 294, Phnom Penh",11.525530078844263,104.94477403035609,Interested,1:00 AM,,2025-06-18 01:23:52
+Customer 869,0100868,Fashion & Clothing,Quiet and Reserved,Many times,Cambodia Post Bank,9157.88,24M,"Street 432, Phnom Penh",11.595167281974163,104.92413955579332,Interested,4:00 AM,2025-06-23 01.02.50.jpg,2025-06-03 01:23:52
+Customer 870,0100869,Beauty Salon,Friendly and Open,Once,ACLEDA,5967.54,12M,"Street 461, Phnom Penh",11.531011001701819,104.87564650079086,Repeat visit,8:00 AM,,2025-06-23 01:23:52
+Customer 871,0100870,Fashion & Clothing,Busy or in a Hurry,Many times,ABA,3106.65,18M,"Street 16, Phnom Penh",11.54146553844531,104.86104598852926,No answer,7:00 AM,2025-06-23 01.02.07.jpg,2025-06-06 01:23:52
+Customer 872,0100871,Tourism/Hospitality,Busy or in a Hurry,Many times,Wing,2520.92,12M,"Street 260, Phnom Penh",11.587341379599632,104.89674239061706,No answer,12:00 AM,,2025-06-05 01:23:52
+Customer 873,0100872,Tourism/Hospitality,Interested but Cautious,Never,Cambodia Post Bank,1096.12,6M,"Street 127, Phnom Penh",11.58215889010182,104.90954558576571,No answer,6:00 AM,,2025-06-16 01:23:52
+Customer 874,0100873,Tourism/Hospitality,Aggressive or Pushy,Never,Cambodia Post Bank,7243.17,18M,"Street 352, Phnom Penh",11.592270408910174,104.91251220020642,Interested,7:00 AM,,2025-06-08 01:23:52
+Customer 875,0100874,Restaurant/Café,Interested but Cautious,Once,ACLEDA,7941.21,18M,"Street 469, Phnom Penh",11.58839700778059,104.8555830992527,No answer,1:00 AM,,2025-05-29 01:23:52
+Customer 876,0100875,Agriculture/Farming,Interested but Cautious,Once,ACLEDA,8011.3,12M,"Street 238, Phnom Penh",11.532675138451623,104.86814135485207,No answer,11:00 AM,20250615_213943.jpeg,2025-06-09 01:23:52
+Customer 877,0100876,Repair Services,Quiet and Reserved,Many times,ACLEDA,9348.92,18M,"Street 278, Phnom Penh",11.591405099025561,104.91212164675471,No answer,11:00 AM,,2025-06-23 01:23:52
+Customer 878,0100877,Electronics & Appliances,Aggressive or Pushy,Never,Cambodia Post Bank,2206.62,24M,"Street 87, Phnom Penh",11.53278647984181,104.88858891367967,Interested,3:00 AM,,2025-05-29 01:23:52
+Customer 879,0100878,Restaurant/Café,Uninterested,Once,Wing,3036.42,24M,"Street 138, Phnom Penh",11.585449437376509,104.87878103007142,No answer,5:00 AM,,2025-05-26 01:23:52
+Customer 880,0100879,Fashion & Clothing,Friendly and Open,Never,ACLEDA,2484.05,12M,"Street 485, Phnom Penh",11.543664459934618,104.93262508565641,Repeat visit,3:00 AM,,2025-06-09 01:23:52
+Customer 881,0100880,Fashion & Clothing,Talkative and Engaging,Never,Wing,4676.98,24M,"Street 36, Phnom Penh",11.545849430875696,104.8756972426993,No answer,7:00 AM,2025-06-23 01.02.39.jpg,2025-06-14 01:23:52
+Customer 882,0100881,General Retail,Quiet and Reserved,Once,ABA,3164.59,18M,"Street 107, Phnom Penh",11.53762631672786,104.93272720550937,No answer,3:00 AM,,2025-05-30 01:23:52
+Customer 883,0100882,Repair Services,Talkative and Engaging,Never,ACLEDA,1924.13,6M,"Street 170, Phnom Penh",11.597237590434027,104.94918550644262,Need follow-up,10:00 AM,,2025-06-06 01:23:52
+Customer 884,0100883,Street Food Stall,Interested but Cautious,Never,Cambodia Post Bank,8216.5,18M,"Street 206, Phnom Penh",11.5570091292824,104.87554367938621,Interested,11:00 AM,,2025-06-05 01:23:52
+Customer 885,0100884,Tourism/Hospitality,Very Welcoming,Many times,ACLEDA,6463.12,12M,"Street 233, Phnom Penh",11.59073089730805,104.88468759634355,Interested,11:00 AM,,2025-05-31 01:23:52
+Customer 886,0100885,Street Food Stall,Very Welcoming,Many times,ABA,7438.25,12M,"Street 93, Phnom Penh",11.524368901536977,104.89260280265566,No answer,5:00 AM,,2025-05-28 01:23:52
+Customer 887,0100886,General Retail,Hard to Understand,Never,None,8134.69,6M,"Street 217, Phnom Penh",11.56089539427716,104.86258086907009,Need follow-up,1:00 AM,,2025-06-12 01:23:52
+Customer 888,0100887,Repair Services,Skeptical or Distrustful,Once,ACLEDA,3805.0,24M,"Street 313, Phnom Penh",11.53823794364962,104.87622352061828,Interested,9:00 AM,,2025-05-28 01:23:52
+Customer 889,0100888,Fashion & Clothing,Hard to Understand,Many times,None,2802.9,18M,"Street 182, Phnom Penh",11.583406074896315,104.85305049375236,Interested,11:00 AM,,2025-05-31 01:23:52
+Customer 890,0100889,Beauty Salon,Quiet and Reserved,Once,ACLEDA,5712.8,24M,"Street 204, Phnom Penh",11.593758868730653,104.89155965584028,Interested,2:00 AM,2025-06-23 01.04.26.jpg,2025-06-11 01:23:52
+Customer 891,0100890,Repair Services,Aggressive or Pushy,Once,Wing,8032.72,12M,"Street 183, Phnom Penh",11.557946283887901,104.89317768635031,Interested,3:00 AM,,2025-06-05 01:23:52
+Customer 892,0100891,Agriculture/Farming,Friendly and Open,Never,Cambodia Post Bank,9100.01,24M,"Street 115, Phnom Penh",11.554686226094228,104.93054320589339,No answer,6:00 AM,2025-06-23 01.02.34.jpg,2025-06-09 01:23:52
+Customer 893,0100892,Fashion & Clothing,Friendly and Open,Many times,None,7075.1,12M,"Street 3, Phnom Penh",11.546215869525868,104.89695694415384,No answer,12:00 AM,,2025-05-27 01:23:52
+Customer 894,0100893,Beauty Salon,Talkative and Engaging,Never,Cambodia Post Bank,3426.1,18M,"Street 419, Phnom Penh",11.556417986944792,104.8537944927426,Interested,10:00 AM,2025-06-23 01.03.23.jpg,2025-06-04 01:23:52
+Customer 895,0100894,General Retail,Interested but Cautious,Never,ABA,4190.94,12M,"Street 138, Phnom Penh",11.548759220647955,104.94265560222466,Repeat visit,5:00 AM,,2025-06-08 01:23:52
+Customer 896,0100895,Street Food Stall,Friendly and Open,Many times,Cambodia Post Bank,7520.58,18M,"Street 383, Phnom Penh",11.546987109300696,104.8909004858715,Repeat visit,10:00 AM,,2025-06-09 01:23:52
+Customer 897,0100896,Restaurant/Café,Talkative and Engaging,Never,Wing,5561.33,6M,"Street 213, Phnom Penh",11.59860817203988,104.90961654398153,Need follow-up,1:00 AM,,2025-05-28 01:23:52
+Customer 898,0100897,Restaurant/Café,Interested but Cautious,Never,ABA,9102.6,12M,"Street 452, Phnom Penh",11.537592763331427,104.94539395637096,Need follow-up,9:00 AM,2025-06-23 01.02.50.jpg,2025-06-14 01:23:52
+Customer 899,0100898,Electronics & Appliances,Hard to Understand,Never,None,1278.44,24M,"Street 53, Phnom Penh",11.567056020865037,104.94688597458634,Interested,2:00 AM,,2025-06-18 01:23:52
+Customer 900,0100899,Repair Services,Quiet and Reserved,Once,ACLEDA,2778.78,6M,"Street 122, Phnom Penh",11.55485747383132,104.86314595936753,Need follow-up,1:00 AM,,2025-06-14 01:23:52
+Customer 901,0100900,Tourism/Hospitality,Busy or in a Hurry,Many times,Wing,7953.25,6M,"Street 446, Phnom Penh",11.555914302596205,104.89801479866027,Interested,6:00 AM,,2025-06-22 01:23:52
+Customer 902,0100901,General Retail,Interested but Cautious,Once,None,4159.95,12M,"Street 409, Phnom Penh",11.544025833289952,104.9032357114774,Repeat visit,8:00 AM,,2025-05-28 01:23:52
+Customer 903,0100902,General Retail,Interested but Cautious,Never,None,521.08,12M,"Street 378, Phnom Penh",11.523424956666638,104.93287654247345,Repeat visit,3:00 AM,2025-06-23 01.05.23.jpg,2025-06-10 01:23:52
+Customer 904,0100903,Electronics & Appliances,Talkative and Engaging,Many times,Wing,1045.03,18M,"Street 435, Phnom Penh",11.539331456740026,104.9025199404967,Repeat visit,12:00 AM,,2025-06-09 01:23:52
+Customer 905,0100904,Agriculture/Farming,Very Welcoming,Many times,ACLEDA,7082.53,12M,"Street 457, Phnom Penh",11.55411245509135,104.89922460265161,Repeat visit,11:00 AM,,2025-06-04 01:23:52
+Customer 906,0100905,Street Food Stall,Interested but Cautious,Once,None,5771.86,12M,"Street 341, Phnom Penh",11.576223845515942,104.86502631415249,Repeat visit,1:00 AM,,2025-05-26 01:23:52
+Customer 907,0100906,General Retail,Hard to Understand,Never,Wing,9762.93,24M,"Street 486, Phnom Penh",11.594698039527502,104.8940135496585,Repeat visit,9:00 AM,,2025-05-26 01:23:52
+Customer 908,0100907,Restaurant/Café,Uninterested,Once,None,3394.06,6M,"Street 194, Phnom Penh",11.53513163165854,104.90463064810692,Need follow-up,5:00 AM,,2025-06-05 01:23:52
+Customer 909,0100908,Electronics & Appliances,Aggressive or Pushy,Never,None,4451.67,24M,"Street 337, Phnom Penh",11.52972499309193,104.88188919822447,No answer,2:00 AM,,2025-05-30 01:23:52
+Customer 910,0100909,Street Food Stall,Friendly and Open,Many times,Wing,8471.43,12M,"Street 70, Phnom Penh",11.572215466514674,104.8818836285252,Repeat visit,7:00 AM,,2025-05-24 01:23:52
+Customer 911,0100910,Fashion & Clothing,Aggressive or Pushy,Never,Wing,7362.19,6M,"Street 161, Phnom Penh",11.541911371603824,104.91505207003327,Repeat visit,4:00 AM,,2025-06-14 01:23:52
+Customer 912,0100911,General Retail,Very Welcoming,Never,Wing,7666.36,6M,"Street 330, Phnom Penh",11.547988688970758,104.91137809942012,Repeat visit,12:00 AM,,2025-05-31 01:23:52
+Customer 913,0100912,Beauty Salon,Aggressive or Pushy,Many times,Wing,1616.27,24M,"Street 410, Phnom Penh",11.57802602419108,104.918338636177,Repeat visit,3:00 AM,,2025-05-30 01:23:52
+Customer 914,0100913,Tourism/Hospitality,Interested but Cautious,Once,Cambodia Post Bank,9633.58,12M,"Street 408, Phnom Penh",11.522658149012333,104.86772879478497,Repeat visit,12:00 AM,,2025-06-12 01:23:52
+Customer 915,0100914,General Retail,Interested but Cautious,Once,Wing,3371.53,12M,"Street 392, Phnom Penh",11.53311766857784,104.88007783725062,Interested,12:00 AM,,2025-06-05 01:23:52
+Customer 916,0100915,Agriculture/Farming,Hard to Understand,Never,Cambodia Post Bank,7392.61,18M,"Street 461, Phnom Penh",11.53131106263873,104.90094586696378,No answer,5:00 AM,,2025-05-26 01:23:52
+Customer 917,0100916,Fashion & Clothing,Uninterested,Never,ACLEDA,1377.15,24M,"Street 444, Phnom Penh",11.563556866726984,104.93600859421272,No answer,4:00 AM,,2025-06-03 01:23:52
+Customer 918,0100917,Repair Services,Uninterested,Never,ABA,8184.17,6M,"Street 19, Phnom Penh",11.590385058348195,104.87124719913915,Interested,12:00 AM,2025-06-23 01.03.53.jpg,2025-06-21 01:23:52
+Customer 919,0100918,Tourism/Hospitality,Talkative and Engaging,Never,None,6562.78,12M,"Street 371, Phnom Penh",11.570159061140243,104.9108725559552,Repeat visit,6:00 AM,2025-06-23 01.02.39.jpg,2025-06-08 01:23:52
+Customer 920,0100919,Beauty Salon,Aggressive or Pushy,Once,Wing,7228.95,6M,"Street 412, Phnom Penh",11.540553771315656,104.88552189567169,Interested,1:00 AM,20250615_213943.jpeg,2025-06-17 01:23:52
+Customer 921,0100920,Repair Services,Quiet and Reserved,Many times,Wing,8428.17,24M,"Street 394, Phnom Penh",11.599312297934626,104.90885885203535,No answer,12:00 AM,,2025-06-03 01:23:52
+Customer 922,0100921,Electronics & Appliances,Interested but Cautious,Many times,ABA,9273.06,6M,"Street 366, Phnom Penh",11.520658465077142,104.89033749444589,No answer,5:00 AM,,2025-06-17 01:23:52
+Customer 923,0100922,General Retail,Skeptical or Distrustful,Never,None,6789.41,24M,"Street 433, Phnom Penh",11.559883509900901,104.88338833685069,Repeat visit,8:00 AM,,2025-06-22 01:23:52
+Customer 924,0100923,Beauty Salon,Very Welcoming,Never,ABA,2208.21,18M,"Street 16, Phnom Penh",11.568528935938264,104.9285322722894,Need follow-up,1:00 AM,,2025-06-07 01:23:52
+Customer 925,0100924,Agriculture/Farming,Quiet and Reserved,Many times,Cambodia Post Bank,9029.4,12M,"Street 60, Phnom Penh",11.577471156256943,104.85562359162772,Need follow-up,1:00 AM,,2025-06-15 01:23:52
+Customer 926,0100925,Agriculture/Farming,Hard to Understand,Never,None,5433.24,18M,"Street 211, Phnom Penh",11.556854584271333,104.93323751873503,Need follow-up,7:00 AM,,2025-06-11 01:23:52
+Customer 927,0100926,Street Food Stall,Friendly and Open,Many times,ACLEDA,5514.76,12M,"Street 139, Phnom Penh",11.521591356740691,104.88497526712024,No answer,2:00 AM,20250615_214300.jpeg,2025-06-04 01:23:52
+Customer 928,0100927,Repair Services,Aggressive or Pushy,Never,ACLEDA,4054.21,18M,"Street 431, Phnom Penh",11.55041543645258,104.91647556917907,No answer,7:00 AM,2025-06-23 01.03.04.jpg,2025-05-27 01:23:52
+Customer 929,0100928,Tourism/Hospitality,Aggressive or Pushy,Once,Cambodia Post Bank,5952.84,12M,"Street 377, Phnom Penh",11.563152526540518,104.88142864597094,Need follow-up,7:00 AM,,2025-06-19 01:23:52
+Customer 930,0100929,Tourism/Hospitality,Quiet and Reserved,Once,None,7276.66,18M,"Street 324, Phnom Penh",11.596548294194283,104.9325050054559,Repeat visit,4:00 AM,,2025-06-18 01:23:52
+Customer 931,0100930,Beauty Salon,Uninterested,Many times,Cambodia Post Bank,3743.34,24M,"Street 44, Phnom Penh",11.542950981908888,104.90379153549372,Repeat visit,10:00 AM,,2025-06-23 01:23:52
+Customer 932,0100931,Street Food Stall,Talkative and Engaging,Many times,Wing,4095.3,18M,"Street 386, Phnom Penh",11.594249005146127,104.9021518838888,Interested,3:00 AM,,2025-06-09 01:23:52
+Customer 933,0100932,Beauty Salon,Friendly and Open,Many times,Cambodia Post Bank,5085.67,12M,"Street 238, Phnom Penh",11.567673543178811,104.93215413659338,Interested,12:00 AM,,2025-06-07 01:23:52
+Customer 934,0100933,Restaurant/Café,Interested but Cautious,Never,Wing,1687.32,18M,"Street 374, Phnom Penh",11.557683171792482,104.8578726278864,No answer,2:00 AM,,2025-06-20 01:23:52
+Customer 935,0100934,Street Food Stall,Interested but Cautious,Never,ABA,1926.07,12M,"Street 451, Phnom Penh",11.555848997824736,104.9008603989964,Need follow-up,6:00 AM,,2025-06-22 01:23:52
+Customer 936,0100935,Fashion & Clothing,Hard to Understand,Once,ABA,6056.91,24M,"Street 333, Phnom Penh",11.585121362452554,104.93363477563325,Repeat visit,10:00 AM,,2025-06-23 01:23:52
+Customer 937,0100936,Restaurant/Café,Quiet and Reserved,Once,Wing,6960.15,6M,"Street 292, Phnom Penh",11.522942433659725,104.87112714519043,No answer,9:00 AM,2025-06-23 01.04.08.jpg,2025-05-26 01:23:52
+Customer 938,0100937,Restaurant/Café,Interested but Cautious,Never,None,2420.53,24M,"Street 253, Phnom Penh",11.559007408577376,104.91316661909006,No answer,1:00 AM,,2025-05-26 01:23:52
+Customer 939,0100938,Fashion & Clothing,Hard to Understand,Never,Cambodia Post Bank,9405.79,24M,"Street 408, Phnom Penh",11.566545308924457,104.90683210517392,Need follow-up,5:00 AM,,2025-05-30 01:23:52
+Customer 940,0100939,Restaurant/Café,Interested but Cautious,Many times,None,952.64,6M,"Street 43, Phnom Penh",11.538371755890141,104.88235748753831,Need follow-up,5:00 AM,,2025-06-13 01:23:52
+Customer 941,0100940,Tourism/Hospitality,Quiet and Reserved,Once,Wing,6303.94,24M,"Street 85, Phnom Penh",11.53435486965307,104.87455436819894,No answer,4:00 AM,,2025-06-09 01:23:52
+Customer 942,0100941,Repair Services,Hard to Understand,Once,Wing,3089.53,18M,"Street 412, Phnom Penh",11.565636150558651,104.88379017864196,Repeat visit,2:00 AM,2025-06-23 01.01.50.jpg,2025-06-21 01:23:52
+Customer 943,0100942,General Retail,Uninterested,Never,ABA,3010.76,24M,"Street 54, Phnom Penh",11.545460033974704,104.89507242958345,Repeat visit,5:00 AM,,2025-06-11 01:23:52
+Customer 944,0100943,Electronics & Appliances,Very Welcoming,Once,Wing,9563.93,24M,"Street 62, Phnom Penh",11.570046251993432,104.94360817896175,No answer,6:00 AM,,2025-06-03 01:23:52
+Customer 945,0100944,Tourism/Hospitality,Busy or in a Hurry,Many times,None,6792.13,6M,"Street 114, Phnom Penh",11.536275273363955,104.92152170761057,No answer,5:00 AM,,2025-06-13 01:23:52
+Customer 946,0100945,Street Food Stall,Aggressive or Pushy,Many times,None,1269.86,6M,"Street 99, Phnom Penh",11.53275401712687,104.89361427328855,Interested,12:00 AM,,2025-05-27 01:23:52
+Customer 947,0100946,Repair Services,Interested but Cautious,Many times,Cambodia Post Bank,9345.56,18M,"Street 489, Phnom Penh",11.57637300525364,104.94009502604813,No answer,1:00 AM,,2025-06-17 01:23:52
+Customer 948,0100947,Repair Services,Hard to Understand,Many times,None,4905.95,6M,"Street 57, Phnom Penh",11.57666229081019,104.86438085060804,Repeat visit,7:00 AM,,2025-06-10 01:23:52
+Customer 949,0100948,Electronics & Appliances,Very Welcoming,Never,ACLEDA,6353.53,18M,"Street 372, Phnom Penh",11.554332353852855,104.94732341989263,Need follow-up,6:00 AM,,2025-06-13 01:23:52
+Customer 950,0100949,Fashion & Clothing,Busy or in a Hurry,Never,ACLEDA,3960.38,12M,"Street 425, Phnom Penh",11.524732549600028,104.89313869337045,No answer,6:00 AM,,2025-06-20 01:23:52
+Customer 951,0100950,Tourism/Hospitality,Interested but Cautious,Many times,None,8194.26,24M,"Street 67, Phnom Penh",11.59633612286142,104.91418189487476,No answer,1:00 AM,,2025-06-11 01:23:52
+Customer 952,0100951,Agriculture/Farming,Aggressive or Pushy,Many times,Wing,7993.64,24M,"Street 212, Phnom Penh",11.568452282547957,104.86065888181406,Repeat visit,12:00 AM,,2025-06-09 01:23:52
+Customer 953,0100952,Street Food Stall,Aggressive or Pushy,Never,None,7724.85,18M,"Street 276, Phnom Penh",11.577693227529505,104.86599528620812,Need follow-up,7:00 AM,,2025-06-13 01:23:52
+Customer 954,0100953,Street Food Stall,Skeptical or Distrustful,Many times,Wing,8622.82,12M,"Street 239, Phnom Penh",11.566268988706895,104.85372386251709,No answer,11:00 AM,,2025-06-20 01:23:52
+Customer 955,0100954,Fashion & Clothing,Uninterested,Many times,Wing,5203.37,18M,"Street 79, Phnom Penh",11.569404951009329,104.94494523431241,Need follow-up,4:00 AM,2025-06-23 01.02.07.jpg,2025-06-10 01:23:52
+Customer 956,0100955,Restaurant/Café,Uninterested,Once,Cambodia Post Bank,8712.28,18M,"Street 379, Phnom Penh",11.549254266625724,104.87887973154699,Repeat visit,4:00 AM,,2025-06-14 01:23:52
+Customer 957,0100956,Electronics & Appliances,Very Welcoming,Many times,ACLEDA,2066.78,18M,"Street 306, Phnom Penh",11.550892943377855,104.94316312117807,Need follow-up,5:00 AM,,2025-06-23 01:23:52
+Customer 958,0100957,General Retail,Aggressive or Pushy,Never,None,9950.14,24M,"Street 364, Phnom Penh",11.52495894582329,104.87752726613648,Need follow-up,7:00 AM,,2025-06-09 01:23:52
+Customer 959,0100958,Beauty Salon,Uninterested,Never,ACLEDA,1717.1,12M,"Street 301, Phnom Penh",11.524325224200439,104.88490156548494,Interested,6:00 AM,,2025-06-14 01:23:52
+Customer 960,0100959,Street Food Stall,Aggressive or Pushy,Once,ABA,7482.14,24M,"Street 358, Phnom Penh",11.562411179510999,104.89155641898422,Need follow-up,5:00 AM,,2025-05-27 01:23:52
+Customer 961,0100960,Fashion & Clothing,Uninterested,Many times,Wing,2503.3,6M,"Street 143, Phnom Penh",11.526970689521223,104.87755480806236,Need follow-up,9:00 AM,,2025-06-10 01:23:52
+Customer 962,0100961,Street Food Stall,Skeptical or Distrustful,Never,ABA,3497.88,6M,"Street 216, Phnom Penh",11.566494831325041,104.85568112568536,No answer,7:00 AM,,2025-05-24 01:23:52
+Customer 963,0100962,Tourism/Hospitality,Very Welcoming,Many times,Wing,1949.11,18M,"Street 288, Phnom Penh",11.569483756750145,104.85953592928841,Interested,10:00 AM,,2025-06-18 01:23:52
+Customer 964,0100963,Tourism/Hospitality,Interested but Cautious,Many times,Wing,7787.46,6M,"Street 353, Phnom Penh",11.526965845146258,104.9418075581561,Interested,3:00 AM,,2025-05-30 01:23:52
+Customer 965,0100964,Tourism/Hospitality,Uninterested,Once,ACLEDA,4228.42,6M,"Street 378, Phnom Penh",11.543622890326807,104.9371356276004,Need follow-up,12:00 AM,,2025-06-20 01:23:52
+Customer 966,0100965,Restaurant/Café,Hard to Understand,Many times,Cambodia Post Bank,3518.11,18M,"Street 392, Phnom Penh",11.559339774274315,104.87388447049887,No answer,8:00 AM,,2025-06-18 01:23:52
+Customer 967,0100966,Fashion & Clothing,Hard to Understand,Many times,None,4208.81,18M,"Street 330, Phnom Penh",11.58394971936385,104.91384869068698,No answer,12:00 AM,,2025-06-12 01:23:52
+Customer 968,0100967,Agriculture/Farming,Busy or in a Hurry,Once,ABA,8070.23,12M,"Street 126, Phnom Penh",11.52802096380826,104.85094466702675,No answer,2:00 AM,,2025-06-09 01:23:52
+Customer 969,0100968,General Retail,Talkative and Engaging,Once,ACLEDA,8199.31,24M,"Street 250, Phnom Penh",11.548748251856914,104.89578390731074,Need follow-up,1:00 AM,,2025-05-28 01:23:52
+Customer 970,0100969,Repair Services,Aggressive or Pushy,Never,Cambodia Post Bank,9279.61,6M,"Street 13, Phnom Penh",11.576093021958483,104.85696826632517,Repeat visit,2:00 AM,,2025-06-23 01:23:52
+Customer 971,0100970,Fashion & Clothing,Interested but Cautious,Once,Cambodia Post Bank,2009.03,24M,"Street 434, Phnom Penh",11.583278695670659,104.89614828777422,Repeat visit,8:00 AM,,2025-05-25 01:23:52
+Customer 972,0100971,Repair Services,Busy or in a Hurry,Once,ACLEDA,4739.75,12M,"Street 396, Phnom Penh",11.597672606291978,104.85053435911827,Repeat visit,11:00 AM,,2025-06-20 01:23:52
+Customer 973,0100972,Fashion & Clothing,Busy or in a Hurry,Never,Cambodia Post Bank,5284.37,18M,"Street 419, Phnom Penh",11.5649481756916,104.85357690350291,Need follow-up,9:00 AM,,2025-06-11 01:23:52
+Customer 974,0100973,Restaurant/Café,Interested but Cautious,Once,Wing,6513.62,12M,"Street 118, Phnom Penh",11.520732929508705,104.9317160561794,Repeat visit,5:00 AM,,2025-05-25 01:23:52
+Customer 975,0100974,General Retail,Uninterested,Once,None,5978.17,6M,"Street 323, Phnom Penh",11.538681292922677,104.88549044040396,Need follow-up,3:00 AM,,2025-06-16 01:23:52
+Customer 976,0100975,Tourism/Hospitality,Quiet and Reserved,Once,ACLEDA,9811.5,18M,"Street 364, Phnom Penh",11.562509823522856,104.94470854068946,Interested,6:00 AM,,2025-06-13 01:23:52
+Customer 977,0100976,Repair Services,Quiet and Reserved,Once,ABA,9874.97,18M,"Street 55, Phnom Penh",11.56797540851372,104.94335598187078,Repeat visit,11:00 AM,,2025-06-12 01:23:52
+Customer 978,0100977,Repair Services,Talkative and Engaging,Once,Cambodia Post Bank,8084.57,12M,"Street 310, Phnom Penh",11.533470172467734,104.88723980928624,Repeat visit,7:00 AM,,2025-06-22 01:23:52
+Customer 979,0100978,Fashion & Clothing,Hard to Understand,Never,ABA,2471.34,6M,"Street 46, Phnom Penh",11.550640649689193,104.93350329842167,Interested,3:00 AM,,2025-06-23 01:23:52
+Customer 980,0100979,Restaurant/Café,Busy or in a Hurry,Once,None,2064.85,12M,"Street 488, Phnom Penh",11.531661565862027,104.88388948322925,Interested,1:00 AM,2025-06-23 01.02.39.jpg,2025-06-01 01:23:52
+Customer 981,0100980,General Retail,Quiet and Reserved,Once,None,3992.72,6M,"Street 231, Phnom Penh",11.528250633079958,104.87390575362033,No answer,9:00 AM,2025-06-23 01.01.50.jpg,2025-05-29 01:23:52
+Customer 982,0100981,General Retail,Busy or in a Hurry,Many times,Wing,6996.68,6M,"Street 167, Phnom Penh",11.549710579221268,104.94153823789662,Interested,7:00 AM,,2025-06-18 01:23:52
+Customer 983,0100982,Street Food Stall,Interested but Cautious,Once,Cambodia Post Bank,2620.68,12M,"Street 162, Phnom Penh",11.59298779543851,104.90480458543833,No answer,3:00 AM,,2025-05-27 01:23:52
+Customer 984,0100983,General Retail,Friendly and Open,Many times,ABA,6212.83,6M,"Street 26, Phnom Penh",11.577474159731818,104.8574668491698,No answer,5:00 AM,,2025-06-21 01:23:52
+Customer 985,0100984,Street Food Stall,Interested but Cautious,Never,None,6017.12,6M,"Street 111, Phnom Penh",11.54414983704871,104.90897603208256,No answer,11:00 AM,,2025-05-29 01:23:52
+Customer 986,0100985,Fashion & Clothing,Skeptical or Distrustful,Never,None,5130.04,12M,"Street 92, Phnom Penh",11.536778901402613,104.93179414984549,Interested,12:00 AM,,2025-06-06 01:23:52
+Customer 987,0100986,Tourism/Hospitality,Interested but Cautious,Once,Cambodia Post Bank,6595.35,18M,"Street 227, Phnom Penh",11.586441438398255,104.91966024980364,Interested,1:00 AM,,2025-06-10 01:23:52
+Customer 988,0100987,Restaurant/Café,Quiet and Reserved,Many times,None,3029.8,12M,"Street 433, Phnom Penh",11.56617614331843,104.90757561496366,Repeat visit,3:00 AM,2025-06-23 01.04.26.jpg,2025-05-30 01:23:52
+Customer 989,0100988,Agriculture/Farming,Quiet and Reserved,Many times,Cambodia Post Bank,7401.98,24M,"Street 26, Phnom Penh",11.568954576209622,104.91187210739497,Interested,6:00 AM,,2025-06-06 01:23:52
+Customer 990,0100989,Repair Services,Interested but Cautious,Many times,ABA,6310.61,12M,"Street 296, Phnom Penh",11.578031478697778,104.9235032714403,Need follow-up,7:00 AM,,2025-06-01 01:23:52
+Customer 991,0100990,Fashion & Clothing,Very Welcoming,Many times,Cambodia Post Bank,3638.06,6M,"Street 240, Phnom Penh",11.539709879553977,104.87955088304507,Repeat visit,4:00 AM,2025-06-23 01.04.26.jpg,2025-06-12 01:23:52
+Customer 992,0100991,Agriculture/Farming,Hard to Understand,Never,None,549.55,6M,"Street 84, Phnom Penh",11.532524891024218,104.94457519931628,No answer,5:00 AM,,2025-06-11 01:23:52
+Customer 993,0100992,Restaurant/Café,Uninterested,Once,ACLEDA,6077.84,12M,"Street 357, Phnom Penh",11.544658116148575,104.85608193179954,No answer,8:00 AM,,2025-06-03 01:23:52
+Customer 994,0100993,Fashion & Clothing,Aggressive or Pushy,Never,ABA,2843.44,12M,"Street 482, Phnom Penh",11.53453786365572,104.92038455493226,No answer,1:00 AM,2025-06-23 01.02.46.jpg,2025-05-28 01:23:52
+Customer 995,0100994,Beauty Salon,Uninterested,Never,None,9913.32,6M,"Street 264, Phnom Penh",11.540273201313738,104.94737369784178,Interested,10:00 AM,,2025-06-01 01:23:52
+Customer 996,0100995,Tourism/Hospitality,Hard to Understand,Once,Cambodia Post Bank,670.46,24M,"Street 386, Phnom Penh",11.539053503570749,104.87709299133148,Repeat visit,9:00 AM,,2025-05-29 01:23:52
+Customer 997,0100996,Restaurant/Café,Skeptical or Distrustful,Never,Wing,2122.8,24M,"Street 401, Phnom Penh",11.52084613179109,104.87781601414615,No answer,3:00 AM,,2025-06-12 01:23:52
+Customer 998,0100997,Repair Services,Skeptical or Distrustful,Never,Cambodia Post Bank,7335.93,24M,"Street 231, Phnom Penh",11.549476746650832,104.89092896139941,Interested,2:00 AM,2025-06-23 01.04.26.jpg,2025-05-29 01:23:52
+Customer 999,0100998,Restaurant/Café,Quiet and Reserved,Never,ABA,5131.22,24M,"Street 183, Phnom Penh",11.564313897451743,104.89947234771276,Need follow-up,4:00 AM,,2025-06-18 01:23:52
+Customer 1000,0100999,Restaurant/Café,Uninterested,Once,None,5678.51,12M,"Street 190, Phnom Penh",11.558374801368494,104.92047253417974,Need follow-up,11:00 AM,,2025-06-08 01:23:52
